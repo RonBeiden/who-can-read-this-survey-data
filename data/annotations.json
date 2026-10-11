@@ -1,0 +1,2992 @@
+[
+  {
+    "annotation_id": "A001",
+    "participant_id": "P032",
+    "abstract_id": "abs1",
+    "jargon_level": 2,
+    "jargon_score": null,
+    "explanation_original": "eugenic; and the historical background ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A002",
+    "participant_id": "P046",
+    "abstract_id": "abs1",
+    "jargon_level": 1,
+    "jargon_score": 20.0,
+    "explanation_original": "Eugenics, eugenic policies, involuntary sterilization, coerced sterilization, genetic history, public health, Nazi eugenics, minority groups, and the historical context of reproductive rights.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A003",
+    "participant_id": "P033",
+    "abstract_id": "abs1",
+    "jargon_level": 1,
+    "jargon_score": 27.0,
+    "explanation_original": "Historical eugenics, immigration restriction, sterilization laws, involuntary sterilization, Nazi eugenics, vulnerable populations, minority groups, and reproductive autonomy.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A004",
+    "participant_id": "P035",
+    "abstract_id": "abs1",
+    "jargon_level": 1,
+    "jargon_score": 33.0,
+    "explanation_original": "eugenics; involuntary sterilization; immigration restriction; public policy; Nazi eugenics; reproductive coercion; minority groups",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A005",
+    "participant_id": "P041",
+    "abstract_id": "abs1",
+    "jargon_level": 1,
+    "jargon_score": 21.0,
+    "explanation_original": "eugenics, coerced sterilization, genetics and society, reproductive ethics, historical public health policy, Nazi eugenics, minority rights, medical autonomy",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A006",
+    "participant_id": "P002",
+    "abstract_id": "abs1",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "eugenics, population history, public health, genetic policy, coerced sterilization, medical ethics, social determinants",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A007",
+    "participant_id": "P026",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "טקסט עם הרבה מונחים ספציפיים ורלוונטים לתחום מי שלא מכיר כנראה שלא יבין את המינוחים",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A008",
+    "participant_id": "P057",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": 66.0,
+    "explanation_original": "low-rank transformation of the recurrent layer weight matrix, neural language models, embedding, RNN, perplexity.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A009",
+    "participant_id": "P008",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": 71.0,
+    "explanation_original": "Embedding, RNN, low-rank transformation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A010",
+    "participant_id": "P061",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": 81.0,
+    "explanation_original": "contxt aware language model, neural languge models, low rank transformer, RNN, preplixity (its not clear wither its the prplixity that used for evaluating the LLM or another term) and even if its that one not every expert use and know it. ",
+    "explanation_context_reviewed": "context-aware language model, neural language models, low-rank transformation, RNN, perplexity (its not clear wither its the perplexity that used for evaluating the LLM or another term) and even if its that one not every expert use and know it. ",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A011",
+    "participant_id": "P067",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": null,
+    "explanation_original": "embedding; RNN;",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A012",
+    "participant_id": "P018",
+    "abstract_id": "abs2",
+    "jargon_level": 3,
+    "jargon_score": 90.0,
+    "explanation_original": "context-aware language model;\nembedding and it is given to the RNN as an additional input;\ncontext vector control a low-rank transformation of the recurrent layer weight matrix;",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A013",
+    "participant_id": "P030",
+    "abstract_id": "abs2",
+    "jargon_level": 4,
+    "jargon_score": 85.0,
+    "explanation_original": "A high-level MS student could understand this. Concepts such as embeddings, RNNs, recurrent layer weight matrix are highly specialized.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A014",
+    "participant_id": "P025",
+    "abstract_id": "abs3",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "Hierarchy, corpora, sprite",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A015",
+    "participant_id": "P065",
+    "abstract_id": "abs3",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "Topic models\nPredictive tasks\nIncorporate stractures into model priors\n\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A016",
+    "participant_id": "P037",
+    "abstract_id": "abs3",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "hierarchies, correlations, supervision, predictive tasks",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A017",
+    "participant_id": "P064",
+    "abstract_id": "abs3",
+    "jargon_level": 2,
+    "jargon_score": 56.0,
+    "explanation_original": "topic models, structured priors, factorizations, correlations, supervision, inference, predictive tasks",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A018",
+    "participant_id": "P059",
+    "abstract_id": "abs3",
+    "jargon_level": 3,
+    "jargon_score": null,
+    "explanation_original": "hieratchies\nfactorizations\ncorrelactions\nsupervision",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A019",
+    "participant_id": "P010",
+    "abstract_id": "abs4",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "Navier-Stokes equations,Particle Hydrodynamics, SPH , dissipative, micropolar materials , viscous, turbulent, microrotation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A020",
+    "participant_id": "P006",
+    "abstract_id": "abs4",
+    "jargon_level": 4,
+    "jargon_score": 95.0,
+    "explanation_original": "micropolar material model, turbulent inviscid fluids, Smoothed Particle Hydrodynamics, numerical diffusion, lower vorticity, Navier-Stokes equations, microstructure, linear velocity, viscous, dissipative, non-dissipative coupling, momentum conserving, computational overhead, turbulent liquids, post-processing method, microrotation, foam particle generation\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A021",
+    "participant_id": "P039",
+    "abstract_id": "abs4",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "micropolar, turbulent inviscid fluids",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A022",
+    "participant_id": "P046",
+    "abstract_id": "abs5",
+    "jargon_level": 2,
+    "jargon_score": 41.0,
+    "explanation_original": "Human biospecimens, HeLa cells, Henrietta Lacks, research ethics, informed consent, public opinion, biospecimen policy, autonomy, regulatory change, and equitable access to research benefits.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A023",
+    "participant_id": "P033",
+    "abstract_id": "abs5",
+    "jargon_level": 1,
+    "jargon_score": 31.0,
+    "explanation_original": "HeLa cells, Henrietta Lacks, biospecimen research, informed consent, public participation, regulatory policy, autonomy, shared benefits, and ethical governance.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A024",
+    "participant_id": "P035",
+    "abstract_id": "abs5",
+    "jargon_level": 1,
+    "jargon_score": 31.0,
+    "explanation_original": "human biospecimens; Henrietta Lacks; HeLa cells; informed consent; public input; research access; autonomy; ethics and policy",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A025",
+    "participant_id": "P041",
+    "abstract_id": "abs5",
+    "jargon_level": 2,
+    "jargon_score": 36.0,
+    "explanation_original": "biospecimen research, HeLa cells, Henrietta Lacks, informed consent, research ethics, public participation, autonomy, benefit sharing, regulatory policy",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A026",
+    "participant_id": "P002",
+    "abstract_id": "abs5",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "biospecimens, informed consent, HeLa cells, research ethics, public input, autonomy, regulatory policy, equitable access to research benefits",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A027",
+    "participant_id": "P046",
+    "abstract_id": "abs6",
+    "jargon_level": 2,
+    "jargon_score": 60.0,
+    "explanation_original": "Genome editing, programmable nucleases, next-generation sequencing (NGS), CRISPR-Cas9, mutation frequencies, Cas-Analyzer, client-side JavaScript, and paired nucleases.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A028",
+    "participant_id": "P033",
+    "abstract_id": "abs6",
+    "jargon_level": 2,
+    "jargon_score": 53.0,
+    "explanation_original": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation-frequency analysis, Cas-Analyzer, browser-based client-side tools, and single versus paired nucleases.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A029",
+    "participant_id": "P035",
+    "abstract_id": "abs6",
+    "jargon_level": 2,
+    "jargon_score": 56.0,
+    "explanation_original": "CRISPR-Cas9; programmable nucleases; NGS mutation frequencies; Cas-Analyzer; client-side JavaScript; genome-editing data analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A030",
+    "participant_id": "P041",
+    "abstract_id": "abs6",
+    "jargon_level": 2,
+    "jargon_score": 49.0,
+    "explanation_original": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation frequencies, genome editing, client-side analysis, JavaScript implementation, single nuclease, paired nuclease",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A031",
+    "participant_id": "P002",
+    "abstract_id": "abs6",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation frequency analysis, client-side computation, genome editing, paired nucleases",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A032",
+    "participant_id": "P026",
+    "abstract_id": "abs7",
+    "jargon_level": 3,
+    "jargon_score": 71.0,
+    "explanation_original": "מינוחים מקצועיים טקסט מורכב, אבל ברמה שכן אפשרי להבין",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A033",
+    "participant_id": "P057",
+    "abstract_id": "abs7",
+    "jargon_level": 3,
+    "jargon_score": 75.0,
+    "explanation_original": "grammar formalisms like CCG, TAG, LFG, HPSG; lambda calculus; neo-Davidsonian logical forms; semantic parsing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A034",
+    "participant_id": "P008",
+    "abstract_id": "abs7",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "Ccg tag lfg hpsg, syntactic structures, neo davidsonian",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A035",
+    "participant_id": "P061",
+    "abstract_id": "abs7",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "CCG, TAG, LFG, HPFG",
+    "explanation_context_reviewed": "CCG, TAG, LFG, HPSG",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A036",
+    "participant_id": "P067",
+    "abstract_id": "abs7",
+    "jargon_level": 4,
+    "jargon_score": null,
+    "explanation_original": "CCG, TAG, LFG, HPSG",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A037",
+    "participant_id": "P018",
+    "abstract_id": "abs7",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "CCG, TAG, LFG and HPSG;\nsemantic logical forms;\nlambda calculus for deriving neo-Davidsonian logical forms from dependency trees;\nCCG-based representation.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A038",
+    "participant_id": "P030",
+    "abstract_id": "abs7",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "In 2016, a high-level Masters student in Computational Linguistics may have understood this paragraph. However, nowadays, only people rigorously trained in this field would have known the various grammars CCG, TAG, LFG and HPSG, lambda calculus and neo-Davidsonian forms.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A039",
+    "participant_id": "P026",
+    "abstract_id": "abs8",
+    "jargon_level": 3,
+    "jargon_score": 32.0,
+    "explanation_original": "יש פה מונחים וניסוח שמצריך הבנה בנושאים ספציפיים. ניסוח מורכב יחסית",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A040",
+    "participant_id": "P057",
+    "abstract_id": "abs8",
+    "jargon_level": 2,
+    "jargon_score": 35.0,
+    "explanation_original": "Stemmers, Porter stemmer, topic modeling, English corpora, likelihood, coherence, model stability, entropy.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A041",
+    "participant_id": "P008",
+    "abstract_id": "abs8",
+    "jargon_level": 1,
+    "jargon_score": 60.0,
+    "explanation_original": "Corpora, stemmer, stemming algorithms, degrade topic stability",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A042",
+    "participant_id": "P061",
+    "abstract_id": "abs8",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "stemmer, corpora, stemming and even for experts i think they usually use corpus not corpora.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A043",
+    "participant_id": "P067",
+    "abstract_id": "abs8",
+    "jargon_level": 3,
+    "jargon_score": null,
+    "explanation_original": "Porter stemmer, English corpora, topic modeling",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A044",
+    "participant_id": "P018",
+    "abstract_id": "abs8",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "Rule-based stemmers; Porter stemmer; preprocess English corpora for topic modeling; we train and evaluate topic models on a variety of corpora using several different stemming algorithms. We examine several different quantitative measures of the resulting models, including likelihood, coherence, model stability, and entropy. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A045",
+    "participant_id": "P030",
+    "abstract_id": "abs8",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "There are several concepts that are not widely known, e.g., stemmers, topic models, model stability, entropy.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A046",
+    "participant_id": "P010",
+    "abstract_id": "abs9",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "Object-Oriented Ontology, Agential Realism, paradigm , paradigm , re-framing, accountabilities, responsibilities , ethical encounters ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A047",
+    "participant_id": "P006",
+    "abstract_id": "abs9",
+    "jargon_level": 4,
+    "jargon_score": 85.0,
+    "explanation_original": "entanglement, neuro-implants, cyberphysical systems, ontological uncertainties, epistemological diffusion, post-humanism, relational ontologies, Entanglement HCI, Actor-Network Theory, Post-Phenomenology, Object-Oriented Ontology, Agential Realism, knowledge generation processes, user-centred design",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A048",
+    "participant_id": "P039",
+    "abstract_id": "abs9",
+    "jargon_level": 3,
+    "jargon_score": 71.0,
+    "explanation_original": "ontological uncertainties, Entanglement ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A049",
+    "participant_id": "P010",
+    "abstract_id": "abs10",
+    "jargon_level": 3,
+    "jargon_score": 69.0,
+    "explanation_original": "naïve, salient , predicting , backstory , patterns, phenomenon, novice",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A050",
+    "participant_id": "P006",
+    "abstract_id": "abs10",
+    "jargon_level": 2,
+    "jargon_score": 15.0,
+    "explanation_original": "visualization, visual salience",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A051",
+    "participant_id": "P039",
+    "abstract_id": "abs10",
+    "jargon_level": 2,
+    "jargon_score": 60.0,
+    "explanation_original": "salience, plagues \n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A052",
+    "participant_id": "P011",
+    "abstract_id": "abs11",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "Multiplexed, multi-channel microscopy… only people in this particular subfield will understand these terms ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A053",
+    "participant_id": "P060",
+    "abstract_id": "abs11",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "Way too much buzzword bingo. Requires specific knowledge of bio and math concepts. Very poor writing style. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A054",
+    "participant_id": "P022",
+    "abstract_id": "abs11",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "unsupervised and supervised learning\nhigh-dimensional multi-channel\nmicroscopy images",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A055",
+    "participant_id": "P055",
+    "abstract_id": "abs11",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "single-cell phenotypes in high-dimensional multi-channel microscopy images of human tumors and tissues",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A056",
+    "participant_id": "P062",
+    "abstract_id": "abs11",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "Single cell phenotypes, multiplexed microscopy, digital histology, supervised and unsupervised learning, analytical provenance, clustering, convolutional neural networks, phenotype trees, cancer and immune cell identification, pathologist in the loop analysis.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A057",
+    "participant_id": "P010",
+    "abstract_id": "abs12",
+    "jargon_level": 2,
+    "jargon_score": 70.0,
+    "explanation_original": "AR , immersive , prompter,  flashcard-based , augmented, scored , same-day , recall, sustained",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A058",
+    "participant_id": "P006",
+    "abstract_id": "abs12",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "user study, within-subjects, recall tests",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A059",
+    "participant_id": "P039",
+    "abstract_id": "abs12",
+    "jargon_level": 1,
+    "jargon_score": 40.0,
+    "explanation_original": "both more effective and more enjoyable for the majority of participants",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A060",
+    "participant_id": "P044",
+    "abstract_id": "abs12",
+    "jargon_level": 2,
+    "jargon_score": 41.0,
+    "explanation_original": "augmented reality, immersive vocabulary learning, within subjects study design, flashcard comparison, productive recall, delayed recall, learning effectiveness and enjoyment",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A061",
+    "participant_id": "P046",
+    "abstract_id": "abs13",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "Antigenic variation, homologous recombination, three-dimensional genome architecture, chromatin conformation, DNA accessibility, haplotype-specific assembly, Trypanosoma brucei, Hi-C, subtelomeric regions, ATAC-seq, single-cell RNA sequencing, histone variants H3.V/H4.V, and antigen-gene switching.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A062",
+    "participant_id": "P033",
+    "abstract_id": "abs13",
+    "jargon_level": 3,
+    "jargon_score": 85.0,
+    "explanation_original": "Antigenic variation, immune evasion, homologous recombination, genome architecture, chromatin accessibility, Trypanosoma brucei, Hi-C, subtelomeric compartments, ATAC-seq, single-cell RNA-seq, and histone variants.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A063",
+    "participant_id": "P035",
+    "abstract_id": "abs13",
+    "jargon_level": 4,
+    "jargon_score": 95.0,
+    "explanation_original": "antigenic variation; immune evasion; homologous recombination; Trypanosoma brucei; Hi-C genome architecture; histone variants; chromatin accessibility; single-cell sequencing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A064",
+    "participant_id": "P041",
+    "abstract_id": "abs13",
+    "jargon_level": 3,
+    "jargon_score": 89.0,
+    "explanation_original": "antigenic variation, immune evasion, homologous recombination, Trypanosoma brucei, long-read assembly, Hi-C chromatin contacts, subtelomeric compartments, histone variants, ATAC-seq, single-cell RNA sequencing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A065",
+    "participant_id": "P002",
+    "abstract_id": "abs13",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "antigenic variation, homologous recombination, haplotype-specific assembly, long-read sequencing, Hi-C, chromatin architecture, histone variants, ATAC-seq, single-cell RNA sequencing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A066",
+    "participant_id": "P025",
+    "abstract_id": "abs14",
+    "jargon_level": 2,
+    "jargon_score": 85.0,
+    "explanation_original": "Bias, F1, syntactic structure ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A067",
+    "participant_id": "P065",
+    "abstract_id": "abs14",
+    "jargon_level": 3,
+    "jargon_score": 77.0,
+    "explanation_original": "F1\nNatural language\nCorpora\nModels\nBaseline",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A068",
+    "participant_id": "P037",
+    "abstract_id": "abs14",
+    "jargon_level": 3,
+    "jargon_score": 40.0,
+    "explanation_original": "baselines, corpus",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A069",
+    "participant_id": "P064",
+    "abstract_id": "abs14",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "coreference resolution, ambiguous pronouns, natural language understanding, gender bias, corpus, GAP dataset, neural models, F1 score",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A070",
+    "participant_id": "P059",
+    "abstract_id": "abs14",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "gap\nnatural - language\n ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A071",
+    "participant_id": "P025",
+    "abstract_id": "abs15",
+    "jargon_level": 2,
+    "jargon_score": 54.0,
+    "explanation_original": "Back propagation,recall,o(n^3)",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A072",
+    "participant_id": "P065",
+    "abstract_id": "abs15",
+    "jargon_level": 3,
+    "jargon_score": 86.0,
+    "explanation_original": "Parser\nRecall\nEdges\nO(n3)\nRuntime\nBack propogation\nGradients\n\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A073",
+    "participant_id": "P037",
+    "abstract_id": "abs15",
+    "jargon_level": 4,
+    "jargon_score": 81.0,
+    "explanation_original": "O(n3), loopy CRFs",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A074",
+    "participant_id": "P064",
+    "abstract_id": "abs15",
+    "jargon_level": 3,
+    "jargon_score": 81.0,
+    "explanation_original": "dependency parsing, higher order interactions, cubic runtime, posterior distributions, loopy belief propagations, structures factors, gradient based training, back propagation, differentiable circuits, loop CRFs, conditional log likelihood ",
+    "explanation_context_reviewed": "dependency parsing, higher order interactions, cubic runtime, posterior distributions, loopy belief propagations, structured factors, gradient based training, back propagation, differentiable circuits, loopy CRFs, conditional log likelihood ",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A075",
+    "participant_id": "P059",
+    "abstract_id": "abs15",
+    "jargon_level": 3,
+    "jargon_score": 39.0,
+    "explanation_original": "crfs\ngradient",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A076",
+    "participant_id": "P023",
+    "abstract_id": "abs16",
+    "jargon_level": 3,
+    "jargon_score": 40.0,
+    "explanation_original": "antimicrobial peptides, bacteriocins, host-defense peptides, peptide activity, post-translational modifications, amino-acid profiles, peptide classification and prediction",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A077",
+    "participant_id": "P015",
+    "abstract_id": "abs16",
+    "jargon_level": 3,
+    "jargon_score": 63.0,
+    "explanation_original": "antimicrobial peptides (AMPs); APD3 database; peptide sequences and activity; bacteriocins; host-defense peptides; peptide classification; post-translational modifications; pathogen annotations",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A078",
+    "participant_id": "P056",
+    "abstract_id": "abs16",
+    "jargon_level": 2,
+    "jargon_score": 59.0,
+    "explanation_original": "antimicrobial peptides; APD3; bacteriocins; host-defense peptides; peptide activity; amino-acid signatures; pathogen targets; post-translational modifications",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A079",
+    "participant_id": "P024",
+    "abstract_id": "abs16",
+    "jargon_level": 2,
+    "jargon_score": 46.0,
+    "explanation_original": "antimicrobial peptides, peptide sequence databases, activity annotations, pathogen targets, post-translational modifications, amino acid signatures, peptide classification, computational prediction",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A080",
+    "participant_id": "P054",
+    "abstract_id": "abs16",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "AMP, APD/APD3 database, bacteriocins, peptide sequence activity relationship, post translational modifications, antibacterial\\antiviral\\antifungal activity, peptide classification and prediction, molecular targets ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A081",
+    "participant_id": "P012",
+    "abstract_id": "abs16",
+    "jargon_level": 4,
+    "jargon_score": 92.0,
+    "explanation_original": "science-specific acronyms like APD3, APD, AMPs, ...",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A082",
+    "participant_id": "P046",
+    "abstract_id": "abs17",
+    "jargon_level": 3,
+    "jargon_score": 81.0,
+    "explanation_original": "Single-cell whole-genome amplification (WGA), DOP-PCR, MDA, MALBAC, genome coverage, uniformity, reproducibility, chimera rates, allele dropout, false positives, copy-number variations, deep sequencing, CTCs, PGD, and PGS.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A083",
+    "participant_id": "P033",
+    "abstract_id": "abs17",
+    "jargon_level": 3,
+    "jargon_score": 75.0,
+    "explanation_original": "Whole-genome amplification, DOP-PCR, MDA, MALBAC, single-cell genomics, genome coverage, amplification bias, allele dropout, chimera formation, copy-number variation, and clinical genomics applications.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A084",
+    "participant_id": "P035",
+    "abstract_id": "abs17",
+    "jargon_level": 3,
+    "jargon_score": 79.0,
+    "explanation_original": "single-cell genomics; whole-genome amplification; DOP-PCR; MDA; MALBAC; genome coverage; allele dropout; sequencing bias; copy-number variation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A085",
+    "participant_id": "P041",
+    "abstract_id": "abs17",
+    "jargon_level": 3,
+    "jargon_score": 79.0,
+    "explanation_original": "single-cell whole-genome amplification, DOP-PCR, MDA, MALBAC, genome coverage, amplification bias, allele dropout, chimeras, false positives, copy-number variation, deep sequencing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A086",
+    "participant_id": "P002",
+    "abstract_id": "abs17",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "single-cell genomics, whole-genome amplification, MDA, MALBAC, genome coverage, allele dropout, chimera rates, variant calling, copy-number variation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A087",
+    "participant_id": "P011",
+    "abstract_id": "abs18",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "BCI, ICA, architecture, classification… you have to know machine learning to understand what this means",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A088",
+    "participant_id": "P060",
+    "abstract_id": "abs18",
+    "jargon_level": 3,
+    "jargon_score": 72.0,
+    "explanation_original": "Brain interfaces are a complex and subtle topic. Also have to understand the math issues. Too many acronyms and the writing style is poor. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A089",
+    "participant_id": "P022",
+    "abstract_id": "abs18",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "Independent Component Analysis\nminimum distance classification\ninteraction modality\nWachspress coordinate interpolation\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A090",
+    "participant_id": "P055",
+    "abstract_id": "abs18",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "Tיק 'יםךק אקסאת קסשצפךק: CLBCI is based on minimum distance classification with Independent Component Analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A091",
+    "participant_id": "P062",
+    "abstract_id": "abs18",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "Brain computer interfaces, co learning, user feedback, minimum distance classification, independent component analysis, classification outcome visualization, Wachspress coordinate interpolation, training time, interaction modality, user performance.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A092",
+    "participant_id": "P026",
+    "abstract_id": "abs19",
+    "jargon_level": 1,
+    "jargon_score": 8.0,
+    "explanation_original": "טקסט לא מורכב אפשר להבין אותו בצורה פשוטה ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A093",
+    "participant_id": "P057",
+    "abstract_id": "abs19",
+    "jargon_level": 1,
+    "jargon_score": 10.0,
+    "explanation_original": "The abstract is written in very general terms with no technical details or complex terminology.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A094",
+    "participant_id": "P008",
+    "abstract_id": "abs19",
+    "jargon_level": 2,
+    "jargon_score": 30.0,
+    "explanation_original": "Natural language generation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A095",
+    "participant_id": "P061",
+    "abstract_id": "abs19",
+    "jargon_level": 2,
+    "jargon_score": 30.0,
+    "explanation_original": "natural language generation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A096",
+    "participant_id": "P067",
+    "abstract_id": "abs19",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "Unclear things - commented upon; willing to pay hard cash;",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A097",
+    "participant_id": "P018",
+    "abstract_id": "abs19",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "natural language generation, ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A098",
+    "participant_id": "P030",
+    "abstract_id": "abs19",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "All the words are simple, and the connecting ideas are clear.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A099",
+    "participant_id": "P066",
+    "abstract_id": "abs19",
+    "jargon_level": 1,
+    "jargon_score": 16.0,
+    "explanation_original": "natural language generation, commercial software, industry adoption, current applications, market participants, and future development",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A100",
+    "participant_id": "P023",
+    "abstract_id": "abs20",
+    "jargon_level": 3,
+    "jargon_score": 40.0,
+    "explanation_original": "sgRNA, CRISPR-Cas9, crRNA-tracrRNA duplex, RNA polymerase III pause signal, knockout efficiency, genome editing, non-coding genes",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A101",
+    "participant_id": "P015",
+    "abstract_id": "abs20",
+    "jargon_level": 3,
+    "jargon_score": 76.0,
+    "explanation_original": "CRISPR-Cas9; single-guide RNA (sgRNA); crRNA–tracrRNA duplex; RNA polymerase III pause signal; knockout efficiency; genome editing; gene deletion; non-coding genes",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A102",
+    "participant_id": "P056",
+    "abstract_id": "abs20",
+    "jargon_level": 3,
+    "jargon_score": 74.0,
+    "explanation_original": "CRISPR-Cas9; sgRNA architecture; crRNA–tracrRNA duplex; RNA polymerase III termination; thymine tract; knockout efficiency; gene deletion",
+    "explanation_context_reviewed": "CRISPR-Cas9; sgRNA architecture; crRNA–tracrRNA duplex; RNA polymerase III termination; thymine tract; knockout efficiency; gene deletion",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A103",
+    "participant_id": "P024",
+    "abstract_id": "abs20",
+    "jargon_level": 3,
+    "jargon_score": 73.0,
+    "explanation_original": "CRISPR-Cas9, single-guide RNA design, crRNA and tracrRNA structure, RNA polymerase III, transcription efficiency, guide optimization, knockout efficiency, gene deletion, non-coding targets",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A104",
+    "participant_id": "P054",
+    "abstract_id": "abs20",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "CRISPR-Cas9, sgRNA, crRNA, tracrRNA, RNA polymerase, guide RNA structure, duplex extension, thymine tract mutation, knockout efficiency, non coding genes, genome editing ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A105",
+    "participant_id": "P012",
+    "abstract_id": "abs20",
+    "jargon_level": 2,
+    "jargon_score": 73.0,
+    "explanation_original": "usual concepts that can be learned in the undergrad, not complex specific terminologies",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A106",
+    "participant_id": "P023",
+    "abstract_id": "abs21",
+    "jargon_level": 3,
+    "jargon_score": 43.0,
+    "explanation_original": "microbiome, inflammatory bowel disease, microbiome sequencing, metabolome, immune-system interactions, animal models, systems-level biology",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A107",
+    "participant_id": "P015",
+    "abstract_id": "abs21",
+    "jargon_level": 2,
+    "jargon_score": 51.0,
+    "explanation_original": "microbiome; sequencing technologies; analytical and software advances; animal models; metabolome; immune system; host–microbe interactions; systems biology",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A108",
+    "participant_id": "P056",
+    "abstract_id": "abs21",
+    "jargon_level": 3,
+    "jargon_score": 58.0,
+    "explanation_original": "microbiome ecology; sequencing and computational analysis; inflammatory bowel disease; host–microbe signaling; metabolome; immune system; animal models",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A109",
+    "participant_id": "P024",
+    "abstract_id": "abs21",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "microbiome sequencing, metagenomic analysis, microbial communities, metabolome integration, host immune interactions, inflammatory bowel disease, animal models, systems biology",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A110",
+    "participant_id": "P054",
+    "abstract_id": "abs21",
+    "jargon_level": 3,
+    "jargon_score": 54.0,
+    "explanation_original": "microbiome, metagenomic, metabolome, host microbe interactions, inflammatory bowel disease, animal models, system biology, immune system integration, microbiome associations with neural and psychiatric disorders ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A111",
+    "participant_id": "P012",
+    "abstract_id": "abs21",
+    "jargon_level": 2,
+    "jargon_score": 60.0,
+    "explanation_original": "sequencing technology\nmicrobiome\nmetabolome\nimmune system",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A112",
+    "participant_id": "P045",
+    "abstract_id": "abs22",
+    "jargon_level": 3,
+    "jargon_score": 90.0,
+    "explanation_original": "Molecular networks databaseortholog of genes",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A113",
+    "participant_id": "P020",
+    "abstract_id": "abs22",
+    "jargon_level": 2,
+    "jargon_score": 59.0,
+    "explanation_original": "KEGG, gene and genome annotation, KEGG Orthology (KO), orthologs, pathway maps, BRITE hierarchies, KEGG modules, molecular networks, disease and drug databases, and functional genomics.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A114",
+    "participant_id": "P038",
+    "abstract_id": "abs22",
+    "jargon_level": 3,
+    "jargon_score": 59.0,
+    "explanation_original": "KEGG; orthology groups; functional genome annotation; pathway networks; BRITE hierarchy; KEGG modules; disease and drug integration",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A115",
+    "participant_id": "P005",
+    "abstract_id": "abs22",
+    "jargon_level": 3,
+    "jargon_score": 57.0,
+    "explanation_original": "KEGG knowledge base, KEGG Orthology, functional annotation, pathway networks, BRITE hierarchies, KEGG modules, disease and drug integration, genomic interpretation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A116",
+    "participant_id": "P045",
+    "abstract_id": "abs23",
+    "jargon_level": 3,
+    "jargon_score": 90.0,
+    "explanation_original": "Nanopore, Illumina sequencing",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A117",
+    "participant_id": "P020",
+    "abstract_id": "abs23",
+    "jargon_level": 3,
+    "jargon_score": 79.0,
+    "explanation_original": "lrTAPS, DNA methylation, hydroxymethylation, base-resolution sequencing, Oxford Nanopore, PacBio SMRT, Illumina sequencing, epigenetic phasing, mouse embryonic stem cells, and hepatitis B virus integration.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A118",
+    "participant_id": "P038",
+    "abstract_id": "abs23",
+    "jargon_level": 3,
+    "jargon_score": 73.0,
+    "explanation_original": "DNA methylation; hydroxymethylation; epigenetic marks; long-read sequencing; Oxford Nanopore; PacBio SMRT; base-resolution profiling; long-range phasing; difficult genomic regions",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A119",
+    "participant_id": "P005",
+    "abstract_id": "abs23",
+    "jargon_level": 3,
+    "jargon_score": 72.0,
+    "explanation_original": "DNA methylation, hydroxymethylation, long-read sequencing, Oxford Nanopore, PacBio SMRT, epigenetic phasing, targeted profiling, difficult genomic loci, viral integration",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A120",
+    "participant_id": "P051",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 76.0,
+    "explanation_original": "SMT, tree based smt framework, word reordering phenomena",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A121",
+    "participant_id": "P027",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 35.0,
+    "explanation_original": "SMT, empirical trials, string/tree based frameworks, qualitative analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A122",
+    "participant_id": "P007",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "SMT, tree based, statistical modeling, lingustic knowledge",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A123",
+    "participant_id": "P049",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 76.0,
+    "explanation_original": "specific domain, but understandable (the subject)",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A124",
+    "participant_id": "P058",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 71.0,
+    "explanation_original": "comprehensive survey .. as a statistical modeling challenge and as a natural language phenomenon,\nqualitative analysis,\nSMT framework ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A125",
+    "participant_id": "P003",
+    "abstract_id": "abs24",
+    "jargon_level": 3,
+    "jargon_score": 67.0,
+    "explanation_original": "SMT, string based and tree based models, statistical modeling, natural language processing, linguistic phenomena, empirical analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A126",
+    "participant_id": "P051",
+    "abstract_id": "abs25",
+    "jargon_level": 4,
+    "jargon_score": 92.0,
+    "explanation_original": "KBQA, KB subgraphs, Neural Program Induction (NPI), combinatorial explosion in program space, Terminal rewards abd reward sparsity, NSM, F1",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A127",
+    "participant_id": "P027",
+    "abstract_id": "abs25",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "KBQA, NPI, CIPTR, gold program, key value memory networks, NSM, F1 ",
+    "explanation_context_reviewed": "KBQA, NPI, CIPITR, gold program, key value memory networks, NSM, F1 ",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A128",
+    "participant_id": "P007",
+    "abstract_id": "abs25",
+    "jargon_level": 4,
+    "jargon_score": 94.0,
+    "explanation_original": "KBQA, NPI, NSM, memory network",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A129",
+    "participant_id": "P049",
+    "abstract_id": "abs25",
+    "jargon_level": 4,
+    "jargon_score": 83.0,
+    "explanation_original": "really complex, niche domain and alot of prior information and knowledge is needed",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A130",
+    "participant_id": "P058",
+    "abstract_id": "abs25",
+    "jargon_level": 4,
+    "jargon_score": 82.0,
+    "explanation_original": "KBQA, comparative reasoning over KB subgraph, combinatorial explosion, CIPITR, NSM",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A131",
+    "participant_id": "P003",
+    "abstract_id": "abs25",
+    "jargon_level": 3,
+    "jargon_score": 77.0,
+    "explanation_original": "KBQA, NPI, CIPITR, F1 score, auxiliary rewards, combinatorial program search, sparse rewards, KB schema, answer types, neural symbolic machines",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A132",
+    "participant_id": "P045",
+    "abstract_id": "abs26",
+    "jargon_level": 2,
+    "jargon_score": 79.0,
+    "explanation_original": "DNA methylation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A133",
+    "participant_id": "P020",
+    "abstract_id": "abs26",
+    "jargon_level": 3,
+    "jargon_score": 86.0,
+    "explanation_original": "Schizophrenia genetics, epigenome-wide association studies, DNA methylation, differentially methylated regions, confounders, polygenic architecture, methylation QTLs, Bayesian co-localization, polygenic risk scores, and regulatory variation.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A134",
+    "participant_id": "P038",
+    "abstract_id": "abs26",
+    "jargon_level": 3,
+    "jargon_score": 83.0,
+    "explanation_original": "heritability and genetic risk; EWAS design; DNA methylation; differential methylation; cohort replication; confounding variables; mQTLs; Bayesian co-localization; polygenic risk scores; regulatory interpretation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A135",
+    "participant_id": "P005",
+    "abstract_id": "abs26",
+    "jargon_level": 3,
+    "jargon_score": 85.0,
+    "explanation_original": "schizophrenia genetics, epigenome-wide association study, DNA methylation, differential methylation, cohort replication, confounding factors, mQTLs, Bayesian co-localization, polygenic risk scores, regulatory variants",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A136",
+    "participant_id": "P023",
+    "abstract_id": "abs27",
+    "jargon_level": 4,
+    "jargon_score": 40.0,
+    "explanation_original": "gemcitabine, gallbladder cancer, CRISPR screen, ELP5, apoptosis, Elongator complex, U34 tRNA modification, hnRNPQ, P53 IRES translation, chemotherapy sensitivity",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A137",
+    "participant_id": "P015",
+    "abstract_id": "abs27",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "gemcitabine; gallbladder cancer; CRISPR screen; ELP5; Elongator complex; U34 tRNA modification; hnRNPQ; P53-dependent apoptosis; IRES translation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A138",
+    "participant_id": "P056",
+    "abstract_id": "abs27",
+    "jargon_level": 4,
+    "jargon_score": 89.0,
+    "explanation_original": "gemcitabine resistance; gallbladder cancer; ELP5; Elongator complex; wobble U34 tRNA modification; hnRNPQ; p53 IRES translation; CRISPR screening",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A139",
+    "participant_id": "P024",
+    "abstract_id": "abs27",
+    "jargon_level": 3,
+    "jargon_score": 87.0,
+    "explanation_original": "gemcitabine response, genome-wide CRISPR screening, ELP5 loss, Elongator complex, U34 tRNA modification, hnRNPQ translation, p53 signaling, apoptosis, chemotherapy sensitivity",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A140",
+    "participant_id": "P054",
+    "abstract_id": "abs27",
+    "jargon_level": 4,
+    "jargon_score": 86.0,
+    "explanation_original": "gemcitabine resistance, genome wide CRISPR screening, ELP5 depletion, P53 dependent apoptosis, Elongator complex, wobble U34 tRNA modifications, hnRN PQ translation, IRES, gallbladder cancer",
+    "explanation_context_reviewed": "gemcitabine resistance, genome wide CRISPR screening, ELP5 depletion, P53 dependent apoptosis, Elongator complex, wobble U34 tRNA modifications, hnRNPQ translation, IRES, gallbladder cancer",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A141",
+    "participant_id": "P012",
+    "abstract_id": "abs27",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "complex acronyms and terminologies not given in the uni and understandable in that sub-field",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A142",
+    "participant_id": "P011",
+    "abstract_id": "abs28",
+    "jargon_level": 2,
+    "jargon_score": 25.0,
+    "explanation_original": "Deep learning",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A143",
+    "participant_id": "P060",
+    "abstract_id": "abs28",
+    "jargon_level": 3,
+    "jargon_score": 34.0,
+    "explanation_original": "Deep learning is only intelligible to advanced undergraduates or grad students.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A144",
+    "participant_id": "P022",
+    "abstract_id": "abs28",
+    "jargon_level": 1,
+    "jargon_score": 25.0,
+    "explanation_original": "deep learning",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A145",
+    "participant_id": "P055",
+    "abstract_id": "abs28",
+    "jargon_level": 2,
+    "jargon_score": 20.0,
+    "explanation_original": "Deep-learning-based techniques ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A146",
+    "participant_id": "P062",
+    "abstract_id": "abs28",
+    "jargon_level": 2,
+    "jargon_score": 35.0,
+    "explanation_original": "Image captioning, object recognition, visual attributes and relationships, sentence generation, syntactic and semantic correctness, deep learning, benchmark datasets, evaluation metrics.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A147",
+    "participant_id": "P047",
+    "abstract_id": "abs29",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "Ccg,lfg,parsers,bilexical structure …\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A148",
+    "participant_id": "P036",
+    "abstract_id": "abs29",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "I think thevtext includes too much terms and concepts that someone without this domain knowledge won't understand ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A149",
+    "participant_id": "P019",
+    "abstract_id": "abs29",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "That looks like a full on word salad for someone who is not deeply dug in in the field",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A150",
+    "participant_id": "P013",
+    "abstract_id": "abs29",
+    "jargon_level": 2,
+    "jargon_score": 72.0,
+    "explanation_original": "by CCG, LFG, and HPSG.too long, Concerning the disambiguation problem",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A151",
+    "participant_id": "P011",
+    "abstract_id": "abs30",
+    "jargon_level": 3,
+    "jargon_score": 80.0,
+    "explanation_original": "Parallel entities, synchronization, object-oriented",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A152",
+    "participant_id": "P060",
+    "abstract_id": "abs30",
+    "jargon_level": 3,
+    "jargon_score": 41.0,
+    "explanation_original": "For an advanced undergrad or early grad student. Relevant concepts (actors, active objects) are explained briefly, even if they are unfamiliar.  This is obviously a survey article, so one can expect that there will be more explanation in the full text. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A153",
+    "participant_id": "P022",
+    "abstract_id": "abs30",
+    "jargon_level": 3,
+    "jargon_score": 78.0,
+    "explanation_original": "parallel systems\nprogramming models\nsynchronization\nloosely coupled parallel entities",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A154",
+    "participant_id": "P055",
+    "abstract_id": "abs30",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "The whole abstract",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A155",
+    "participant_id": "P062",
+    "abstract_id": "abs30",
+    "jargon_level": 2,
+    "jargon_score": 55.0,
+    "explanation_original": "Parallel programming, synchronization, asynchronous messaging, actor model, mailboxes, active objects, object oriented programming, language comparison, implementation tradeoffs.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A156",
+    "participant_id": "P045",
+    "abstract_id": "abs31",
+    "jargon_level": 2,
+    "jargon_score": 90.0,
+    "explanation_original": "SnHi-C, knockout",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A157",
+    "participant_id": "P020",
+    "abstract_id": "abs31",
+    "jargon_level": 3,
+    "jargon_score": 84.0,
+    "explanation_original": "Totipotency, zygotic genome organization, single-nucleus Hi-C, chromatin loops, cohesin, loop extrusion, Scc1, Wapl, maternal and paternal genomes, epigenetic reprogramming, and polymer modeling.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A158",
+    "participant_id": "P038",
+    "abstract_id": "abs31",
+    "jargon_level": 3,
+    "jargon_score": 79.0,
+    "explanation_original": "3D genome organization; single-cell Hi-C; chromatin loops; cohesin and Scc1; Wapl regulation; loop extrusion; epigenetic reprogramming; polymer simulations; maternal versus paternal genomes",
+    "explanation_context_reviewed": "3D genome organization; single-cell Hi-C; chromatin loops; cohesin and Scc1; Wapl regulation; loop extrusion; epigenetic reprogramming; polymer simulations; maternal versus paternal genomes",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A159",
+    "participant_id": "P005",
+    "abstract_id": "abs31",
+    "jargon_level": 3,
+    "jargon_score": 81.0,
+    "explanation_original": "3D genome architecture, single-cell Hi-C, chromatin loops, cohesin complex, Scc1, Wapl, loop extrusion, epigenetic reprogramming, polymer modeling, embryonic genome folding",
+    "explanation_context_reviewed": "3D genome architecture, single-cell Hi-C, chromatin loops, cohesin complex, Scc1, Wapl, loop extrusion, epigenetic reprogramming, polymer modeling, embryonic genome folding",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A160",
+    "participant_id": "P023",
+    "abstract_id": "abs32",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "precision-recall curves, ROC curves, classifier performance, area under the curve, soft-labeled data, continuous interpolation, R package",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A161",
+    "participant_id": "P015",
+    "abstract_id": "abs32",
+    "jargon_level": 2,
+    "jargon_score": 46.0,
+    "explanation_original": "precision-recall (PR); receiver operating characteristic (ROC); classifier performance; area under the curve; soft-labeled data; continuous interpolation; R package PRROC",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A162",
+    "participant_id": "P056",
+    "abstract_id": "abs32",
+    "jargon_level": 1,
+    "jargon_score": 36.0,
+    "explanation_original": "precision-recall; ROC curves; classifier evaluation; area under curves; soft labels; interpolation; PRROC R package; visualization",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A163",
+    "participant_id": "P024",
+    "abstract_id": "abs32",
+    "jargon_level": 2,
+    "jargon_score": 42.0,
+    "explanation_original": "precision and recall, ROC analysis, classifier evaluation, area under the curve, soft labels, interpolation, R package, visualization, performance comparison",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A164",
+    "participant_id": "P054",
+    "abstract_id": "abs32",
+    "jargon_level": 2,
+    "jargon_score": 37.0,
+    "explanation_original": "precision, recall, ROC, AUC, interpolation, R packages, data visualization",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A165",
+    "participant_id": "P012",
+    "abstract_id": "abs32",
+    "jargon_level": 3,
+    "jargon_score": 90.0,
+    "explanation_original": "precision\nrecall\nROC curves",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A166",
+    "participant_id": "P016",
+    "abstract_id": "abs33",
+    "jargon_level": 2,
+    "jargon_score": 20.0,
+    "explanation_original": "visual scanning, field of view",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A167",
+    "participant_id": "P034",
+    "abstract_id": "abs33",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "The text describes a \"controlled experiment\" manipulating specific variables like field of view and visual complexity, and measuring target detection and adherence to strategy. A background in science, engineering, or social sciences (typically gained in a B.Sc. program) is usually needed to understand how experimental design, variables, and performance metrics work together",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A168",
+    "participant_id": "P053",
+    "abstract_id": "abs33",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "Virtual reality training, field of view, visual complexity, controlled experiment, target detection, strategy adherence, transfer of learning, simulator fidelity, outcome validity.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A169",
+    "participant_id": "P009",
+    "abstract_id": "abs33",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "Virtual reality training systems, experiment, significantly affected, That is, if learning a prescribed strategy or skill is the goal of a training exercise, \n\nIt's not that simple text, and there's a need to carefuly read it, but used words are quite familiar outside HCI field. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A170",
+    "participant_id": "P026",
+    "abstract_id": "abs34",
+    "jargon_level": 2,
+    "jargon_score": 19.0,
+    "explanation_original": "הטקסט כתוב בצורה ברורה וקלה להבנה, אך יש מעט מונחים מקצועיים שכנראה תואר ראשון ידע להבין ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A171",
+    "participant_id": "P057",
+    "abstract_id": "abs34",
+    "jargon_level": 1,
+    "jargon_score": 10.0,
+    "explanation_original": "Application Programming Interface (API), Amazon, Google, IBM and Microsoft, cloud software, text analytics",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A172",
+    "participant_id": "P008",
+    "abstract_id": "abs34",
+    "jargon_level": 2,
+    "jargon_score": 30.0,
+    "explanation_original": "Cloud based text analytics",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A173",
+    "participant_id": "P061",
+    "abstract_id": "abs34",
+    "jargon_level": 2,
+    "jargon_score": 20.0,
+    "explanation_original": "here all is clear even you explain what is API, but i think its need to be BSc because need to know how API really works and and the diffrence between local and using API web etc... this knowlage will give better understanding for the topic.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A174",
+    "participant_id": "P067",
+    "abstract_id": "abs34",
+    "jargon_level": 2,
+    "jargon_score": 9.0,
+    "explanation_original": "API, text analytics",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A175",
+    "participant_id": "P018",
+    "abstract_id": "abs34",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "cloud-based;\nApplication Programming Interface (API);\nbehemoths",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A176",
+    "participant_id": "P030",
+    "abstract_id": "abs34",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "The sentences are simple, and all the concepts are well known to the public.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A177",
+    "participant_id": "P051",
+    "abstract_id": "abs35",
+    "jargon_level": 3,
+    "jargon_score": 67.0,
+    "explanation_original": "Neural Machine Translation (NMT), shared wordpiece vocab, transfer learning, zero shot translation, implicit bridging, universal interlingua representation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A178",
+    "participant_id": "P027",
+    "abstract_id": "abs35",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "NMT, artificial token, transfer learning, zero shot translation, benchmarks",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A179",
+    "participant_id": "P007",
+    "abstract_id": "abs35",
+    "jargon_level": 4,
+    "jargon_score": 74.0,
+    "explanation_original": "NMT, WMT betchmark, multilingual models",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A180",
+    "participant_id": "P049",
+    "abstract_id": "abs35",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "terms like zero-shot, multi lingual NMT",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A181",
+    "participant_id": "P058",
+    "abstract_id": "abs35",
+    "jargon_level": 3,
+    "jargon_score": 51.0,
+    "explanation_original": "multilingual NMT",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A182",
+    "participant_id": "P003",
+    "abstract_id": "abs35",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "NMT, multilingual translation, transfer learning, zero shot, implicit bridging, universal interlingua representation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A183",
+    "participant_id": "P010",
+    "abstract_id": "abs36",
+    "jargon_level": 1,
+    "jargon_score": 50.0,
+    "explanation_original": "Personal Informatics , sports , instruments ,  elite athletets",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A184",
+    "participant_id": "P006",
+    "abstract_id": "abs36",
+    "jargon_level": 1,
+    "jargon_score": 5.0,
+    "explanation_original": "wearable computing, Personal Informatics ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A185",
+    "participant_id": "P039",
+    "abstract_id": "abs36",
+    "jargon_level": 2,
+    "jargon_score": 29.0,
+    "explanation_original": "exploiting the knowledge",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A186",
+    "participant_id": "P011",
+    "abstract_id": "abs37",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "None, all were easy to understand",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A187",
+    "participant_id": "P060",
+    "abstract_id": "abs37",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "Everybody understands manipulation of physical objects.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A188",
+    "participant_id": "P022",
+    "abstract_id": "abs37",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "mixed-reality",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A189",
+    "participant_id": "P055",
+    "abstract_id": "abs37",
+    "jargon_level": 4,
+    "jargon_score": 80.0,
+    "explanation_original": "mixed-realityת virtual worlds via depth-camera sensingת gesture analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A190",
+    "participant_id": "P062",
+    "abstract_id": "abs37",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "Mixed reality learning, physical and virtual interaction, depth camera sensing, controlled studies with children, collaboration, physical interaction, learning and enjoyment outcomes, gesture analysis.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A191",
+    "participant_id": "P040",
+    "abstract_id": "abs37",
+    "jargon_level": 1,
+    "jargon_score": 22.0,
+    "explanation_original": "mixed reality, depth camera sensing, controlled experiments, field learning, physical interaction, collaboration, learning outcomes, enjoyment, 3D",
+    "explanation_context_reviewed": "mixed reality, depth camera sensing, controlled experiments, field learning, physical interaction, collaboration, learning outcomes, enjoyment, 3D",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A192",
+    "participant_id": "P014",
+    "abstract_id": "abs38",
+    "jargon_level": 2,
+    "jargon_score": 65.0,
+    "explanation_original": "Genome repeats, tandem-repeat instability, sequencing and assembly errors, gene/protein annotation, database reliability, data provenance, Atlantic cod, and effects on downstream bioinformatics analyses.",
+    "explanation_context_reviewed": "Genome repeats, tandem-repeat instability, sequencing and assembly errors, gene/protein annotation, database reliability, data provenance, Atlantic cod, and effects on downstream bioinformatics analyses.",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A193",
+    "participant_id": "P063",
+    "abstract_id": "abs38",
+    "jargon_level": 2,
+    "jargon_score": 59.0,
+    "explanation_original": "tandem repeats; assembly errors; sequence annotation; public genomic repositories; data provenance; Atlantic cod; downstream bioinformatics analyses",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A194",
+    "participant_id": "P028",
+    "abstract_id": "abs38",
+    "jargon_level": 1,
+    "jargon_score": 43.0,
+    "explanation_original": "repetitive DNA; tandem repeats; assembly errors; annotation quality; database provenance; downstream analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A195",
+    "participant_id": "P042",
+    "abstract_id": "abs38",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "repeat-rich DNA; assembly ambiguity; genome annotation; read alignment; database reliability; propagation of sequence errors; quality control; reference genomes; biological interpretation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A196",
+    "participant_id": "P021",
+    "abstract_id": "abs38",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "tandem repeats, genome assembly, read mapping, annotation quality, sequence database reliability, error propagation, repetitive regions, reference genomes",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A197",
+    "participant_id": "P043",
+    "abstract_id": "abs38",
+    "jargon_level": 3,
+    "jargon_score": 66.0,
+    "explanation_original": "tandem repeats, genome sequencing and assembly, sequencing-assembly-annotation-deposition, atlantic code genome",
+    "explanation_context_reviewed": "tandem repeats, genome sequencing and assembly, sequencing-assembly-annotation-deposition, Atlantic cod genome",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A198",
+    "participant_id": "P025",
+    "abstract_id": "abs39",
+    "jargon_level": 1,
+    "jargon_score": 11.0,
+    "explanation_original": "Chatbots and apps\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A199",
+    "participant_id": "P065",
+    "abstract_id": "abs39",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "Disruptive, technology transfer",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A200",
+    "participant_id": "P037",
+    "abstract_id": "abs39",
+    "jargon_level": 1,
+    "jargon_score": 10.0,
+    "explanation_original": "chatbot, technology",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A201",
+    "participant_id": "P064",
+    "abstract_id": "abs39",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "none of the above",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A202",
+    "participant_id": "P059",
+    "abstract_id": "abs39",
+    "jargon_level": 1,
+    "jargon_score": 30.0,
+    "explanation_original": "chatbot \ntechnology",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A203",
+    "participant_id": "P016",
+    "abstract_id": "abs40",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "log probability function, Bayesian inference, BFGS algorithm, Monte Carlo, Hamiltonian Monte Carlo, Hessians, posterior analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A204",
+    "participant_id": "P034",
+    "abstract_id": "abs40",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "Terms like Bayesian inference, Hamiltonian Monte Carlo, Hessians, and the BFGS algorithm are advanced mathematical and algorithmic concepts.\nA general master's degree outside of this specific subfield does not cover them.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A205",
+    "participant_id": "P053",
+    "abstract_id": "abs40",
+    "jargon_level": 4,
+    "jargon_score": 85.0,
+    "explanation_original": "Probabilistic programming, Bayesian inference, Markov chain Monte Carlo, No U Turn sampler, Hamiltonian Monte Carlo, penalized maximum likelihood, optimization, gradients and Hessians, variational Bayes, expectation propagation, posterior diagnostics.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A206",
+    "participant_id": "P009",
+    "abstract_id": "abs40",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "probabilistic programming language, statistical models, log probability function, Bayesian inference, Markov chain Monte Carlo methods, Markov chain Monte Carlo methods, Hamiltonian, maximum likelihood, optimization , Broyden-Fletcher-Goldfarb-Shanno algorithm, gradients and Hessians, variational Bayes, expectation propagation, and marginal inference using approximate integration.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A207",
+    "participant_id": "P025",
+    "abstract_id": "abs41",
+    "jargon_level": 2,
+    "jargon_score": 38.0,
+    "explanation_original": "Support vector, random forest ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A208",
+    "participant_id": "P065",
+    "abstract_id": "abs41",
+    "jargon_level": 2,
+    "jargon_score": 71.0,
+    "explanation_original": "Support vector machine\nClassifier\nRandom forest\n\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A209",
+    "participant_id": "P037",
+    "abstract_id": "abs41",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "Random Forest classifier",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A210",
+    "participant_id": "P064",
+    "abstract_id": "abs41",
+    "jargon_level": 2,
+    "jargon_score": 42.0,
+    "explanation_original": "two stage classification, behavioral features, text categorization, Support Vector Machine, Random Forest, binary classification, PAN 2012 corpus",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A211",
+    "participant_id": "P059",
+    "abstract_id": "abs41",
+    "jargon_level": 2,
+    "jargon_score": null,
+    "explanation_original": "support vector machine",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A212",
+    "participant_id": "P045",
+    "abstract_id": "abs42",
+    "jargon_level": 3,
+    "jargon_score": 90.0,
+    "explanation_original": "FASTQ files",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A213",
+    "participant_id": "P020",
+    "abstract_id": "abs42",
+    "jargon_level": 2,
+    "jargon_score": 56.0,
+    "explanation_original": "FASTQ files, preprocessing, quality control, adapter trimming, quality filtering, per-read pruning, single-pass scanning, multithreading, C++, I/O efficiency, Trimmomatic, Cutadapt, and runtime comparisons.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A214",
+    "participant_id": "P038",
+    "abstract_id": "abs42",
+    "jargon_level": 3,
+    "jargon_score": 56.0,
+    "explanation_original": "FASTQ preprocessing; quality control; adapter trimming; per-read filtering; single-pass processing; C++ implementation; multithreading; I/O efficiency; Trimmomatic; Cutadapt",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A215",
+    "participant_id": "P005",
+    "abstract_id": "abs42",
+    "jargon_level": 3,
+    "jargon_score": 55.0,
+    "explanation_original": "FASTQ files, sequencing quality control, adapter removal, read filtering, per-read trimming, single-pass processing, C++ implementation, parallel execution, I/O performance",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A216",
+    "participant_id": "P014",
+    "abstract_id": "abs43",
+    "jargon_level": 4,
+    "jargon_score": 89.0,
+    "explanation_original": "Alternative lengthening of telomeres (ALT), telomere maintenance, PML bodies, polySUMO/polySIM condensates, APB-like condensates, BLM helicase, C circles, ssDNA, RPA, MiDAS, RAD52, and cancer biology.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A217",
+    "participant_id": "P063",
+    "abstract_id": "abs43",
+    "jargon_level": 3,
+    "jargon_score": 88.0,
+    "explanation_original": "alternative lengthening of telomeres (ALT); PML bodies; SUMO/polySIM condensates; BLM helicase; ssDNA; RPA; MiDAS; RAD52; telomere maintenance in cancer",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A218",
+    "participant_id": "P028",
+    "abstract_id": "abs43",
+    "jargon_level": 4,
+    "jargon_score": 86.0,
+    "explanation_original": "alternative telomere lengthening; PML bodies; SUMO-mediated condensates; BLM; ssDNA; RPA; MiDAS; RAD52; telomere maintenance in tumors",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A219",
+    "participant_id": "P042",
+    "abstract_id": "abs43",
+    "jargon_level": 3,
+    "jargon_score": 83.0,
+    "explanation_original": "alternative telomere maintenance; cancer genomics; PML bodies; SUMO-dependent condensates; BLM helicase; single-stranded DNA; RPA; RAD52; mitotic DNA synthesis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A220",
+    "participant_id": "P021",
+    "abstract_id": "abs43",
+    "jargon_level": 4,
+    "jargon_score": 88.0,
+    "explanation_original": "alternative telomere lengthening, PML bodies, SUMO condensates, BLM helicase, single-stranded DNA, RPA accumulation, RAD52, mitotic DNA synthesis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A221",
+    "participant_id": "P016",
+    "abstract_id": "abs44",
+    "jargon_level": 4,
+    "jargon_score": 100.0,
+    "explanation_original": "biorthogonal Catmull-Clark subdivision wavelet transforms, vertex valences, quadrilateral patches, many more",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A222",
+    "participant_id": "P034",
+    "abstract_id": "abs44",
+    "jargon_level": 4,
+    "jargon_score": 91.0,
+    "explanation_original": "This abstract describes advanced research in computer graphics and geometric processing, making it inaccessible without specific graduate-level training in this niche",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A223",
+    "participant_id": "P053",
+    "abstract_id": "abs44",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "Catmull Clark subdivision, biorthogonal wavelets, lifting scheme, progressive interpolation, shape control parameters, vertex valence, quadrilateral mesh patches, compression ratio, noise filtering, bits per vertex, PSNR, coding and decoding complexity.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A224",
+    "participant_id": "P016",
+    "abstract_id": "abs45",
+    "jargon_level": 2,
+    "jargon_score": 10.0,
+    "explanation_original": "Participatory Design",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A225",
+    "participant_id": "P034",
+    "abstract_id": "abs45",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "The text talks broadly about \"big issues\" and \"computer technology putting human lives and work under pressure\" without specifying which technologies (e.g., AI, automation) or which industries are being affected, leaving the reader searching for a concrete anchor\n\nTerms like \"Participatory Design (PD)\", \"deployment of working prototypes\", and \"scaling up\" are common in advanced research, but lack immediate context for someone outside the field. A reader without a graduate background might not know what PD actually entails or how it is practiced methodologically.\n\nPhrases such as \"demanding visions for lasting impact\", \"democratic control,\" and \"new role of researchers as activists\" are deeply philosophical and political within academic discourse. Without specific examples, it is unclear what these concepts mean in practical, everyday terms.\n\nThe abstract packs multiple complex ideas into long, continuous sentences (e.g., listing high technological ambitions, prototypes, alliances, and scaling up all in one breath). This makes it hard to identify the core contribution of the paper at a glance.\n\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A226",
+    "participant_id": "P053",
+    "abstract_id": "abs45",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "Participatory Design, codesign, partnership with users, researcher activism, democratic control, working prototypes, alliances, scaling up, sociotechnical change.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A227",
+    "participant_id": "P009",
+    "abstract_id": "abs45",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "Participatory Design\nThis is the main issue, and outside of HCI, I'm not sure how straightforward this term is",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A228",
+    "participant_id": "P052",
+    "abstract_id": "abs45",
+    "jargon_level": 2,
+    "jargon_score": 43.0,
+    "explanation_original": "Participatory Design, user partnership, researcher activism, democratic control, working prototypes, alliances, scaling up, codesign, and sociotechnical change",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A229",
+    "participant_id": "P029",
+    "abstract_id": "abs46",
+    "jargon_level": 3,
+    "jargon_score": 61.0,
+    "explanation_original": "MSC: Ecology of engagement",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A230",
+    "participant_id": "P001",
+    "abstract_id": "abs46",
+    "jargon_level": 1,
+    "jargon_score": 10.0,
+    "explanation_original": "Engagement",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A231",
+    "participant_id": "P050",
+    "abstract_id": "abs46",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "User engagement, systematic review, measurement, ecology of engagement, HCI research.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A232",
+    "participant_id": "P031",
+    "abstract_id": "abs46",
+    "jargon_level": 2,
+    "jargon_score": 39.0,
+    "explanation_original": "User engagement; HCI conceptualization and operationalization; systematic review; corpus of 351 articles and 102 definitions; measurement and theory; ecology of engagement; design strategies.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A233",
+    "participant_id": "P016",
+    "abstract_id": "abs47",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "psychophysiological, cultural heritage",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A234",
+    "participant_id": "P034",
+    "abstract_id": "abs47",
+    "jargon_level": 2,
+    "jargon_score": 60.0,
+    "explanation_original": "The high-level objective is easy to follow: measuring user engagement (interest) using bodily sensors to improve interactive experiences\n\nWhile it combines psychology and machine learninע, it introduces these concepts in a structured, applied manner rather than relying on heavy, theoretical mathematics, making it approachable for students with basic training in research methods and data analysis",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A235",
+    "participant_id": "P053",
+    "abstract_id": "abs47",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "Interest as a knowledge emotion, psychophysiological reactivity, mobile physiological sensors, subject dependent classification, support vector machines, cultural heritage experience, adaptive information delivery, real time physiological computing.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A236",
+    "participant_id": "P047",
+    "abstract_id": "abs48",
+    "jargon_level": 3,
+    "jargon_score": 67.0,
+    "explanation_original": "Cross linguistic variation, lexical ,TAG",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A237",
+    "participant_id": "P036",
+    "abstract_id": "abs48",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "This text is simpler than the previous one, but still require knowledge that is higher than you learn BS.c",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A238",
+    "participant_id": "P019",
+    "abstract_id": "abs48",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "This one is somewhere between MSc and PHD as it somewhat explains the terminology used, but still assumes a lot of prior knowledge",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A239",
+    "participant_id": "P013",
+    "abstract_id": "abs48",
+    "jargon_level": 1,
+    "jargon_score": 21.0,
+    "explanation_original": "They can Google the terms and get some background on it easily ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A240",
+    "participant_id": "P014",
+    "abstract_id": "abs49",
+    "jargon_level": 3,
+    "jargon_score": 68.0,
+    "explanation_original": "Biomolecular interactions, protein-protein/DNA/RNA/sugar/lipid binding, phase-separated condensates, CEBIT, high-throughput screening, drug discovery, p53-MDM2, histone methyltransferase, SUV39H1, and enzyme inhibitors.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A241",
+    "participant_id": "P063",
+    "abstract_id": "abs49",
+    "jargon_level": 3,
+    "jargon_score": 72.0,
+    "explanation_original": "biomolecular interactions; phase-separated condensates; CEBIT assay; high-throughput screening; p53–MDM2; histone methyltransferase SUV39H1; drug discovery",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A242",
+    "participant_id": "P028",
+    "abstract_id": "abs49",
+    "jargon_level": 2,
+    "jargon_score": 62.0,
+    "explanation_original": "protein interactions; phase-separated condensates; CEBIT detection method; enzyme activity; high-throughput screening; p53–MDM2; SUV39H1; inhibitor discovery",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A243",
+    "participant_id": "P042",
+    "abstract_id": "abs49",
+    "jargon_level": 3,
+    "jargon_score": 69.0,
+    "explanation_original": "protein interaction assays; phase-separated condensates; molecular recognition; high-throughput screening; enzyme activity; p53–MDM2; histone methyltransferase; inhibitor discovery",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A244",
+    "participant_id": "P021",
+    "abstract_id": "abs49",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "phase separation, biomolecular interactions, condensate recruitment, CEBIT assay, high-throughput screening, p53-MDM2 inhibition, histone methyltransferase, compound library",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A245",
+    "participant_id": "P051",
+    "abstract_id": "abs50",
+    "jargon_level": 2,
+    "jargon_score": 22.0,
+    "explanation_original": "this abstract do speak on NLP and what they did in the study but no high or uniqe jargon",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A246",
+    "participant_id": "P027",
+    "abstract_id": "abs50",
+    "jargon_level": 1,
+    "jargon_score": 5.0,
+    "explanation_original": "Computational linguistics ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A247",
+    "participant_id": "P007",
+    "abstract_id": "abs50",
+    "jargon_level": 3,
+    "jargon_score": 50.0,
+    "explanation_original": "reproducibillity, source code sharing, empircism, acl",
+    "explanation_context_reviewed": "reproducibility, source code sharing, empiricism, acl",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A248",
+    "participant_id": "P049",
+    "abstract_id": "abs50",
+    "jargon_level": 3,
+    "jargon_score": 72.0,
+    "explanation_original": "the stuff about comparing the papers, writing style",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A249",
+    "participant_id": "P058",
+    "abstract_id": "abs50",
+    "jargon_level": 2,
+    "jargon_score": 81.0,
+    "explanation_original": "empiricism in computational linguistics",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A250",
+    "participant_id": "P003",
+    "abstract_id": "abs50",
+    "jargon_level": 2,
+    "jargon_score": 30.0,
+    "explanation_original": "reproducibility, computational linguistic, source code, empirical research, ACL",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A251",
+    "participant_id": "P029",
+    "abstract_id": "abs51",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "t-Distributed Stochastic Neighbor Embedding (tSNE)\nProgressive Visual Analytics\ndensity-based solution and a Magic Lens to inspect the degree of approximation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A252",
+    "participant_id": "P001",
+    "abstract_id": "abs51",
+    "jargon_level": 3,
+    "jargon_score": 60.0,
+    "explanation_original": "Dimensionality reduction",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A253",
+    "participant_id": "P050",
+    "abstract_id": "abs51",
+    "jargon_level": 3,
+    "jargon_score": 66.0,
+    "explanation_original": "Dimensionality reduction, tSNE, high-dimensional data, 2D embeddings, approximation, Progressive Visual Analytics.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A254",
+    "participant_id": "P031",
+    "abstract_id": "abs51",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "Progressive visual analytics; dimensionality reduction; t-SNE; approximate embeddings and speed–accuracy trade-offs; interactive data exploration; local refinement; density-based visualization; Magic Lens; high-dimensional streaming data.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A255",
+    "participant_id": "P051",
+    "abstract_id": "abs52",
+    "jargon_level": 1,
+    "jargon_score": 10.0,
+    "explanation_original": "general text nothing require knowledge",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A256",
+    "participant_id": "P027",
+    "abstract_id": "abs52",
+    "jargon_level": 2,
+    "jargon_score": 25.0,
+    "explanation_original": "NLP, neural networks",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A257",
+    "participant_id": "P007",
+    "abstract_id": "abs52",
+    "jargon_level": 2,
+    "jargon_score": 35.0,
+    "explanation_original": "NLP, database, neural network",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A258",
+    "participant_id": "P049",
+    "abstract_id": "abs52",
+    "jargon_level": 2,
+    "jargon_score": 40.0,
+    "explanation_original": "we connect these changes to reasearch advance in NLP",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A259",
+    "participant_id": "P058",
+    "abstract_id": "abs52",
+    "jargon_level": 1,
+    "jargon_score": 65.0,
+    "explanation_original": "NLP, hand-coded rules to neural networks",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A260",
+    "participant_id": "P003",
+    "abstract_id": "abs52",
+    "jargon_level": 2,
+    "jargon_score": 25.0,
+    "explanation_original": "unstructured text,  structured database, NLO, neural networks, hand coded rules ",
+    "explanation_context_reviewed": "unstructured text,  structured database, NLP, neural networks, hand coded rules ",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A261",
+    "participant_id": "P017",
+    "abstract_id": "abs52",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "None of them ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A262",
+    "participant_id": "P029",
+    "abstract_id": "abs53",
+    "jargon_level": 4,
+    "jargon_score": 80.0,
+    "explanation_original": "self-occlusion\nSiamese CNNs ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A263",
+    "participant_id": "P001",
+    "abstract_id": "abs53",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "Siamese, bayesian",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A264",
+    "participant_id": "P050",
+    "abstract_id": "abs53",
+    "jargon_level": 3,
+    "jargon_score": 71.0,
+    "explanation_original": "CNNs, comparing sketches with 3D models, Siamese networks, and measuring similarity between different shapes.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A265",
+    "participant_id": "P031",
+    "abstract_id": "abs53",
+    "jargon_level": 3,
+    "jargon_score": 75.0,
+    "explanation_original": "Sketch-based shape retrieval; sketch augmentation; self-occlusion and salient viewpoints; convolutional neural networks; cross-domain learning; Siamese networks; joint Bayesian similarity; inter-class versus intra-class similarity.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A266",
+    "participant_id": "P047",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": 20.0,
+    "explanation_original": "The paragraph is written at simple language: ability,generating",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A267",
+    "participant_id": "P036",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": 35.0,
+    "explanation_original": "It doesn't talk about any technical concepts or theoretical ones\n",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A268",
+    "participant_id": "P019",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": null,
+    "explanation_original": "The first sentence could be cryptic at start, but then, the writer explains it clearly, so no need in any specific high education in order to comprehence the meaning of the paragraph",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A269",
+    "participant_id": "P004",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": 20.0,
+    "explanation_original": "The text is just not so hard to understand ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A270",
+    "participant_id": "P013",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": 20.0,
+    "explanation_original": "advance in NLP, GPT-3 apparently novel text",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A271",
+    "participant_id": "P048",
+    "abstract_id": "abs54",
+    "jargon_level": 1,
+    "jargon_score": 13.0,
+    "explanation_original": "GPT, mainstream, media, novel text, application",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A272",
+    "participant_id": "P047",
+    "abstract_id": "abs55",
+    "jargon_level": 2,
+    "jargon_score": 32.0,
+    "explanation_original": "Long sentences,state of art-\nUsually write at academic articles",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A273",
+    "participant_id": "P036",
+    "abstract_id": "abs55",
+    "jargon_level": 2,
+    "jargon_score": 69.0,
+    "explanation_original": "It is require some basic knowledge.\nThe terms influenced me the most were: learning environment, experimental frameworks etc..",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A274",
+    "participant_id": "P019",
+    "abstract_id": "abs55",
+    "jargon_level": 2,
+    "jargon_score": 20.0,
+    "explanation_original": "Theory of mind reasoning, research, open source, experimental framework, research community, algorithmic advance and techniques- seems like a high education jargon not necessarily reason with a high schooler and probably make them confused",
+    "explanation_context_reviewed": "Theory of mind reasoning, research, open source, experimental framework, research community, algorithmic advance and techniques- seems like a high education jargon not necessarily reason with a high schooler and probably make them confused",
+    "context_review_status": "reviewed_unresolved_wording"
+  },
+  {
+    "annotation_id": "A275",
+    "participant_id": "P013",
+    "abstract_id": "abs55",
+    "jargon_level": 1,
+    "jargon_score": 19.0,
+    "explanation_original": "state-of-the-art, Go, Atari, and some variants of poker, ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A276",
+    "participant_id": "P048",
+    "abstract_id": "abs55",
+    "jargon_level": 2,
+    "jargon_score": 34.0,
+    "explanation_original": "state of the art, GO, mind reasoning, open source, experimental framework",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A277",
+    "participant_id": "P029",
+    "abstract_id": "abs56",
+    "jargon_level": 3,
+    "jargon_score": 70.0,
+    "explanation_original": "MS: sociotechnical systems\nBSC: Stakeholders, automated mechanisms, a repository for sharing tools",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A278",
+    "participant_id": "P001",
+    "abstract_id": "abs56",
+    "jargon_level": 2,
+    "jargon_score": 19.0,
+    "explanation_original": "Tune the performance, repository",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A279",
+    "participant_id": "P050",
+    "abstract_id": "abs56",
+    "jargon_level": 2,
+    "jargon_score": 32.0,
+    "explanation_original": "Automated moderation, sociotechnical system, human-machine decision making, platform governance.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A280",
+    "participant_id": "P031",
+    "abstract_id": "abs56",
+    "jargon_level": 2,
+    "jargon_score": 50.0,
+    "explanation_original": "Sociotechnical system; human–machine division of labor; automated content moderation (Automoderator); moderator workflows; auditability and performance tuning; platform governance; qualitative interviews and stakeholder implications.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A281",
+    "participant_id": "P047",
+    "abstract_id": "abs57",
+    "jargon_level": 3,
+    "jargon_score": 47.0,
+    "explanation_original": "There is no explanation for NLP terms, talking about vectors,nominal predection,similarity funcs…",
+    "explanation_context_reviewed": "There is no explanation for NLP terms, talking about vectors,nominal predicates,similarity funcs…",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A282",
+    "participant_id": "P036",
+    "abstract_id": "abs57",
+    "jargon_level": 2,
+    "jargon_score": 60.0,
+    "explanation_original": "I think this abstract talk about specific topic in semantic and nlp. I think that to understand the terms and concepts like distributional vector or distributional semantic method someone needs to be familiar wiith these concepts. ",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A283",
+    "participant_id": "P019",
+    "abstract_id": "abs57",
+    "jargon_level": 3,
+    "jargon_score": 61.0,
+    "explanation_original": "I feel like this paragraph contains a lot of niche NLP mixed with stats terminology that probably require some advanced familiarization with the field. Probably would be hard to read and understand for a BSc, but should be good enough for a MSc",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A284",
+    "participant_id": "P013",
+    "abstract_id": "abs57",
+    "jargon_level": 2,
+    "jargon_score": 59.0,
+    "explanation_original": "Logical negation, distributional semantics, too long",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A285",
+    "participant_id": "P048",
+    "abstract_id": "abs57",
+    "jargon_level": 3,
+    "jargon_score": 64.0,
+    "explanation_original": "NLP, semantics, logical negation, distributional semantics, distributional vectors, nominal prediction, similarity functions, statistical terminology",
+    "explanation_context_reviewed": "NLP, semantics, logical negation, distributional semantics, distributional vectors, nominal predicates, similarity functions, statistical terminology",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A286",
+    "participant_id": "P014",
+    "abstract_id": "abs58",
+    "jargon_level": 2,
+    "jargon_score": 56.0,
+    "explanation_original": "Lactase persistence, lactose digestion, human population variation, monogenic versus polygenic traits, regulatory convergent evolution, gene-culture coevolution, domestication, natural selection, and lactase variants.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A287",
+    "participant_id": "P063",
+    "abstract_id": "abs58",
+    "jargon_level": 2,
+    "jargon_score": 54.0,
+    "explanation_original": "lactase persistence; lactose digestion; monogenic versus polygenic traits; regulatory evolution; gene–culture coevolution; natural selection; dairying populations",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A288",
+    "participant_id": "P028",
+    "abstract_id": "abs58",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "lactase persistence; milk digestion; adaptation to dairying; regulatory variants; convergent evolution; gene–culture coevolution; population variation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A289",
+    "participant_id": "P042",
+    "abstract_id": "abs58",
+    "jargon_level": 2,
+    "jargon_score": 49.0,
+    "explanation_original": "lactase persistence; population variation; regulatory variants; monogenic versus polygenic traits; natural selection; gene–culture coevolution; convergent adaptation; human population genetics",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A290",
+    "participant_id": "P021",
+    "abstract_id": "abs58",
+    "jargon_level": 3,
+    "jargon_score": 68.0,
+    "explanation_original": "lactase persistence, regulatory variants, convergent evolution, gene-culture coevolution, monogenic and polygenic architecture, population genetics, natural selection, human adaptation",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A291",
+    "participant_id": "P014",
+    "abstract_id": "abs59",
+    "jargon_level": 4,
+    "jargon_score": 94.0,
+    "explanation_original": "Autosomal-dominant retinitis pigmentosa, structural variants, genome sequencing, iPSCs, retinal organoids, Hi-C, topologically associating domains (TADs), neo-TADs, enhancer hijacking, qPCR, and gain-of-function mechanisms.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A292",
+    "participant_id": "P063",
+    "abstract_id": "abs59",
+    "jargon_level": 4,
+    "jargon_score": 93.0,
+    "explanation_original": "autosomal-dominant retinitis pigmentosa; structural variants; iPSCs; retinal organoids; Hi-C; topologically associating domains (TADs); neo-TAD; enhancer hijacking; GDPD1; gain of function",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A293",
+    "participant_id": "P028",
+    "abstract_id": "abs59",
+    "jargon_level": 3,
+    "jargon_score": 83.0,
+    "explanation_original": "retinitis pigmentosa; structural genomic variants; iPSC-derived retinal models; Hi-C; topological domains; neo-TAD formation; enhancer misregulation; GDPD1; dominant gain of function",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A294",
+    "participant_id": "P042",
+    "abstract_id": "abs59",
+    "jargon_level": 3,
+    "jargon_score": 89.0,
+    "explanation_original": "structural variants; Mendelian disease genetics; genome sequencing; iPSC-derived retinal organoids; Hi-C contacts; topologically associating domains; enhancer hijacking; neo-TAD formation; gain-of-function mechanism",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A295",
+    "participant_id": "P021",
+    "abstract_id": "abs59",
+    "jargon_level": 4,
+    "jargon_score": 90.0,
+    "explanation_original": "structural variants, retinitis pigmentosa, genome sequencing, iPSC-derived retinal organoids, Hi-C, topologically associating domains, neo-TAD formation, enhancer hijacking, gain of function",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A296",
+    "participant_id": "P029",
+    "abstract_id": "abs60",
+    "jargon_level": 3,
+    "jargon_score": 65.0,
+    "explanation_original": "fully high-fidelity 3D / 4D organ geometric\n3D / 4D-CT projections or X-ray images\ntrivariate tensor-product deformation technique",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A297",
+    "participant_id": "P001",
+    "abstract_id": "abs60",
+    "jargon_level": 2,
+    "jargon_score": 10.0,
+    "explanation_original": "Notorious, I. E. ",
+    "explanation_context_reviewed": "notorious, i.e.",
+    "context_review_status": "investigator_reviewed"
+  },
+  {
+    "annotation_id": "A298",
+    "participant_id": "P050",
+    "abstract_id": "abs60",
+    "jargon_level": 3,
+    "jargon_score": 75.0,
+    "explanation_original": "Deep neural networks, reconstructing 3D organs from 2D medical images, deformation techniques, 3D/4D models, and real-time medical imaging.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  },
+  {
+    "annotation_id": "A299",
+    "participant_id": "P031",
+    "abstract_id": "abs60",
+    "jargon_level": 4,
+    "jargon_score": 82.0,
+    "explanation_original": "DeepOrganNet; single-view 2D-to-3D/4D reconstruction; deep learning; deformation fields; trivariate tensor-product deformation; latent descriptors; manifold meshes; imaging-dose versus reconstruction-quality trade-off; image-guided radiation therapy.",
+    "explanation_context_reviewed": null,
+    "context_review_status": "not_reviewed"
+  }
+]

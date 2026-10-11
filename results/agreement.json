@@ -1,0 +1,45 @@
+{
+  "method_version": "krippendorff-coincidence-ordinal-v2",
+  "method": "Ordinal distance from pooled category frequencies; coincidence weighting for unequal rater counts.",
+  "bootstrap_unit": "abstract; duplicate draws are distinct units",
+  "historical_note": "Earlier v1 reports used squared numeric distance and unweighted pairs; bootstrap draws sharing an ID were merged. Those estimates are superseded, not directly comparable.",
+  "overall": {
+    "estimate": 0.5728129910122672,
+    "lower": 0.4401420308740161,
+    "upper": 0.6669643282131137,
+    "n_boot": 1000,
+    "valid_bootstrap_samples": 1000,
+    "n_abstracts_with_multiple_raters": 60,
+    "interval_distance_sensitivity": 0.5717222030477027
+  },
+  "stratification_note": "The optional by_domain values are stratified by abstract topic, not by respondent expertise or respondent-selected field.",
+  "by_domain": {
+    "Genetics_Bioinformatics_Biomedical": {
+      "estimate": 0.5722053809002956,
+      "lower": 0.2897115319343501,
+      "upper": 0.7172601945470052,
+      "n_boot": 1000,
+      "valid_bootstrap_samples": 1000,
+      "n_abstracts_with_multiple_raters": 20,
+      "interval_distance_sensitivity": 0.5847660337868144
+    },
+    "HCI_IUI": {
+      "estimate": 0.5307788223502443,
+      "lower": 0.34226708202215467,
+      "upper": 0.6674014479949075,
+      "n_boot": 1000,
+      "valid_bootstrap_samples": 1000,
+      "n_abstracts_with_multiple_raters": 20,
+      "interval_distance_sensitivity": 0.51772063933287
+    },
+    "NLP_Computational_Linguistics": {
+      "estimate": 0.5868746141070029,
+      "lower": 0.3485794301734425,
+      "upper": 0.7217059561610045,
+      "n_boot": 1000,
+      "valid_bootstrap_samples": 1000,
+      "n_abstracts_with_multiple_raters": 20,
+      "interval_distance_sensitivity": 0.5792912895185622
+    }
+  }
+}

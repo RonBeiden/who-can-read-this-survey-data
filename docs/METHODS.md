@@ -1,0 +1,14 @@
+# Reproducibility notes
+
+- Inclusion unit: a valid 1–4 abstract-level rating. Unfinished survey answers are included; unanswered abstracts are not fabricated as observations.
+- Continuous score: blank or 0 becomes null. This does not remove the categorical rating or explanation. Aggregate score summaries were recomputed after this change.
+- Aggregation: retain all four vote counts and proportions; modal labels are reference labels, not adjudicated ground truth.
+- Ordinal alpha: coincidence weighting for different rater counts; ordinal distances use pooled category frequencies. Frozen intervals resample abstracts (1,000 bootstrap replicates), not individual answers. The supplied stdlib script independently recomputes point estimates, not identical bootstrap draws.
+- Split: 48 development / 12 test, 16 / 4 per domain, constrained allocation by domain, modal level and ambiguity, with seed 20260821. Some rare domain/level cells cannot appear in both partitions. The singleton biology level-1 cell remains in development.
+- Readability: textstat 0.7.10, English pronunciation dictionary cmudict, using textstat's out-of-vocabulary syllable fallback. Scores are preserved in `baselines/readability_scores.csv`; abstract SHA256 checks identify the exact scored bodies. Public evaluation uses these scores, without network calls. Re-scoring with another dictionary/library version may change results.
+- Calibration: sklearn DecisionTreeClassifier(max_leaf_nodes=4, min_samples_leaf=4, random_state=20260821), fitted to each formula alone using development modal labels. Public tree inference reproduces sklearn float32 inputs. No test-based threshold tuning.
+- Classification metrics: accuracy, macro-F1 across all four labels (undefined class F1 = 0), quadratic weighted kappa, mean absolute ordinal-level error. Each abstract has equal evaluation weight. The majority baseline predicts the most frequent development modal label.
+- Correlations: rank correlation, average ranks for ties, exclude missing pairs. “All” correlations are descriptive explorations, not held-out performance estimates. Annotation-level observations are clustered by participant and abstract.
+- Context review: originals retained; source-supported corrections recorded separately. Only the 17 explicitly reviewed answers have context-reviewed text. Held-out explanation review is audit-only, never teacher guidance. The codebook and independent verification are not approved by this text review.
+
+This small, expert-rated benchmark is not a population-representative survey or a measure of an individual's literacy. Qualifications are self-reported; credentials and distinct real-world identities were not independently verified.

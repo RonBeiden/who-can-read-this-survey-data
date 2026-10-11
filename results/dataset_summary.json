@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "snapshot": "2026-10-08",
+  "participants": 67,
+  "annotations": 299,
+  "abstracts": 60,
+  "domains": [
+    {
+      "domain": "genetics_bioinformatics_biomedical",
+      "participants": 22,
+      "abstracts": 20,
+      "annotations": 102
+    },
+    {
+      "domain": "nlp",
+      "participants": 26,
+      "abstracts": 20,
+      "annotations": 116
+    },
+    {
+      "domain": "hci_iui",
+      "participants": 19,
+      "abstracts": 20,
+      "annotations": 81
+    }
+  ],
+  "participant_degrees_aggregate_only": {
+    "PhD": 22,
+    "MSc (Master's degree)": 38,
+    "Post-doc / Faculty": 7
+  },
+  "zero_scores_converted_to_null": 5,
+  "missing_scores_total": 13,
+  "context_reviewed_explanations": 17,
+  "annotation_origin_policy": "All survey responses are treated as human responses. Origin is not independently verified.",
+  "consent_and_abstract_redistribution_permission": "Confirmed by the dataset owner before publication.",
+  "privacy": "Random release-specific participant IDs; original IDs and mapping excluded. No row-level demographics or contact information.",
+  "known_metadata_mismatches": [
+    "abs23",
+    "abs49",
+    "abs52"
+  ],
+  "score_policy": "Continuous score 0 denotes unanswered and is exported as null. Levels 1-4 remain unchanged."
+}

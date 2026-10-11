@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this dataset when using the annotations or benchmark results."
+type: dataset
+title: "Who Can Read This? Scientific Abstract Jargon Survey Dataset"
+authors:
+  - family-names: Beiden
+    given-names: Ron
+version: 1.0.0
+date-released: 2026-10-11
+url: "https://github.com/RonBeiden/who-can-read-this-survey-data"
+license: CC-BY-4.0
+abstract: "Expert-rated minimum reader expertise for 60 scientific abstracts in genetics/bioinformatics/biomedical, NLP, and HCI/IUI. Includes 299 ratings, original explanations, vote distributions, and six traditional readability baselines. Third-party abstract texts are excluded from the dataset license."

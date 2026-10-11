@@ -1,0 +1,2 @@
+# Preserve exact release bytes and text checksums on Windows and Linux.
+* -text
