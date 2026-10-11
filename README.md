@@ -22,7 +22,7 @@ With pandas, use `pd.read_csv(path, na_values=["null"])`.
 
 ## Survey and participants
 
-The Qualtrics survey asked domain-qualified adults to judge the **minimum expertise needed to understand the main message**, not every technical detail. Participants selected a domain and received a set of five abstracts. Each abstract had a four-level classification, a continuous expertise score, and a question asking which vocabulary/concepts influenced the classification. All valid abstract-level answers are retained, including answers from unfinished surveys.
+The exported Qualtrics rating question asks: **“In your opinion, what is the minimum level of education required to fully understand this abstract?”** Participants selected a domain and received a set of five abstracts. Each abstract had a four-level classification, a continuous expertise score, and a question asking which vocabulary/concepts influenced the classification. All valid abstract-level answers are retained, including answers from unfinished surveys.
 
 The 67 contributing survey records report MSc (38), PhD (22), or post-doc/faculty (7) backgrounds. These are self-reports, not independently verified credentials. Records are treated as distinct participants; person-level deduplication beyond the survey record was not independently verified. All survey responses are treated as human responses.
 
