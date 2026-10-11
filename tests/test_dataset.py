@@ -31,11 +31,16 @@ class DatasetTests(unittest.TestCase):
         abstracts = reproduce.rows(ROOT / 'data/abstracts.csv')
         self.assertEqual(len(abstracts), 60)
         self.assertEqual(sum(r['split'] == 'test' for r in abstracts), 12)
+        corrections = json.loads((ROOT / 'data/source_corrections.json').read_text(encoding='utf-8'))
+        self.assertEqual(set(corrections), {'abs23', 'abs49', 'abs52'})
         for r in abstracts:
             self.assertEqual(hashlib.sha256(r['abstract_text'].encode()).hexdigest(), r['abstract_sha256'])
-            if r['abstract_id'] in ['abs23', 'abs49', 'abs52']:
-                self.assertEqual(r['title'], 'null')
-                self.assertEqual(r['openalex_id'], 'null')
+            if r['abstract_id'] in corrections:
+                correction = corrections[r['abstract_id']]
+                for field in ['title', 'openalex_id', 'abstract_sha256']:
+                    self.assertEqual(r[field], correction[field])
+                self.assertEqual(r['metadata_status'], 'source_verified_corrected')
+                self.assertTrue(correction['doi'].startswith('https://doi.org/'))
         summaries = reproduce.rows(ROOT / 'data/abstract_summary.csv')
         self.assertEqual(sum(int(r['n_annotations']) for r in summaries), 299)
         self.assertEqual(sum(int(r['n_nonmissing_scores']) for r in summaries), 286)

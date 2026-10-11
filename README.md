@@ -70,8 +70,8 @@ Participant IDs are random release-specific codes. No participant emails, names,
 
 Original explanations retain their language and wording. A separate context-reviewed field is available for 17 investigator-reviewed answers; the other 282 remain unreviewed. These checks do not constitute independent dual coding or codebook approval. Abstract 55 retains one unresolved phrase. No unapproved AI-normalized explanation is presented as verified data.
 
-Titles/source identifiers for **abs23, abs49 and abs52** do not match the displayed abstract body. Those metadata fields are null and flagged; the actual rated text is unchanged. Do not infer paper identity from these records until source metadata is resolved.
+Version 1.0.1 corrects the titles and OpenAlex identifiers for **abs23, abs49 and abs52**, verified against the original papers and DOI records. The exact survey texts, answers and benchmark results are unchanged. DOI links and text checksums are in `data/source_corrections.json`.
 
 The dataset owner confirmed permission to share anonymized explanations and abstract texts. Annotations and derived data are **CC BY 4.0**; code is **MIT**. Third-party abstract texts retain their original rights and are not relicensed by this repository. See `LICENSE.md` and `docs/DATA_DICTIONARY.md`.
 
-Snapshot: 8 October 2026. Version: 1.0.0. To cite, use `CITATION.cff`. Corrections can be reported through GitHub issues without posting participant information.
+Snapshot: 8 October 2026. Version: 1.0.1. To cite, use `CITATION.cff`. Corrections can be reported through GitHub issues without posting participant information.

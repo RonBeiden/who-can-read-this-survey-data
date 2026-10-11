@@ -12,7 +12,7 @@ Scientific abstract texts are third-party material and retain their original rig
 They are excluded from the repository's CC BY 4.0 grant. The dataset owner confirmed
 permission to distribute the displayed texts. This statement is not a blanket
 downstream relicensing grant. Consult each original source's terms for reuse.
-Three unresolved source/title mismatches are marked in the data.
+Source links for three corrected paper identities are recorded in `data/source_corrections.json`.
 
 ## Code (MIT)
 

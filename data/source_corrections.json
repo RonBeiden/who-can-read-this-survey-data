@@ -1,0 +1,29 @@
+{
+  "abs23": {
+    "title": "Accurate targeted long-read DNA methylation and hydroxymethylation sequencing with TAPS",
+    "openalex_id": "https://openalex.org/W3010871897",
+    "doi": "https://doi.org/10.1186/s13059-020-01969-6",
+    "publication_year": 2020,
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7053107/",
+    "abstract_sha256": "c8d298a1c429e39be40a8803a4d1a308f8d51b41bf4e052d10aed4e5737fc279",
+    "verified_on": "2026-10-11"
+  },
+  "abs49": {
+    "title": "Phase-separated condensate-aided enrichment of biomolecular interactions for high-throughput drug screening in test tubes",
+    "openalex_id": "https://openalex.org/W3028683107",
+    "doi": "https://doi.org/10.1074/jbc.ra120.012981",
+    "publication_year": 2020,
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7450138/",
+    "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
+    "verified_on": "2026-10-11"
+  },
+  "abs52": {
+    "title": "Twenty-five years of information extraction",
+    "openalex_id": "https://openalex.org/W2974604908",
+    "doi": "https://doi.org/10.1017/s1351324919000512",
+    "publication_year": 2019,
+    "source_url": "https://www.cambridge.org/core/journals/natural-language-engineering/article/abs/twentyfive-years-of-information-extraction/0E5BB0D6AE906BB3C25037E2D74CA8F3",
+    "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
+    "verified_on": "2026-10-11"
+  }
+}

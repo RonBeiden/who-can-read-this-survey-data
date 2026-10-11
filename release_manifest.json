@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sha256": {
     ".gitattributes": "8456c307bc0084a76abb6c33b0e5d06e51135fee42567434db2d8fb482a12ed5",
     ".github/workflows/validate.yml": "7122c038035648a9904c119759b09887492f74dc4d9337b17da293cd6550d24a",
@@ -13,22 +13,23 @@
     "baselines/heldout_comparison.csv": "e23725b80dd3dfbd922ebb1b1b4f67f5ee6507b60c9ef25e1797e02ea9db4607",
     "baselines/readability_scores.csv": "d39dbe714f6ec292c344a4abeec9502b2c005960c6b34479705d6ecc7d6785ca",
     "baselines/test_predictions.csv": "cad81d41f70f8340af1762fec3573f99fe87352e176fb5765ecbf784a79a48af",
-    "CITATION.cff": "208050eaf9f205c08b43283ab548cb3ea3659ac98ba612abb161f51135e94db6",
+    "CITATION.cff": "a5be5cd73e57fa782407692be6405c8c863caa557f7b499395fc461b9d8f3eb4",
     "data/abstract_summary.csv": "b1990179a1f563ae7858f140fff447f5922087154ca90a86f0398d310dfc8c30",
-    "data/abstracts.csv": "fd7f6423333592f4e0bb9ebfc25393faf3b8a4f7cb603367d84006613a721e2f",
+    "data/abstracts.csv": "b9d160552174f17aa16c47239da9c939625959b38c8a76c4df957513995b82dd",
     "data/annotations.csv": "28b16609fb809da96e9bcc1fef175653059061f5f62f27fb0d266470f8e16c4c",
     "data/annotations.json": "50ad387d4a88e429b8758e436b1588f485cdeeb966d599d21af0871f0f37c98a",
-    "docs/DATA_DICTIONARY.md": "f2270eca86035f46aaa2557177b997537bd38c855a9917126c856f3b7cf0ad1f",
+    "data/source_corrections.json": "23f41de7517bd19e717b2df6586a4ff071d7567379d6eead2ecfa916bbcd0fc9",
+    "docs/DATA_DICTIONARY.md": "5c6ebda2d2c728b063d97f9fbfb80d35285ff54a38f30285955114f15c97b209",
     "docs/METHODS.md": "caab2bb93c62ef0e06827e3cdbaaa6d6fdd86d121c4c4a79227603d188178716",
-    "LICENSE.md": "bba2fb36be6f1fa37ee9dfa6bd57e479951a8bc788eb796281d35414d46d931c",
-    "README.md": "226b9a325995ace16a536ce7eb3569a0848b86eb162067173c8f621fc175d78c",
+    "LICENSE.md": "c064a3d5f05f8bf45fef13373974703a6b3c701402d309299ee93c42de4fb9fa",
+    "README.md": "b96b386235c16c8828416876b59679e3c7d331c1f8280fcc48079a9dcbe04422",
     "results/agreement.json": "c6bf814b69c391f146ba0052ef560def347f6f51b8a910aa753096b14b7e3d24",
     "results/agreement_recomputed.json": "2341d9a1ccd0a9668a2aad480eb5fe50d19cf62c23bddf1e7614636c408284f9",
     "results/baseline_comparison.csv": "fcede1fb05be801a39ff3666aad75ab0c88b1ff085bc56a36a5290f6b9e7ac0b",
-    "results/dataset_summary.json": "38d431a920e34c013c4fd21fe513ff5184a0ba88d0c6e2a2b5ed5190b5799c50",
+    "results/dataset_summary.json": "632c86ea3327ad31cab9535bbd830b99cc8c8bef7ff9adce279f99b9dc2b2840",
     "results/readability_correlations.csv": "18ce2cb18593b0728e0ddbf00dd721a0476c2fbdcbf741e110a94077997e39d0",
     "scripts/reproduce.py": "b1740119d844c98c394f15a14301b264e249a9c1e4dabd06041d0174252d6900",
-    "scripts/validate_release.py": "4dc48ac8ec09b98bb0ab76f737e68361c3f1ca7e99ac367d8f3e1dcbda4a20e9",
-    "tests/test_dataset.py": "90ded9d8908d0572ef4217c388272b47f69f905989255fb9e91e3711eb322d80"
+    "scripts/validate_release.py": "7411748c537458ed7b3d111f18a9db3f9e61e7fa6136179c2b5151040e03d287",
+    "tests/test_dataset.py": "1a56f9f75c78642f80423e31f3e0aca6a996f9a2d55a27bb0d0df91e23136914"
   }
 }

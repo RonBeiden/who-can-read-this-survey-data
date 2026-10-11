@@ -31,7 +31,8 @@ def validate(seal=False):
         files.append(path)
     hashes = {p.relative_to(ROOT).as_posix(): hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(files)}
     if seal:
-        MANIFEST.write_text(json.dumps({'version': '1.0.0', 'sha256': hashes}, indent=2) + '\n', encoding='utf-8')
+        version = json.loads((ROOT / 'results/dataset_summary.json').read_text(encoding='utf-8'))['version']
+        MANIFEST.write_text(json.dumps({'version': version, 'sha256': hashes}, indent=2) + '\n', encoding='utf-8')
     else:
         expected = json.loads(MANIFEST.read_text(encoding='utf-8'))['sha256']
         if expected != hashes:
