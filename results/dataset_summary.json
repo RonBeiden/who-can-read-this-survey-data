@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "snapshot": "2026-10-08",
   "participants": 67,
   "annotations": 299,
@@ -41,5 +41,9 @@
     "abs49",
     "abs52"
   ],
-  "score_policy": "Continuous score 0 denotes unanswered and is exported as null. Levels 1-4 remain unchanged."
+  "score_policy": "Continuous score 0 denotes unanswered and is exported as null. Levels 1-4 remain unchanged.",
+  "best_english_explanations": 299,
+  "unresolved_best_english_explanations": 2,
+  "reasoning_training_candidates": 238,
+  "best_english_human_quality_review_completed": false
 }

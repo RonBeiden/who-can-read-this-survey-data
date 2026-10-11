@@ -14,6 +14,34 @@ spec.loader.exec_module(reproduce)
 
 
 class DatasetTests(unittest.TestCase):
+    def test_best_english_and_training_split(self):
+        answers = json.loads((ROOT / 'data/annotations.json').read_text(encoding='utf-8'))
+        abstracts = {r['abstract_id']:r for r in reproduce.rows(ROOT / 'data/abstracts.csv')}
+        ledger = json.loads((ROOT / 'data/explanation_normalization.json').read_text(encoding='utf-8'))
+        self.assertEqual(ledger['model'], 'gpt-5-6-luna')
+        self.assertFalse(ledger['human_review_completed'])
+        records = {r['annotation_id']:r for r in ledger['records']}
+        self.assertEqual(len(records), 299)
+        for r in answers:
+            norm = records[r['annotation_id']]
+            self.assertEqual(r['explanation_best_english'], norm['english'])
+            self.assertIsNone(re.search(r'[\u0590-\u05ff\u0600-\u06ff\u0400-\u04ff]', norm['english']))
+            self.assertEqual(hashlib.sha256(r['explanation_original'].encode()).hexdigest(), norm['original_explanation_sha256'])
+            self.assertEqual(abstracts[r['abstract_id']]['abstract_sha256'], norm['abstract_sha256'])
+            self.assertEqual(r['reasoning_training_candidate'], norm['split'] == 'train' and not norm['unresolved'])
+        self.assertEqual(sum(r['reasoning_training_candidate'] for r in answers), 238)
+        self.assertEqual(sum(r['explanation_best_status'] == 'unresolved_excluded' for r in answers), 2)
+        self.assertEqual(records['A285']['english'].split(', ')[-3], 'nominal prediction')
+        self.assertIn('not necessarily reason with a high schooler', records['A274']['english'])
+        spec = importlib.util.spec_from_file_location('training_targets', ROOT / 'scripts/prepare_reasoning_training.py')
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        with self.assertRaises(ValueError):
+            module.select_targets(answers, abstracts)
+        targets = module.select_targets(answers, abstracts, allow_ai_standardized=True)
+        self.assertEqual(len(targets), 238)
+        self.assertTrue(all(abstracts[r['abstract_id']]['split'] == 'train' for r in targets))
+
     def test_coverage_and_nulls(self):
         annotations = json.loads((ROOT / 'data/annotations.json').read_text(encoding='utf-8'))
         self.assertEqual(len(annotations), 299)
