@@ -9,7 +9,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "eugenic; and the historical background",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -22,7 +22,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Eugenics, eugenic policies, involuntary sterilization, coerced sterilization, genetic history, public health, Nazi eugenics, minority groups, and the historical context of reproductive rights.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -35,7 +35,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Historical eugenics, immigration restriction, sterilization laws, involuntary sterilization, Nazi eugenics, vulnerable populations, minority groups, and reproductive autonomy.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -48,7 +48,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "eugenics; involuntary sterilization; immigration restriction; public policy; Nazi eugenics; reproductive coercion; minority groups",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -61,7 +61,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "eugenics, coerced sterilization, genetics and society, reproductive ethics, historical public health policy, Nazi eugenics, minority rights, medical autonomy",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -74,7 +74,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "eugenics, population history, public health, genetic policy, coerced sterilization, medical ethics, social determinants",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -178,7 +178,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Hierarchy, corpora, Sprite",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -191,7 +191,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Topic models\nPredictive tasks\nIncorporate structures into model priors",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -204,7 +204,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "hierarchies, correlations, supervision, predictive tasks",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -217,7 +217,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "topic models, structured priors, factorizations, correlations, supervision, inference, predictive tasks",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -230,7 +230,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "hierarchies\nfactorizations\ncorrelations\nsupervision",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -282,7 +282,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Human biospecimens, HeLa cells, Henrietta Lacks, research ethics, informed consent, public opinion, biospecimen policy, autonomy, regulatory change, and equitable access to research benefits.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -295,7 +295,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "HeLa cells, Henrietta Lacks, biospecimen research, informed consent, public participation, regulatory policy, autonomy, shared benefits, and ethical governance.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -308,7 +308,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Human biospecimens; Henrietta Lacks; HeLa cells; informed consent; public input; research access; autonomy; ethics and policy",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -321,7 +321,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Biospecimen research, HeLa cells, Henrietta Lacks, informed consent, research ethics, public participation, autonomy, benefit sharing, regulatory policy",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -334,7 +334,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Biospecimens, informed consent, HeLa cells, research ethics, public input, autonomy, regulatory policy, equitable access to research benefits",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -347,7 +347,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Genome editing, programmable nucleases, next-generation sequencing (NGS), CRISPR-Cas9, mutation frequencies, Cas-Analyzer, client-side JavaScript, and paired nucleases.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -360,7 +360,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation-frequency analysis, Cas-Analyzer, browser-based client-side tools, and single versus paired nucleases.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -373,7 +373,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9; programmable nucleases; NGS mutation frequencies; Cas-Analyzer; client-side JavaScript; genome-editing data analysis.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -386,7 +386,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation frequencies, genome editing, client-side analysis, JavaScript implementation, single nuclease, and paired nuclease.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -399,7 +399,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation frequency analysis, client-side computation, genome editing, and paired nucleases.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -412,7 +412,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Professional terminology, complex text, but at a level that is possible to understand.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -425,7 +425,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Grammar formalisms like CCG, TAG, LFG, HPSG; lambda calculus; neo-Davidsonian logical forms; semantic parsing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -438,7 +438,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CCG, TAG, LFG, HPSG, syntactic structures, neo-Davidsonian",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -451,7 +451,7 @@
     "explanation_context_reviewed": "CCG, TAG, LFG, HPSG",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "CCG, TAG, LFG, HPSG",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -464,7 +464,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CCG, TAG, LFG, HPSG",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -477,7 +477,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CCG, TAG, LFG and HPSG; semantic logical forms; lambda calculus for deriving neo-Davidsonian logical forms from dependency trees; CCG-based representation.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -490,7 +490,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "In 2016, a high-level Master's student in Computational Linguistics may have understood this paragraph. However, nowadays, only people rigorously trained in this field would have known the various grammars CCG, TAG, LFG, and HPSG, lambda calculus, and neo-Davidsonian forms.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -503,7 +503,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "There are terms and wording here that require understanding of specific topics. The wording is relatively complex.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -516,7 +516,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Stemmers, Porter stemmer, topic modeling, English corpora, likelihood, coherence, model stability, entropy.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -529,7 +529,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Corpora, stemmer, stemming algorithms, degrade topic stability",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -542,7 +542,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Stemmer, corpora, stemming, and even for experts, I think they usually use “corpus,” not “corpora.”",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -555,7 +555,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Porter stemmer, English corpora, topic modeling",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -568,7 +568,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Rule-based stemmers; Porter stemmer; preprocess English corpora for topic modeling; we train and evaluate topic models on a variety of corpora using several different stemming algorithms. We examine several different quantitative measures of the resulting models, including likelihood, coherence, model stability, and entropy.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -581,7 +581,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "There are several concepts that are not widely known, e.g., stemmers, topic models, model stability, entropy.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -594,7 +594,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Object-Oriented Ontology, Agential Realism, paradigm, paradigm, re-framing, accountabilities, responsibilities, ethical encounters",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -607,7 +607,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "entanglement, neuro-implants, cyberphysical systems, ontological uncertainties, epistemological diffusion, post-humanism, relational ontologies, Entanglement HCI, Actor-Network Theory, Post-Phenomenology, Object-Oriented Ontology, Agential Realism, knowledge generation processes, user-centred design",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -620,7 +620,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "ontological uncertainties, Entanglement",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -633,7 +633,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "naïve, salient, predicting, backstory, patterns, phenomenon, novice",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -646,7 +646,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "visualization, visual salience",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -659,7 +659,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "salience, plagues",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -672,7 +672,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Multiplexed, multi-channel microscopy… only people in this particular subfield will understand these terms.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -685,7 +685,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Way too much buzzword bingo. Requires specific knowledge of biology and mathematics concepts. Very poor writing style.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -698,7 +698,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "unsupervised and supervised learning\nhigh-dimensional multi-channel\nmicroscopy images",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -711,7 +711,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "single-cell phenotypes in high-dimensional multi-channel microscopy images of human tumors and tissues",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -724,7 +724,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Single-cell phenotypes, multiplexed microscopy, digital histology, supervised and unsupervised learning, analytical provenance, clustering, convolutional neural networks, phenotype trees, cancer and immune cell identification, pathologist-in-the-loop analysis.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -737,7 +737,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "AR, immersive, prompter, flashcard-based, augmented, scored, same-day, recall, sustained",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -750,7 +750,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "user study, within-subjects, recall tests",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -763,7 +763,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "both more effective and more enjoyable for the majority of participants",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -776,7 +776,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "augmented reality, immersive vocabulary learning, within-subjects study design, flashcard comparison, productive recall, delayed recall, learning effectiveness and enjoyment",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -789,7 +789,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Antigenic variation, homologous recombination, three-dimensional genome architecture, chromatin conformation, DNA accessibility, haplotype-specific assembly, Trypanosoma brucei, Hi-C, subtelomeric regions, ATAC-seq, single-cell RNA sequencing, histone variants H3.V/H4.V, and antigen-gene switching.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -802,7 +802,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Antigenic variation, immune evasion, homologous recombination, genome architecture, chromatin accessibility, Trypanosoma brucei, Hi-C, subtelomeric compartments, ATAC-seq, single-cell RNA-seq, and histone variants.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -815,7 +815,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Antigenic variation; immune evasion; homologous recombination; Trypanosoma brucei; Hi-C genome architecture; histone variants; chromatin accessibility; single-cell sequencing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -828,7 +828,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Antigenic variation, immune evasion, homologous recombination, Trypanosoma brucei, long-read assembly, Hi-C chromatin contacts, subtelomeric compartments, histone variants, ATAC-seq, single-cell RNA sequencing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -841,7 +841,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Antigenic variation, homologous recombination, haplotype-specific assembly, long-read sequencing, Hi-C, chromatin architecture, histone variants, ATAC-seq, single-cell RNA sequencing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -854,7 +854,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Bias, F1, syntactic structure",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -867,7 +867,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "F1\nNatural language\nCorpora\nModels\nBaseline",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -880,7 +880,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Baselines, corpus",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -893,7 +893,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Coreference resolution, ambiguous pronouns, natural language understanding, gender bias, corpus, GAP dataset, neural models, F1 score",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -906,7 +906,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "GAP\nNatural language",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -919,7 +919,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Back propagation, recall, O(n^3)",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -932,7 +932,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Parser\nRecall\nEdges\nO(n3)\nRuntime\nBack propagation\nGradients",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -945,7 +945,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "O(n3), loopy CRFs",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -958,7 +958,7 @@
     "explanation_context_reviewed": "dependency parsing, higher order interactions, cubic runtime, posterior distributions, loopy belief propagations, structured factors, gradient based training, back propagation, differentiable circuits, loopy CRFs, conditional log likelihood ",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "dependency parsing, higher-order interactions, cubic runtime, posterior distributions, loopy belief propagations, structured factors, gradient-based training, back propagation, differentiable circuits, loopy CRFs, conditional log likelihood",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -971,7 +971,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRFs\ngradient",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1062,7 +1062,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Single-cell whole-genome amplification (WGA), DOP-PCR, MDA, MALBAC, genome coverage, uniformity, reproducibility, chimera rates, allele dropout, false positives, copy-number variations, deep sequencing, CTCs, PGD, and PGS.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1075,7 +1075,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Whole-genome amplification, DOP-PCR, MDA, MALBAC, single-cell genomics, genome coverage, amplification bias, allele dropout, chimera formation, copy-number variation, and clinical genomics applications.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1088,7 +1088,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Single-cell genomics; whole-genome amplification; DOP-PCR; MDA; MALBAC; genome coverage; allele dropout; sequencing bias; copy-number variation.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1101,7 +1101,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Single-cell whole-genome amplification, DOP-PCR, MDA, MALBAC, genome coverage, amplification bias, allele dropout, chimeras, false positives, copy-number variation, and deep sequencing.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1114,7 +1114,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Single-cell genomics, whole-genome amplification, MDA, MALBAC, genome coverage, allele dropout, chimera rates, variant calling, and copy-number variation.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1192,7 +1192,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The text is not complex; it can be understood simply.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1205,7 +1205,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The abstract is written in very general terms with no technical details or complex terminology.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1218,7 +1218,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Natural language generation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1231,7 +1231,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "natural language generation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1244,7 +1244,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Unclear things: commented upon; willing to pay hard cash;",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1257,7 +1257,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "natural language generation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1270,7 +1270,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "All the words are simple, and the connecting ideas are clear.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1283,7 +1283,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "natural language generation, commercial software, industry adoption, current applications, market participants, and future development",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1296,7 +1296,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "sgRNA, CRISPR-Cas9, crRNA-tracrRNA duplex, RNA polymerase III pause signal, knockout efficiency, genome editing, non-coding genes",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1309,7 +1309,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9; single-guide RNA (sgRNA); crRNA–tracrRNA duplex; RNA polymerase III pause signal; knockout efficiency; genome editing; gene deletion; non-coding genes",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1322,7 +1322,7 @@
     "explanation_context_reviewed": "CRISPR-Cas9; sgRNA architecture; crRNA–tracrRNA duplex; RNA polymerase III termination; thymine tract; knockout efficiency; gene deletion",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "CRISPR-Cas9; sgRNA architecture; crRNA–tracrRNA duplex; RNA polymerase III termination; thymine tract; knockout efficiency; gene deletion",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1335,7 +1335,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9, single-guide RNA design, crRNA and tracrRNA structure, RNA polymerase III, transcription efficiency, guide optimization, knockout efficiency, gene deletion, non-coding targets",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1348,7 +1348,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CRISPR-Cas9, sgRNA, crRNA, tracrRNA, RNA polymerase, guide RNA structure, duplex extension, thymine tract mutation, knockout efficiency, non-coding genes, genome editing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1361,7 +1361,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Usual concepts that can be learned in undergraduate study, not complex specific terminology.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1374,7 +1374,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "microbiome, inflammatory bowel disease, microbiome sequencing, metabolome, immune-system interactions, animal models, systems-level biology",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1387,7 +1387,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "microbiome; sequencing technologies; analytical and software advances; animal models; metabolome; immune system; host–microbe interactions; systems biology",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1400,7 +1400,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "microbiome ecology; sequencing and computational analysis; inflammatory bowel disease; host–microbe signaling; metabolome; immune system; animal models",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1413,7 +1413,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "microbiome sequencing, metagenomic analysis, microbial communities, metabolome integration, host immune interactions, inflammatory bowel disease, animal models, systems biology",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1426,7 +1426,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "microbiome, metagenomic, metabolome, host–microbe interactions, inflammatory bowel disease, animal models, systems biology, immune system integration, microbiome associations with neural and psychiatric disorders",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1439,7 +1439,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "sequencing technology\nmicrobiome\nmetabolome\nimmune system",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1504,7 +1504,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Nanopore, Illumina sequencing",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1517,7 +1517,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "lrTAPS, DNA methylation, hydroxymethylation, base-resolution sequencing, Oxford Nanopore, PacBio SMRT, Illumina sequencing, epigenetic phasing, mouse embryonic stem cells, and hepatitis B virus integration.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1530,7 +1530,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "DNA methylation; hydroxymethylation; epigenetic marks; long-read sequencing; Oxford Nanopore; PacBio SMRT; base-resolution profiling; long-range phasing; difficult genomic regions",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1543,7 +1543,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "DNA methylation, hydroxymethylation, long-read sequencing, Oxford Nanopore, PacBio SMRT, epigenetic phasing, targeted profiling, difficult genomic loci, viral integration",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1556,7 +1556,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "SMT, tree-based SMT framework, word reordering phenomena",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1569,7 +1569,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "SMT, empirical trials, string/tree-based frameworks, qualitative analysis",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1582,7 +1582,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "SMT, tree-based, statistical modeling, linguistic knowledge",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1595,7 +1595,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Specific domain, but understandable (the subject)",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1608,7 +1608,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Comprehensive survey—as a statistical modeling challenge and as a natural language phenomenon, qualitative analysis, SMT framework",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1621,7 +1621,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "SMT, string-based and tree-based models, statistical modeling, natural language processing, linguistic phenomena, empirical analysis",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1634,7 +1634,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "KBQA, KB subgraphs, Neural Program Induction (NPI), combinatorial explosion in program space, terminal rewards and reward sparsity, NSM, F1",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1647,7 +1647,7 @@
     "explanation_context_reviewed": "KBQA, NPI, CIPITR, gold program, key value memory networks, NSM, F1 ",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "KBQA, NPI, CIPITR, gold program, key-value memory networks, NSM, F1",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1660,7 +1660,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "KBQA, NPI, NSM, memory network",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1673,7 +1673,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Really complex, niche domain, and a lot of prior information and knowledge is needed.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1686,7 +1686,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "KBQA, comparative reasoning over KB subgraph, combinatorial explosion, CIPITR, NSM",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1699,7 +1699,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "KBQA, NPI, CIPITR, F1 score, auxiliary rewards, combinatorial program search, sparse rewards, KB schema, answer types, neural symbolic machines",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1712,7 +1712,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "DNA methylation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1725,7 +1725,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Schizophrenia genetics, epigenome-wide association studies, DNA methylation, differentially methylated regions, confounders, polygenic architecture, methylation QTLs, Bayesian co-localization, polygenic risk scores, and regulatory variation.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1738,7 +1738,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "heritability and genetic risk; EWAS design; DNA methylation; differential methylation; cohort replication; confounding variables; mQTLs; Bayesian co-localization; polygenic risk scores; regulatory interpretation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1751,7 +1751,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "schizophrenia genetics, epigenome-wide association study, DNA methylation, differential methylation, cohort replication, confounding factors, mQTLs, Bayesian co-localization, polygenic risk scores, regulatory variants",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1764,7 +1764,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "gemcitabine, gallbladder cancer, CRISPR screen, ELP5, apoptosis, Elongator complex, U34 tRNA modification, hnRNPQ, P53 IRES translation, chemotherapy sensitivity",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1777,7 +1777,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "gemcitabine; gallbladder cancer; CRISPR screen; ELP5; Elongator complex; U34 tRNA modification; hnRNPQ; P53-dependent apoptosis; IRES translation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1790,7 +1790,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "gemcitabine resistance; gallbladder cancer; ELP5; Elongator complex; wobble U34 tRNA modification; hnRNPQ; P53 IRES translation; CRISPR screening",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1803,7 +1803,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "gemcitabine response, genome-wide CRISPR screening, ELP5 loss, Elongator complex, U34 tRNA modification, hnRNPQ translation, P53 signaling, apoptosis, chemotherapy sensitivity",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1816,7 +1816,7 @@
     "explanation_context_reviewed": "gemcitabine resistance, genome wide CRISPR screening, ELP5 depletion, P53 dependent apoptosis, Elongator complex, wobble U34 tRNA modifications, hnRNPQ translation, IRES, gallbladder cancer",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "gemcitabine resistance, genome-wide CRISPR screening, ELP5 depletion, P53-dependent apoptosis, Elongator complex, wobble U34 tRNA modifications, hnRNPQ translation, IRES, gallbladder cancer",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1829,7 +1829,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Complex acronyms and terminology not taught at university and understandable within that subfield.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1842,7 +1842,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Deep learning",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1855,7 +1855,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Deep learning is only intelligible to advanced undergraduates or graduate students.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1868,7 +1868,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Deep learning",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1881,7 +1881,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Deep-learning-based techniques",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1894,7 +1894,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Image captioning, object recognition, visual attributes and relationships, sentence generation, syntactic and semantic correctness, deep learning, benchmark datasets, evaluation metrics.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1907,7 +1907,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "CCG, LFG, parsers, bilexical structure …",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1920,7 +1920,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "I think the text includes too many terms and concepts that someone without this domain knowledge won't understand.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1933,7 +1933,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "That looks like a full-on word salad for someone who is not deeply immersed in the field.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1946,7 +1946,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "by CCG, LFG, and HPSG. Too long, concerning the disambiguation problem",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1959,7 +1959,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Parallel entities, synchronization, object-oriented",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1972,7 +1972,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "For an advanced undergraduate or early graduate student. Relevant concepts (actors, active objects) are explained briefly, even if they are unfamiliar. This is obviously a survey article, so one can expect that there will be more explanation in the full text.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1985,7 +1985,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "parallel systems\nprogramming models\nsynchronization\nloosely coupled parallel entities",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -1998,7 +1998,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The whole abstract",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2011,7 +2011,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Parallel programming, synchronization, asynchronous messaging, actor model, mailboxes, active objects, object-oriented programming, language comparison, implementation tradeoffs.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2024,7 +2024,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "snHi-C, knockout",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2037,7 +2037,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Totipotency, zygotic genome organization, single-nucleus Hi-C, chromatin loops, cohesin, loop extrusion, Scc1, Wapl, maternal and paternal genomes, epigenetic reprogramming, and polymer modeling.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2050,7 +2050,7 @@
     "explanation_context_reviewed": "3D genome organization; single-cell Hi-C; chromatin loops; cohesin and Scc1; Wapl regulation; loop extrusion; epigenetic reprogramming; polymer simulations; maternal versus paternal genomes",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "3D genome organization; single-cell Hi-C; chromatin loops; cohesin and Scc1; Wapl regulation; loop extrusion; epigenetic reprogramming; polymer simulations; maternal versus paternal genomes",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2063,7 +2063,7 @@
     "explanation_context_reviewed": "3D genome architecture, single-cell Hi-C, chromatin loops, cohesin complex, Scc1, Wapl, loop extrusion, epigenetic reprogramming, polymer modeling, embryonic genome folding",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "3D genome architecture, single-cell Hi-C, chromatin loops, cohesin complex, Scc1, Wapl, loop extrusion, epigenetic reprogramming, polymer modeling, embryonic genome folding",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2154,7 +2154,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "visual scanning, field of view",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2167,7 +2167,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The text describes a \"controlled experiment\" manipulating specific variables like field of view and visual complexity, and measuring target detection and adherence to strategy. A background in science, engineering, or social sciences (typically gained in a B.Sc. program) is usually needed to understand how experimental design, variables, and performance metrics work together.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2180,7 +2180,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Virtual reality training, field of view, visual complexity, controlled experiment, target detection, strategy adherence, transfer of learning, simulator fidelity, outcome validity.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2193,7 +2193,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Virtual reality training systems, experiment, significantly affected. That is, if learning a prescribed strategy or skill is the goal of a training exercise,\n\nIt's not that simple a text, and it needs to be read carefully, but the words used are quite familiar outside the HCI field.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2206,7 +2206,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The text is written clearly and is easy to understand, but there are a few professional terms that someone with a bachelor's degree would probably know how to understand.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2219,7 +2219,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Application Programming Interface (API), Amazon, Google, IBM and Microsoft, cloud software, text analytics",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2232,7 +2232,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Cloud-based text analytics",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2245,7 +2245,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Everything is clear here, and it even explains what an API is. However, I think a BSc is needed because one needs to know how an API really works and the difference between local use and using a web API. This knowledge will give a better understanding of the topic.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2258,7 +2258,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "API, text analytics",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2271,7 +2271,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "cloud-based; Application Programming Interface (API); behemoths",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2284,7 +2284,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The sentences are simple, and all the concepts are well known to the public.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2297,7 +2297,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Neural Machine Translation (NMT), shared wordpiece vocabulary, transfer learning, zero-shot translation, implicit bridging, universal interlingua representation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2310,7 +2310,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NMT, artificial token, transfer learning, zero-shot translation, benchmarks",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2323,7 +2323,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NMT, WMT benchmark, multilingual models",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2336,7 +2336,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "terms like zero-shot, multilingual NMT",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2349,7 +2349,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "multilingual NMT",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2362,7 +2362,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NMT, multilingual translation, transfer learning, zero-shot, implicit bridging, universal interlingua representation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2375,7 +2375,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Personal Informatics, sports, instruments, elite athletes",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2388,7 +2388,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "wearable computing, Personal Informatics",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2401,7 +2401,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "exploiting the knowledge",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2414,7 +2414,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "None; all were easy to understand.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2427,7 +2427,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Everybody understands the manipulation of physical objects.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2440,7 +2440,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "mixed-reality",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2453,7 +2453,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "mixed-reality, virtual worlds via depth-camera sensing, gesture analysis",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2466,7 +2466,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Mixed-reality learning, physical and virtual interaction, depth-camera sensing, controlled studies with children, collaboration, physical interaction, learning and enjoyment outcomes, gesture analysis.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2479,7 +2479,7 @@
     "explanation_context_reviewed": "mixed reality, depth camera sensing, controlled experiments, field learning, physical interaction, collaboration, learning outcomes, enjoyment, 3D",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "mixed reality, depth-camera sensing, controlled experiments, field learning, physical interaction, collaboration, learning outcomes, enjoyment, 3D",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2492,7 +2492,7 @@
     "explanation_context_reviewed": "Genome repeats, tandem-repeat instability, sequencing and assembly errors, gene/protein annotation, database reliability, data provenance, Atlantic cod, and effects on downstream bioinformatics analyses.",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "Genome repeats, tandem-repeat instability, sequencing and assembly errors, gene/protein annotation, database reliability, data provenance, Atlantic cod, and effects on downstream bioinformatics analyses.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2505,7 +2505,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Tandem repeats; assembly errors; sequence annotation; public genomic repositories; data provenance; Atlantic cod; downstream bioinformatics analyses",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2518,7 +2518,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Repetitive DNA; tandem repeats; assembly errors; annotation quality; database provenance; downstream analysis",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2531,7 +2531,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Repeat-rich DNA; assembly ambiguity; genome annotation; read alignment; database reliability; propagation of sequence errors; quality control; reference genomes; biological interpretation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2544,7 +2544,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Tandem repeats, genome assembly, read mapping, annotation quality, sequence database reliability, error propagation, repetitive regions, reference genomes",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2557,7 +2557,7 @@
     "explanation_context_reviewed": "tandem repeats, genome sequencing and assembly, sequencing-assembly-annotation-deposition, Atlantic cod genome",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "Tandem repeats, genome sequencing and assembly, sequencing-assembly-annotation-deposition, Atlantic cod genome",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2635,7 +2635,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "log probability function, Bayesian inference, BFGS algorithm, Monte Carlo, Hamiltonian Monte Carlo, Hessians, posterior analysis",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2648,7 +2648,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Terms like Bayesian inference, Hamiltonian Monte Carlo, Hessians, and the BFGS algorithm are advanced mathematical and algorithmic concepts. A general master's degree outside of this specific subfield does not cover them.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2661,7 +2661,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Probabilistic programming, Bayesian inference, Markov chain Monte Carlo, No-U-Turn sampler, Hamiltonian Monte Carlo, penalized maximum likelihood, optimization, gradients and Hessians, variational Bayes, expectation propagation, posterior diagnostics.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2674,7 +2674,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "probabilistic programming language, statistical models, log probability function, Bayesian inference, Markov chain Monte Carlo methods, Markov chain Monte Carlo methods, Hamiltonian, maximum likelihood, optimization, Broyden-Fletcher-Goldfarb-Shanno algorithm, gradients and Hessians, variational Bayes, expectation propagation, and marginal inference using approximate integration.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2687,7 +2687,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Support Vector Machine, random forest",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2700,7 +2700,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Support vector machine\nClassifier\nRandom forest",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2713,7 +2713,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Random Forest classifier",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2726,7 +2726,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Two-stage classification, behavioral features, text categorization, Support Vector Machine, Random Forest, binary classification, PAN 2012 corpus",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2739,7 +2739,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Support vector machine",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2752,7 +2752,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "FASTQ files",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2765,7 +2765,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "FASTQ files, preprocessing, quality control, adapter trimming, quality filtering, per-read pruning, single-pass scanning, multithreading, C++, I/O efficiency, Trimmomatic, Cutadapt, and runtime comparisons.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2778,7 +2778,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "FASTQ preprocessing; quality control; adapter trimming; per-read filtering; single-pass processing; C++ implementation; multithreading; I/O efficiency; Trimmomatic; Cutadapt",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2791,7 +2791,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "FASTQ files, sequencing quality control, adapter removal, read filtering, per-read trimming, single-pass processing, C++ implementation, parallel execution, I/O performance",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2869,7 +2869,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "biorthogonal Catmull-Clark subdivision wavelet transforms, vertex valences, quadrilateral patches, many more",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2882,7 +2882,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "This abstract describes advanced research in computer graphics and geometric processing, making it inaccessible without specific graduate-level training in this niche.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2895,7 +2895,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Catmull-Clark subdivision, biorthogonal wavelets, lifting scheme, progressive interpolation, shape control parameters, vertex valence, quadrilateral mesh patches, compression ratio, noise filtering, bits per vertex, PSNR, coding and decoding complexity.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2908,7 +2908,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Participatory Design",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2921,7 +2921,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The text talks broadly about \"big issues\" and \"computer technology putting human lives and work under pressure\" without specifying which technologies (e.g., AI, automation) or which industries are being affected, leaving the reader searching for a concrete anchor. Terms like \"Participatory Design (PD),\" \"deployment of working prototypes,\" and \"scaling up\" are common in advanced research, but lack immediate context for someone outside the field. A reader without a graduate background might not know what PD actually entails or how it is practiced methodologically. Phrases such as \"demanding visions for lasting impact,\" \"democratic control,\" and \"new role of researchers as activists\" are deeply philosophical and political within academic discourse. Without specific examples, it is unclear what these concepts mean in practical, everyday terms. The abstract packs multiple complex ideas into long, continuous sentences, such as listing high technological ambitions, prototypes, alliances, and scaling up together. This makes it hard to identify the paper's core contribution at a glance.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2934,7 +2934,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Participatory Design, codesign, partnership with users, researcher activism, democratic control, working prototypes, alliances, scaling up, sociotechnical change.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2947,7 +2947,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Participatory Design. This is the main issue, and outside of HCI, I'm not sure how straightforward this term is.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2960,7 +2960,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Participatory Design, user partnership, researcher activism, democratic control, working prototypes, alliances, scaling up, codesign, and sociotechnical change",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2973,7 +2973,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "MSC: Ecology of engagement",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2986,7 +2986,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Engagement",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -2999,7 +2999,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "User engagement, systematic review, measurement, ecology of engagement, HCI research.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3012,7 +3012,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "User engagement; HCI conceptualization and operationalization; systematic review; corpus of 351 articles and 102 definitions; measurement and theory; ecology of engagement; design strategies.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3025,7 +3025,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "psychophysiological, cultural heritage",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3038,7 +3038,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The high-level objective is easy to follow: measuring user engagement (interest) using bodily sensors to improve interactive experiences.\n\nWhile it combines psychology and machine learning, it introduces these concepts in a structured, applied manner rather than relying on heavy, theoretical mathematics, making it approachable for students with basic training in research methods and data analysis.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3051,7 +3051,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Interest as a knowledge emotion, psychophysiological reactivity, mobile physiological sensors, subject-dependent classification, support vector machines, cultural heritage experience, adaptive information delivery, real-time physiological computing.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3064,7 +3064,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Cross-linguistic variation, lexical, TAG",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3077,7 +3077,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "This text is simpler than the previous one, but still requires knowledge that is higher than what you learn in a BSc.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3090,7 +3090,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "This one is somewhere between MSc and PhD as it somewhat explains the terminology used, but still assumes a lot of prior knowledge.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3103,7 +3103,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "They can Google the terms and get some background on it easily",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3116,7 +3116,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Biomolecular interactions, protein–protein/DNA/RNA/sugar/lipid binding, phase-separated condensates, CEBIT, high-throughput screening, drug discovery, p53–MDM2, histone methyltransferase, SUV39H1, and enzyme inhibitors.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3129,7 +3129,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Biomolecular interactions; phase-separated condensates; CEBIT assay; high-throughput screening; p53–MDM2; histone methyltransferase SUV39H1; drug discovery",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3142,7 +3142,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Protein interactions; phase-separated condensates; CEBIT detection method; enzyme activity; high-throughput screening; p53–MDM2; SUV39H1; inhibitor discovery",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3155,7 +3155,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Protein interaction assays; phase-separated condensates; molecular recognition; high-throughput screening; enzyme activity; p53–MDM2; histone methyltransferase; inhibitor discovery",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3168,7 +3168,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Phase separation, biomolecular interactions, condensate recruitment, CEBIT assay, high-throughput screening, p53–MDM2 inhibition, histone methyltransferase, compound library",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3259,7 +3259,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "t-Distributed Stochastic Neighbor Embedding (tSNE); Progressive Visual Analytics; density-based solution and a Magic Lens to inspect the degree of approximation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3272,7 +3272,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Dimensionality reduction",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3285,7 +3285,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Dimensionality reduction, tSNE, high-dimensional data, 2D embeddings, approximation, Progressive Visual Analytics.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3298,7 +3298,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Progressive visual analytics; dimensionality reduction; t-SNE; approximate embeddings and speed–accuracy trade-offs; interactive data exploration; local refinement; density-based visualization; Magic Lens; high-dimensional streaming data.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3311,7 +3311,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "General text; nothing requires knowledge.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3324,7 +3324,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NLP, neural networks",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3337,7 +3337,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NLP, database, neural network",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3350,7 +3350,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "We connect these changes to research advances in NLP.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3363,7 +3363,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "NLP, hand-coded rules to neural networks",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3376,7 +3376,7 @@
     "explanation_context_reviewed": "unstructured text,  structured database, NLP, neural networks, hand coded rules ",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "unstructured text, structured database, NLP, neural networks, hand-coded rules",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3389,7 +3389,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "None of them",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3454,7 +3454,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The paragraph is written in simple language: ability, generating",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3467,7 +3467,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "It doesn't talk about any technical concepts or theoretical ones.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3480,7 +3480,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The first sentence could be cryptic at first, but the writer then explains it clearly, so no specific higher education is needed to comprehend the meaning of the paragraph.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3493,7 +3493,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "The text is just not so hard to understand",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3506,7 +3506,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "advance in NLP, GPT-3 apparently novel text",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3519,7 +3519,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "GPT, mainstream, media, novel text, application",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3532,7 +3532,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Long sentences, state of the art—usually written in academic articles.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3545,7 +3545,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "It requires some basic knowledge. The terms that influenced me the most were: learning environment, experimental frameworks, etc.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3571,7 +3571,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "state-of-the-art, Go, Atari, and some variants of poker,",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3583,8 +3583,8 @@
     "explanation_original": "state of the art, GO, mind reasoning, open source, experimental framework",
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
-    "explanation_best_english": "state of the art, Go, mind reasoning, open source, experimental framework",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_english": "state of the art, Go, theory of mind reasoning, open source, experimental framework",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3714,7 +3714,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Lactase persistence, lactose digestion, human population variation, monogenic versus polygenic traits, regulatory convergent evolution, gene-culture coevolution, domestication, natural selection, and lactase variants.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3727,7 +3727,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Lactase persistence; lactose digestion; monogenic versus polygenic traits; regulatory evolution; gene–culture coevolution; natural selection; dairying populations",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3740,7 +3740,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Lactase persistence; milk digestion; adaptation to dairying; regulatory variants; convergent evolution; gene–culture coevolution; population variation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3753,7 +3753,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Lactase persistence; population variation; regulatory variants; monogenic versus polygenic traits; natural selection; gene–culture coevolution; convergent adaptation; human population genetics",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3766,7 +3766,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Lactase persistence, regulatory variants, convergent evolution, gene-culture coevolution, monogenic and polygenic architecture, population genetics, natural selection, human adaptation",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3779,7 +3779,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Autosomal-dominant retinitis pigmentosa, structural variants, genome sequencing, iPSCs, retinal organoids, Hi-C, topologically associating domains (TADs), neo-TADs, enhancer hijacking, qPCR, and gain-of-function mechanisms.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3792,7 +3792,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Autosomal-dominant retinitis pigmentosa; structural variants; iPSCs; retinal organoids; Hi-C; topologically associating domains (TADs); neo-TAD; enhancer hijacking; GDPD1; gain of function",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3805,7 +3805,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Retinitis pigmentosa; structural genomic variants; iPSC-derived retinal models; Hi-C; topological domains; neo-TAD formation; enhancer misregulation; GDPD1; dominant gain of function",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3818,7 +3818,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Structural variants; Mendelian disease genetics; genome sequencing; iPSC-derived retinal organoids; Hi-C contacts; topologically associating domains; enhancer hijacking; neo-TAD formation; gain-of-function mechanism",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3831,7 +3831,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Structural variants, retinitis pigmentosa, genome sequencing, iPSC-derived retinal organoids, Hi-C, topologically associating domains, neo-TAD formation, enhancer hijacking, gain of function",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3844,7 +3844,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Fully high-fidelity 3D / 4D organ geometric models; 3D / 4D-CT projections or X-ray images; trivariate tensor-product deformation technique",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3857,7 +3857,7 @@
     "explanation_context_reviewed": "notorious, i.e.",
     "context_review_status": "investigator_reviewed",
     "explanation_best_english": "notorious, i.e.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3870,7 +3870,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "Deep neural networks, reconstructing 3D organs from 2D medical images, deformation techniques, 3D/4D models, and real-time medical imaging.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   },
   {
@@ -3883,7 +3883,7 @@
     "explanation_context_reviewed": null,
     "context_review_status": "not_reviewed",
     "explanation_best_english": "DeepOrganNet; single-view 2D-to-3D/4D reconstruction; deep learning; deformation fields; trivariate tensor-product deformation; latent descriptors; manifold meshes; imaging-dose versus reconstruction-quality trade-off; image-guided radiation therapy.",
-    "explanation_best_status": "ai_context_checked_pending_human_review",
+    "explanation_best_status": "investigator_approved",
     "reasoning_training_candidate": true
   }
 ]

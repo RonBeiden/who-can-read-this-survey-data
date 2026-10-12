@@ -9,7 +9,7 @@ Part of **Who Can Read This? Expert-Grounded Distillation of Jargon Levels in Sc
 2. Join `abstract_id` to `data/abstracts.csv` for the exact text shown in the survey.
 3. Use `data/abstract_summary.csv` for modal labels and the full four-level vote distribution.
 
-For English explanation targets, use `explanation_best_english`. It preserves each person's answer while translating and correcting language against the displayed abstract. `reasoning_training_candidate` excludes held-out answers and unresolved wording. These AI-assisted versions are not yet human-verified gold.
+For English explanation targets, use `explanation_best_english`. It preserves each person's answer while translating and correcting language against the displayed abstract. The 238 development targets marked `investigator_approved` are approved for reasoning training. Held-out answers and unresolved wording are excluded.
 
 ```python
 import json
@@ -72,12 +72,14 @@ Participant IDs are random release-specific codes. No participant emails, names,
 
 Original explanations retain their language and wording. A separate context-reviewed field is available for 17 investigator-reviewed answers; the other 282 remain unreviewed. These checks do not constitute independent dual coding or codebook approval.
 
-Version 1.1.0 adds English-only versions of all 299 explanations, standardized with `gpt-5-6-luna` and checked by the assistant against original wording and abstract context. Term lists remain lists; no new justification is supplied. Corrections and text checksums are recorded in `data/explanation_normalization.json`. Two unclear expressions remain flagged: one development answer for abs55 and one held-out answer for abs57. There are 238 development reasoning candidates; all 60 held-out answers are excluded from training. Human normalization QA and gold approval remain pending. Original survey responses are still treated as human; only language standardization is AI-assisted.
+Version 1.1.0 added English-only versions of all 299 explanations, standardized with `gpt-5-6-luna` and checked against original wording and abstract context. Term lists remain lists; no new justification is supplied. Corrections and text checksums are recorded in `data/explanation_normalization.json`. Original survey responses are treated as human; language standardization is AI-assisted.
 
-`python scripts/prepare_reasoning_training.py --output train_candidates.jsonl --allow-ai-standardized` exports the candidate training explanations. Without that explicit option the script refuses unapproved English targets. Do not call these independently verified gold or train on held-out explanations.
+Version 1.2.0 records the investigator's review of all 239 development explanations: 238 approved training targets and one retained exclusion (abs55). A276's incomplete term is restored to “theory of mind reasoning” using its abstract. The 60 held-out explanations were not investigator-reviewed and remain excluded from training; one retains unclear wording (abs57). The reviewed codebook has 11 themes and one separate uncertainty flag; 48 sample coding decisions are approved. Remaining confirmatory coding and the reserved 20-example verification are pending. This is AI-assisted, investigator-reviewed work, not independent dual-human coding.
+
+`python scripts/prepare_reasoning_training.py --output train_reasoning.jsonl` exports the 238 approved development targets. The script refuses unapproved targets unless explicitly opted into with `--allow-ai-standardized`. Do not claim independent verification or train on held-out explanations.
 
 Version 1.0.1 corrects the titles and OpenAlex identifiers for **abs23, abs49 and abs52**, verified against the original papers and DOI records. The exact survey texts, answers and benchmark results are unchanged. DOI links and text checksums are in `data/source_corrections.json`.
 
 The dataset owner confirmed permission to share anonymized explanations and abstract texts. Annotations and derived data are **CC BY 4.0**; code is **MIT**. Third-party abstract texts retain their original rights and are not relicensed by this repository. See `LICENSE.md` and `docs/DATA_DICTIONARY.md`.
 
-Snapshot: 8 October 2026. Version: 1.1.0. To cite, use `CITATION.cff`. Corrections can be reported through GitHub issues without posting participant information.
+Snapshot: 8 October 2026. Version: 1.2.0. To cite, use `CITATION.cff`. Corrections can be reported through GitHub issues without posting participant information.

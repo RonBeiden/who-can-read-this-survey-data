@@ -1,0 +1,151 @@
+{
+  "version": "0.3-investigator-approved",
+  "status": "approved",
+  "author_role": "AI_assistant",
+  "human_review_completed": true,
+  "approved_by": "Ron Beiden",
+  "basis": "Close reading of the predefined 48 development explanations, with ratings and annotator education hidden during coding. Not derived from the normalization model's evidence_categories.",
+  "survey_question": "Which words, terms, or concepts most influenced your rating? Please list the specific vocabulary or ideas that shaped your decision.",
+  "unit": "One respondent explanation attached to one development abstract; multiple codes allowed.",
+  "rules": [
+    "Code the original respondent text. Normalized English supports reading but never replaces the original as authority.",
+    "A vocabulary list is a valid answer to the survey question. Do not invent a causal explanation or an education requirement from a list.",
+    "Use only explicit evidence. Do not assign a scientific topic, technical complexity or required qualification from outside knowledge.",
+    "Treat absence of a code as absence of explicit evidence, not evidence that a property is absent.",
+    "Distinguish educational levels cited in the explanation from annotator education and from the actual selected survey rating.",
+    "Preserve disagreement and uncertainty. These codes do not relabel any abstract or rating.",
+    "Keep codes multi-label; record a supporting source span for each code. Do not double-count a respondent explanation as several observations in prevalence summaries.",
+    "Record unclear fragments without reconstructing an acronym or rationale. Retain the selected rating even if the text cannot be interpreted.",
+    "The draft is not evidence of thematic saturation or independent human coding agreement. Rare codes remain provisional.",
+    "Investigator approval is required before confirmatory coding. Do not adapt this codebook using held-out explanations.",
+    "Use the corresponding frozen abstract to document clear spelling/acronym repairs. Abstract context can identify cited vocabulary, but must not supply a new human rationale or relabel a response."
+  ],
+  "themes": [
+    {
+      "id": "CITED_TERMS",
+      "name": "Specific terms mentioned",
+      "definition": "The person names particular words, abbreviations, symbols or concepts that influenced their rating.",
+      "include": "Bare lists, single terms, or explicitly cited expressions within prose.",
+      "exclude": "Generic references to unspecified terminology; isolated opaque fragments; claimed education or background with no specific cited concept.",
+      "example_sample": 1,
+      "example": "O(n3), loopy CRFs",
+      "boundary": "The code does not assert that every cited word is jargon or difficult. Do not treat all cited items as scientific terminology."
+    },
+    {
+      "id": "SPECIALIZED_LANGUAGE",
+      "name": "Explicitly specialized terminology",
+      "definition": "The explanation itself characterizes terms as professional, specialized or requiring topic-specific understanding.",
+      "include": "An explicit characterization of terminology, including its professional nature or topic-specific comprehension.",
+      "exclude": "A technical-looking list without such a characterization; the coder's judgment that a term is advanced.",
+      "example_sample": 27,
+      "example": "מינוחים מקצועיים",
+      "boundary": "Co-code PRIOR_KNOWLEDGE only when a background requirement is also explicit."
+    },
+    {
+      "id": "PRIOR_KNOWLEDGE",
+      "name": "Background knowledge requirement",
+      "definition": "The respondent explicitly states that prior knowledge, subject understanding or specialized training is needed or assumed.",
+      "include": "Requires specific-topic understanding, assumes prior knowledge, or exceeds stated undergraduate knowledge.",
+      "exclude": "A list of methods or acronyms; the fragment 'exploiting the knowledge'; explicit statements that no background is needed.",
+      "example_sample": 32,
+      "example": "still assumes a lot of prior knowledge",
+      "boundary": "Do not infer the amount of prerequisite knowledge from the assigned rating."
+    },
+    {
+      "id": "WORDING_COMPLEXITY",
+      "name": "Wording complexity",
+      "definition": "The respondent directly comments on complexity or simplicity of the text or its wording.",
+      "include": "Complex text, complex wording, or explicit comparative simplicity.",
+      "exclude": "A named complex method with no claim about the prose; assumed knowledge without a wording assessment.",
+      "example_sample": 47,
+      "example": "ניסוח מורכב יחסית",
+      "boundary": "Record comparative simplicity without turning it into an absolute easy/difficult claim."
+    },
+    {
+      "id": "ACCESSIBILITY",
+      "name": "Explicit understandability",
+      "definition": "The respondent explicitly says the text or vocabulary is understandable, easy, general or does not require additional knowledge.",
+      "include": "Easy to understand, possible to understand despite complexity, or general text requiring no background.",
+      "exclude": "A null answer with no accessibility statement; terms that merely look familiar to the coder.",
+      "example_sample": 37,
+      "example": "all were easy to understand",
+      "boundary": "Accessibility can coexist with WORDING_COMPLEXITY and PRIOR_KNOWLEDGE. Preserve qualifications."
+    },
+    {
+      "id": "IN_TEXT_EXPLANATIONS",
+      "name": "Explanations provided in the abstract",
+      "definition": "The respondent cites definitions or explanations supplied within the text as support for comprehension.",
+      "include": "The text explains at least some of its terminology.",
+      "exclude": "External searching; the coder noticing an explanation that the respondent did not mention.",
+      "example_sample": 32,
+      "example": "somewhat explains the terminology used",
+      "boundary": "Partial explanations do not imply sufficient understanding without prior knowledge."
+    },
+    {
+      "id": "EXTERNAL_LOOKUP",
+      "name": "External lookup as reading support",
+      "definition": "The respondent reports using, or suggests using, definitions or background outside the abstract.",
+      "include": "Reported or suggested external searching, such as Googling terms or obtaining background elsewhere.",
+      "exclude": "Definitions supplied within the abstract; an analyst suggesting a search.",
+      "example_sample": 48,
+      "example": "Google the terms and get some background on it easily",
+      "boundary": "Distinguish reported lookup from suggested lookup. Neither establishes unaided understanding."
+    },
+    {
+      "id": "EDUCATION_ANCHOR",
+      "name": "Educational or training reference",
+      "definition": "The respondent explicitly refers to a degree level or educational/training stage when describing understanding.",
+      "include": "BSc, Master's, MSc, PhD or rigorous training explicitly referenced in the explanation.",
+      "exclude": "The respondent's profile degree; the separately selected rating; a knowledge requirement without an educational/training reference.",
+      "example_sample": 29,
+      "example": "higher than you learn BS.c",
+      "boundary": "Store the actual wording. A mentioned level is not a corrected label or a new gold rating."
+    },
+    {
+      "id": "CONTEXT_DEPENDENCE",
+      "name": "Context-dependent comparison",
+      "definition": "The judgment is explicitly relative to another abstract or to a historical/current context.",
+      "include": "Simpler than the previous text; changes in expected understanding over time.",
+      "exclude": "A standalone degree comparison; the analyst's comparison between respondents.",
+      "example_sample": 21,
+      "example": "In 2016, a high-level Masters student in Computational Linguistics may have understood this paragraph. However, nowadays, only people rigorously trained in this field would have known the various grammars CCG, TAG, LFG and HPSG, lambda calculus and neo-Davidsonian forms.",
+      "boundary": "Preserve the time qualification and contrast, rather than compressing them into a timeless requirement."
+    },
+    {
+      "id": "RATING_BOUNDARY",
+      "name": "Explicit boundary between levels",
+      "definition": "The respondent explicitly places understanding between named education levels rather than at one clear level.",
+      "include": "Somewhere between MSc and PhD.",
+      "exclude": "Coder uncertainty; any non-unanimous abstract; a single educational reference.",
+      "example_sample": 32,
+      "example": "somewhere between MSc and PHD",
+      "boundary": "A response can be interpretable while explicitly expressing a boundary judgment."
+    },
+    {
+      "id": "NO_CITED_TERMS",
+      "name": "No influential vocabulary reported",
+      "definition": "In the context of the survey vocabulary question, the respondent explicitly reports no words or terms influencing the rating.",
+      "include": "None of them; None, all were easy to understand.",
+      "exclude": "A blank response or an unexplained fragment; no assumptions about the correctness of the chosen rating.",
+      "example_sample": 9,
+      "example": "None of them",
+      "boundary": "Co-code ACCESSIBILITY only when ease or understandability is explicitly stated. 'None' is not proof of missing effort or an invalid rating."
+    }
+  ],
+  "quality_flags": [
+    {
+      "id": "UNINTERPRETABLE",
+      "name": "Meaning cannot be established",
+      "definition": "Flag only wording that cannot be confidently interpreted from the response and its corresponding abstract.",
+      "include": "Opaque expressions whose intended meaning or abbreviation cannot be established from the supplied explanation.",
+      "exclude": "A short but meaningful term list; an explicit no-terms answer; an interpretable boundary between levels.",
+      "example_sample": null,
+      "example": "Illustrative only: a fragment whose meaning cannot be established from either the response or its corresponding abstract.",
+      "boundary": "Not a substantive reasoning theme. Retain interpretable content in mixed answers and preserve ratings. No observed use in the reviewed 48-example sample.",
+      "role": "text_uncertainty_flag"
+    }
+  ],
+  "approval_date": "2026-10-12",
+  "method": "AI-drafted, investigator-reviewed with assistant advice; not independent double-human coding.",
+  "amendments_authorized": "Exported decisions plus explicit approval of the audit corrections in chat on 2026-10-12."
+}

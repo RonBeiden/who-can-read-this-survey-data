@@ -14,8 +14,8 @@ All CSVs use UTF-8, one header row, and `null` for missing values. JSON uses tru
 | explanation_original | Privacy-reviewed original answer, unchanged wording |
 | explanation_context_reviewed | Context-checked wording for 17 reviewed answers; otherwise null |
 | context_review_status | investigator_reviewed, reviewed_unresolved_wording, or not_reviewed |
-| explanation_best_english | English-only, language-standardized human explanation; original meaning/list form retained; not yet human-verified gold |
-| explanation_best_status | ai_context_checked_pending_human_review or unresolved_excluded |
+| explanation_best_english | English-only, language-standardized human explanation; original meaning/list form retained; check review status before training |
+| explanation_best_status | investigator_approved, ai_context_checked_pending_human_review, or unresolved_excluded |
 | reasoning_training_candidate | True only for nonempty, non-unresolved development explanations; not an assertion of gold approval |
 
 ## `data/abstracts.csv`
@@ -41,7 +41,9 @@ All CSVs use UTF-8, one header row, and `null` for missing values. JSON uses tru
 
 ## Baselines and results
 
-`data/explanation_normalization.json`: per-answer correction ledger, original-text and abstract checksums, response form, unresolved wording, model and assistant-review provenance. Human review of these new English targets is pending. Prior context approval does not automatically approve new English edits.
+`data/explanation_normalization.json`: correction ledger, text checksums and review provenance. Investigator review covers 239 development answers, including one approved exclusion; 238 texts are approved for training. Global `human_review_completed` remains false because 60 held-out texts were not investigator-reviewed. `development_review_completed` is true.
+
+`data/reasoning_codebook.json`: investigator-approved definitions for 11 themes and a separate uncertainty flag. `data/reasoning_sample_coding.json`: 48 investigator-approved, AI-drafted development assignments with original evidence spans. Neither file claims independent dual coding or completed confirmatory verification.
 
 `baselines/readability_scores.csv`: six uncalibrated formula scores, sentence count and SMOG warning.
 `baselines/calibration/*.json`: development-fitted tree parameters.

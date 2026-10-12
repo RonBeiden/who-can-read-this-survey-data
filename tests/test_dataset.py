@@ -20,6 +20,7 @@ class DatasetTests(unittest.TestCase):
         ledger = json.loads((ROOT / 'data/explanation_normalization.json').read_text(encoding='utf-8'))
         self.assertEqual(ledger['model'], 'gpt-5-6-luna')
         self.assertFalse(ledger['human_review_completed'])
+        self.assertTrue(ledger['development_review_completed'])
         records = {r['annotation_id']:r for r in ledger['records']}
         self.assertEqual(len(records), 299)
         for r in answers:
@@ -33,14 +34,38 @@ class DatasetTests(unittest.TestCase):
         self.assertEqual(sum(r['explanation_best_status'] == 'unresolved_excluded' for r in answers), 2)
         self.assertEqual(records['A285']['english'].split(', ')[-3], 'nominal prediction')
         self.assertIn('not necessarily reason with a high schooler', records['A274']['english'])
+        self.assertEqual(records['A274']['investigator_approval_scope'], 'retain_exclusion')
+        self.assertIn('theory of mind reasoning', records['A276']['english'])
+        self.assertEqual(sum(r['explanation_best_status']=='investigator_approved' for r in answers),238)
+        self.assertEqual(sum(r['human_review_completed'] for r in records.values()),239)
+        self.assertTrue(all(not r['human_review_completed'] for r in records.values() if r['split']=='test'))
         spec = importlib.util.spec_from_file_location('training_targets', ROOT / 'scripts/prepare_reasoning_training.py')
         module = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(module)
-        with self.assertRaises(ValueError):
-            module.select_targets(answers, abstracts)
-        targets = module.select_targets(answers, abstracts, allow_ai_standardized=True)
+        targets = module.select_targets(answers, abstracts)
         self.assertEqual(len(targets), 238)
         self.assertTrue(all(abstracts[r['abstract_id']]['split'] == 'train' for r in targets))
+        pending=[dict(r) for r in answers]
+        next(r for r in pending if r['reasoning_training_candidate'])['explanation_best_status']='ai_context_checked_pending_human_review'
+        with self.assertRaises(ValueError):
+            module.select_targets(pending,abstracts)
+
+    def test_investigator_codebook_and_sample(self):
+        book=json.loads((ROOT/'data/reasoning_codebook.json').read_text(encoding='utf-8'))
+        sample=json.loads((ROOT/'data/reasoning_sample_coding.json').read_text(encoding='utf-8'))
+        answers={r['annotation_id']:r for r in json.loads((ROOT/'data/annotations.json').read_text(encoding='utf-8'))}
+        abstracts={r['abstract_id']:r for r in reproduce.rows(ROOT/'data/abstracts.csv')}
+        self.assertEqual(book['status'],'approved')
+        self.assertEqual(len(book['themes']),11)
+        self.assertEqual(book['quality_flags'][0]['id'],'UNINTERPRETABLE')
+        self.assertEqual(len(sample['records']),48)
+        self.assertFalse(sample['confirmatory_verification_completed'])
+        for r in sample['records']:
+            self.assertEqual(abstracts[r['abstract_id']]['split'],'train')
+            self.assertTrue(all(s in answers[r['annotation_id']]['explanation_original'] for s in r['source_evidence'].values()))
+        contrast=next(r for r in sample['records'] if r['sample_position']==21)['source_evidence']['CONTEXT_DEPENDENCE']
+        self.assertIn('In 2016',contrast)
+        self.assertIn('However, nowadays',contrast)
 
     def test_coverage_and_nulls(self):
         annotations = json.loads((ROOT / 'data/annotations.json').read_text(encoding='utf-8'))

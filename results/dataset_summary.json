@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "snapshot": "2026-10-08",
   "participants": 67,
   "annotations": 299,
@@ -45,5 +45,10 @@
   "best_english_explanations": 299,
   "unresolved_best_english_explanations": 2,
   "reasoning_training_candidates": 238,
-  "best_english_human_quality_review_completed": false
+  "best_english_human_quality_review_completed": false,
+  "development_english_human_review_completed": true,
+  "approved_reasoning_training_explanations": 238,
+  "reasoning_codebook_approved": true,
+  "investigator_reviewed_coding_examples": 48,
+  "confirmatory_coding_completed": false
 }

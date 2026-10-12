@@ -14,7 +14,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "1c1d4765fa7b3f2a5c162ed331db40ce02e9a7edde4d47b81e6cc075f03ba09d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:08:14.643Z"
     },
     {
       "annotation_id": "A002",
@@ -27,7 +30,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "d29f3ab11f31c6182eb1336e62e1a4173eee050e44ede9ba2e11457c798fcb4b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:08:45.475Z"
     },
     {
       "annotation_id": "A003",
@@ -40,7 +46,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "164f66a9fd82c72c1790bad6bf01a598284423af0051ab8963d71daade030a74",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:08:49.755Z"
     },
     {
       "annotation_id": "A004",
@@ -53,7 +62,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "7f2ef2516ec79d665649a4328ad383a5b97404159cdc73a5491e6dc018d1b171",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:08:54.890Z"
     },
     {
       "annotation_id": "A005",
@@ -66,7 +78,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "fc22e0fa27791eab371ac4446c6aaccb979d1772730fe2ce02a22f5412f8fe99",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:00.254Z"
     },
     {
       "annotation_id": "A006",
@@ -79,7 +94,10 @@
       "split": "train",
       "abstract_sha256": "8867db05f0e2805777b92bbd70637d20c7fe674b54b0d200b67006e1d099767d",
       "original_explanation_sha256": "8c00e1c2e12d7f772b73543ea274a1b88f2b9298068a07a328e7775eb619696f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:06.247Z"
     },
     {
       "annotation_id": "A007",
@@ -248,7 +266,10 @@
       "split": "train",
       "abstract_sha256": "a27d57cef42dfc75272da1dc5e0e42e4d32c46f0d2a70578d276b6078a62a223",
       "original_explanation_sha256": "7ebc35f60f77899d263b4c41abb946d540bd80db254017925c72dbdaf3957623",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:17.189Z"
     },
     {
       "annotation_id": "A015",
@@ -268,7 +289,10 @@
       "split": "train",
       "abstract_sha256": "a27d57cef42dfc75272da1dc5e0e42e4d32c46f0d2a70578d276b6078a62a223",
       "original_explanation_sha256": "ad221ce4e35b61da3253ee18535e30ce351c97ef52dbb50460848726876dd331",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:29.310Z"
     },
     {
       "annotation_id": "A016",
@@ -281,7 +305,10 @@
       "split": "train",
       "abstract_sha256": "a27d57cef42dfc75272da1dc5e0e42e4d32c46f0d2a70578d276b6078a62a223",
       "original_explanation_sha256": "3c636410faba6d324fb438b30e9a036cfda9713b074d088a826040b847bee2a5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:32.990Z"
     },
     {
       "annotation_id": "A017",
@@ -294,7 +321,10 @@
       "split": "train",
       "abstract_sha256": "a27d57cef42dfc75272da1dc5e0e42e4d32c46f0d2a70578d276b6078a62a223",
       "original_explanation_sha256": "9837d965ccdd78d91951cd2b6cdef8a64a523034d34d1d2bfdf37cdb736774f8",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:35.834Z"
     },
     {
       "annotation_id": "A018",
@@ -320,7 +350,10 @@
       "split": "train",
       "abstract_sha256": "a27d57cef42dfc75272da1dc5e0e42e4d32c46f0d2a70578d276b6078a62a223",
       "original_explanation_sha256": "105dcd28804202645db47add1f37573bd7b5466fb9a8d7911d2be2601fec54a6",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:38.967Z"
     },
     {
       "annotation_id": "A019",
@@ -404,7 +437,10 @@
       "split": "train",
       "abstract_sha256": "900275043b5bef56ff8c75a801147fc3d12a7f846f7a2a1c14fe57cb99c68500",
       "original_explanation_sha256": "a679486a9ceb6f9e82ea899f9e7b048d41eeb138422a99a1e56ffe0351298f2b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:42.478Z"
     },
     {
       "annotation_id": "A023",
@@ -417,7 +453,10 @@
       "split": "train",
       "abstract_sha256": "900275043b5bef56ff8c75a801147fc3d12a7f846f7a2a1c14fe57cb99c68500",
       "original_explanation_sha256": "e4559a72b4a91af58e5b9aeff5bedc0ad8b3b49144df57f9563b240b29a91bfc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:45.898Z"
     },
     {
       "annotation_id": "A024",
@@ -430,7 +469,10 @@
       "split": "train",
       "abstract_sha256": "900275043b5bef56ff8c75a801147fc3d12a7f846f7a2a1c14fe57cb99c68500",
       "original_explanation_sha256": "674a9729f55633f356c28ba808cb1b1b7d4b20e21a91c4c5e8c4e4958353973c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:48.179Z"
     },
     {
       "annotation_id": "A025",
@@ -443,7 +485,10 @@
       "split": "train",
       "abstract_sha256": "900275043b5bef56ff8c75a801147fc3d12a7f846f7a2a1c14fe57cb99c68500",
       "original_explanation_sha256": "fc7c0d2f63cd32941cb4547a81723f8030adfa28d9896389a4cf7a1610ccd568",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:50.202Z"
     },
     {
       "annotation_id": "A026",
@@ -456,7 +501,10 @@
       "split": "train",
       "abstract_sha256": "900275043b5bef56ff8c75a801147fc3d12a7f846f7a2a1c14fe57cb99c68500",
       "original_explanation_sha256": "8e3a60404e7ac3c9857261b4a7119ebae01e65cf2c150a29d3012124e5708e08",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:51.246Z"
     },
     {
       "annotation_id": "A027",
@@ -469,7 +517,10 @@
       "split": "train",
       "abstract_sha256": "4ff84dd55843b4a2b860f7f5145c2f06303e6b28cc2f578c58235c2122d3cce4",
       "original_explanation_sha256": "82d4cd4682b4db043068fd43dea8a1434978b77a09250b0322722387d604df61",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:52.998Z"
     },
     {
       "annotation_id": "A028",
@@ -482,7 +533,10 @@
       "split": "train",
       "abstract_sha256": "4ff84dd55843b4a2b860f7f5145c2f06303e6b28cc2f578c58235c2122d3cce4",
       "original_explanation_sha256": "bf25f6239c6bfad93b3c55fef02f38a8fdcb3d03f3d8b032e4c7d4f2b778d483",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:55.886Z"
     },
     {
       "annotation_id": "A029",
@@ -495,7 +549,10 @@
       "split": "train",
       "abstract_sha256": "4ff84dd55843b4a2b860f7f5145c2f06303e6b28cc2f578c58235c2122d3cce4",
       "original_explanation_sha256": "b8d698a63d2d742023c03e3362154869f7afb202f3e3d50d91cba6190765a2e1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:09:57.882Z"
     },
     {
       "annotation_id": "A030",
@@ -508,7 +565,10 @@
       "split": "train",
       "abstract_sha256": "4ff84dd55843b4a2b860f7f5145c2f06303e6b28cc2f578c58235c2122d3cce4",
       "original_explanation_sha256": "e328ca0efc67f6437cab02296a9e579e86c659648aa89f5fab252335cfe68784",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:00.642Z"
     },
     {
       "annotation_id": "A031",
@@ -521,7 +581,10 @@
       "split": "train",
       "abstract_sha256": "4ff84dd55843b4a2b860f7f5145c2f06303e6b28cc2f578c58235c2122d3cce4",
       "original_explanation_sha256": "c261da297c161e5c84af73d4287133f128bc5290a17e7155d1f62d9eb7d7e6dc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:02.670Z"
     },
     {
       "annotation_id": "A032",
@@ -541,7 +604,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "7e417b9929d9255436800b5934d292eec42db9dd9d45bf41dcad9f8937b4a0f4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:08.242Z"
     },
     {
       "annotation_id": "A033",
@@ -561,7 +627,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "b3e2d97c569b8eb9688f941b7ff9e6ab1ea8b67b95b2872311b3040e5d5bc390",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:25.854Z"
     },
     {
       "annotation_id": "A034",
@@ -581,7 +650,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "4dce5ec11b21817f10337a64c899bffd255f05879e929908132c5a0f9e27ad9f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:34.266Z"
     },
     {
       "annotation_id": "A035",
@@ -601,7 +673,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "deb2a8c973b03d9a9078bdc6bb921f3d46e515187bf38ef4c360a87f95f67e9a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:38.378Z"
     },
     {
       "annotation_id": "A036",
@@ -614,7 +689,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "844ee9077f04b76706fd07be96da44684f0cdf9100b71c941138ccad515bea59",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:39.670Z"
     },
     {
       "annotation_id": "A037",
@@ -627,7 +705,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "568e9aafcbc05aa5aad259ed44fc62707f5c1d3be506f47264c5c31752dceac9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:42.698Z"
     },
     {
       "annotation_id": "A038",
@@ -647,7 +728,10 @@
       "split": "train",
       "abstract_sha256": "e2e380e183a1462c10d66bde3be29df7541a4c69e32abe86c239a8ee4f9f5e00",
       "original_explanation_sha256": "459929cb4800c6c2ab0c02d0099be04788d3bc38f2ccab85d7128d013632f835",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:44.750Z"
     },
     {
       "annotation_id": "A039",
@@ -667,7 +751,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "5af4ca5c9a12dd3088f7f5f1d57aa1b787a58084cb0663885318bde9e8a7a6ba",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:46.954Z"
     },
     {
       "annotation_id": "A040",
@@ -680,7 +767,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "1a823ecc88db9822c8bb23bf94da8f7cbb8cdd3b0af46608cf96a9c01594f037",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:48.218Z"
     },
     {
       "annotation_id": "A041",
@@ -693,7 +783,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "cc49c9881826d304b3d6dba0620ca37b56e5756fe74ad135ce594e92a9791ef7",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:50.583Z"
     },
     {
       "annotation_id": "A042",
@@ -713,7 +806,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "e85badbc4c985d72be29e0502f47dcec4e6f3fd7bb4acd27b51b10af71f26a8e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:10:58.762Z"
     },
     {
       "annotation_id": "A043",
@@ -726,7 +822,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "1cd52c479be23ef3415a30c917533370d7441c6cd015c21ae4d0a4e24e50b079",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:03.579Z"
     },
     {
       "annotation_id": "A044",
@@ -746,7 +845,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "d93d5f6dcf92ed34387272096dc820d24abc32dcc76497dd79c9b508055cad14",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:06.350Z"
     },
     {
       "annotation_id": "A045",
@@ -759,7 +861,10 @@
       "split": "train",
       "abstract_sha256": "2f2cb0bf33d30e07088dd73c666523adf8eacec5ac977b4ffe3d42381e3041c9",
       "original_explanation_sha256": "a162e94583717a618845841c87a3d7f785f21fc4e0994b8842e560f23017407d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:07.558Z"
     },
     {
       "annotation_id": "A046",
@@ -785,7 +890,10 @@
       "split": "train",
       "abstract_sha256": "df971f95a07d6ecde9022be0af5d52a44aa589842a40272676cacb94c183ace4",
       "original_explanation_sha256": "b7432f11e1513cef89dc36ae8722ce8bf0a7441c7d1f6b6cf80ebaf7658964fc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:08.202Z"
     },
     {
       "annotation_id": "A047",
@@ -798,7 +906,10 @@
       "split": "train",
       "abstract_sha256": "df971f95a07d6ecde9022be0af5d52a44aa589842a40272676cacb94c183ace4",
       "original_explanation_sha256": "3e417f481c5f96c36085339f0ee8af5024bdc50ccf6690db16550187c39ff7cd",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:08.794Z"
     },
     {
       "annotation_id": "A048",
@@ -818,7 +929,10 @@
       "split": "train",
       "abstract_sha256": "df971f95a07d6ecde9022be0af5d52a44aa589842a40272676cacb94c183ace4",
       "original_explanation_sha256": "92c464706474479a3b0096ccedc183e507ef8505f49bb08e9dc61705427ebb0f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:11.342Z"
     },
     {
       "annotation_id": "A049",
@@ -838,7 +952,10 @@
       "split": "train",
       "abstract_sha256": "2510c07d190480cd9e58590095f00a86b0a4ddcd6416dd57a35813c6d3962d60",
       "original_explanation_sha256": "91350930d57bf81d161ff738d71f8801eb7bcde93ba42f717b0afd95c088e0df",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:12.886Z"
     },
     {
       "annotation_id": "A050",
@@ -851,7 +968,10 @@
       "split": "train",
       "abstract_sha256": "2510c07d190480cd9e58590095f00a86b0a4ddcd6416dd57a35813c6d3962d60",
       "original_explanation_sha256": "5c2a50ed31c770497ebaed28fbfbdc2bdd9f0c5a90ad7bf0bf6337e3aedd2e7b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:14.098Z"
     },
     {
       "annotation_id": "A051",
@@ -871,7 +991,10 @@
       "split": "train",
       "abstract_sha256": "2510c07d190480cd9e58590095f00a86b0a4ddcd6416dd57a35813c6d3962d60",
       "original_explanation_sha256": "3d31ce6ac9e14c5a7c25e76488083f7a4defa4968c5b7f5d3edc92e24eeea747",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:14.514Z"
     },
     {
       "annotation_id": "A052",
@@ -884,7 +1007,10 @@
       "split": "train",
       "abstract_sha256": "63dc4b6ab7e0ce68919944536dd51eed2b85e64771db3ddd4d194cf3dd7b8bd1",
       "original_explanation_sha256": "b35b23af93d80644e5646bac768b1e8d0f585b501b7a2461546729dce5075f2b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:15.065Z"
     },
     {
       "annotation_id": "A053",
@@ -910,7 +1036,10 @@
       "split": "train",
       "abstract_sha256": "63dc4b6ab7e0ce68919944536dd51eed2b85e64771db3ddd4d194cf3dd7b8bd1",
       "original_explanation_sha256": "cf40ee5984b83492d492a16479d5893cd6c1254fe43887124404721ef563dbcb",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:16.458Z"
     },
     {
       "annotation_id": "A054",
@@ -923,7 +1052,10 @@
       "split": "train",
       "abstract_sha256": "63dc4b6ab7e0ce68919944536dd51eed2b85e64771db3ddd4d194cf3dd7b8bd1",
       "original_explanation_sha256": "833ab53949e985b4b95640034e5d9a196a3699a84f1ae4a72c80384ba07ede6d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:17.750Z"
     },
     {
       "annotation_id": "A055",
@@ -936,7 +1068,10 @@
       "split": "train",
       "abstract_sha256": "63dc4b6ab7e0ce68919944536dd51eed2b85e64771db3ddd4d194cf3dd7b8bd1",
       "original_explanation_sha256": "7a90cb2510b60a8e9237abd0ea3076ccc67f74466ecc8ce3f98586ca5dfbf3b9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:18.662Z"
     },
     {
       "annotation_id": "A056",
@@ -962,7 +1097,10 @@
       "split": "train",
       "abstract_sha256": "63dc4b6ab7e0ce68919944536dd51eed2b85e64771db3ddd4d194cf3dd7b8bd1",
       "original_explanation_sha256": "8af3deb662ff5413f53569af3399e1a037eecd70ba7af8e4b1da74608cf2ad08",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:19.994Z"
     },
     {
       "annotation_id": "A057",
@@ -975,7 +1113,10 @@
       "split": "train",
       "abstract_sha256": "2d5918c42580bb2ce049c8ba5baf19506720b0b3c42622510c6d9193ae259cce",
       "original_explanation_sha256": "b3625271aa42706ba8655d78f6f3754a4af26d1eb012e5188b420b83afb9f19f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:23.658Z"
     },
     {
       "annotation_id": "A058",
@@ -988,7 +1129,10 @@
       "split": "train",
       "abstract_sha256": "2d5918c42580bb2ce049c8ba5baf19506720b0b3c42622510c6d9193ae259cce",
       "original_explanation_sha256": "bf57baddca44d5b2103bb6ba65503ee0c22917f55a28001e32a716fd9a646925",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:26.715Z"
     },
     {
       "annotation_id": "A059",
@@ -1001,7 +1145,10 @@
       "split": "train",
       "abstract_sha256": "2d5918c42580bb2ce049c8ba5baf19506720b0b3c42622510c6d9193ae259cce",
       "original_explanation_sha256": "27c647033125a34d9dd444fd63e80c01347340d49e6d551c263a375883e75b51",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:28.070Z"
     },
     {
       "annotation_id": "A060",
@@ -1021,7 +1168,10 @@
       "split": "train",
       "abstract_sha256": "2d5918c42580bb2ce049c8ba5baf19506720b0b3c42622510c6d9193ae259cce",
       "original_explanation_sha256": "5147153b5da99ec2a6654b6d67f4691414f37a1700e18ae7443199e457c27856",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:28.886Z"
     },
     {
       "annotation_id": "A061",
@@ -1034,7 +1184,10 @@
       "split": "train",
       "abstract_sha256": "26dd3b55f6624d3ca1d65e06a4c9a76a4f7ac86265ab6260ef44c2a4e1985dbb",
       "original_explanation_sha256": "483cadf9c9f742b883244819109b452f01cc36d6928afc5b4afa59787fea4ff1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:31.770Z"
     },
     {
       "annotation_id": "A062",
@@ -1047,7 +1200,10 @@
       "split": "train",
       "abstract_sha256": "26dd3b55f6624d3ca1d65e06a4c9a76a4f7ac86265ab6260ef44c2a4e1985dbb",
       "original_explanation_sha256": "5157d792389599f33221171725ed663d1afc9a71b6b994d0c70a93c0d07139d0",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:33.002Z"
     },
     {
       "annotation_id": "A063",
@@ -1060,7 +1216,10 @@
       "split": "train",
       "abstract_sha256": "26dd3b55f6624d3ca1d65e06a4c9a76a4f7ac86265ab6260ef44c2a4e1985dbb",
       "original_explanation_sha256": "f507be98e5b70a7f71aeb68a207281714acdbb2584d8ef7938932c29fb1768a8",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:33.942Z"
     },
     {
       "annotation_id": "A064",
@@ -1073,7 +1232,10 @@
       "split": "train",
       "abstract_sha256": "26dd3b55f6624d3ca1d65e06a4c9a76a4f7ac86265ab6260ef44c2a4e1985dbb",
       "original_explanation_sha256": "f38169c708be4c1932031b87cc8f758553ac3e3ecb00bdc547fe7c2af27099ff",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:34.341Z"
     },
     {
       "annotation_id": "A065",
@@ -1086,7 +1248,10 @@
       "split": "train",
       "abstract_sha256": "26dd3b55f6624d3ca1d65e06a4c9a76a4f7ac86265ab6260ef44c2a4e1985dbb",
       "original_explanation_sha256": "25140343ff73660ec03f221cc07ae53eb26c6f6ea201846f15cf01b1576a8eb3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:34.711Z"
     },
     {
       "annotation_id": "A066",
@@ -1099,7 +1264,10 @@
       "split": "train",
       "abstract_sha256": "fccf19ee0a22b1b8a3ad7378cab063dd2c52462c5f33361f0430bf5027cf0eb7",
       "original_explanation_sha256": "81bb5f485c323b8de18c4f8c80f60718deeec69505d03b43d706ea47f32d365a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:36.478Z"
     },
     {
       "annotation_id": "A067",
@@ -1112,7 +1280,10 @@
       "split": "train",
       "abstract_sha256": "fccf19ee0a22b1b8a3ad7378cab063dd2c52462c5f33361f0430bf5027cf0eb7",
       "original_explanation_sha256": "c32d9227e8359359e75dec50466ea8cc44e62f2e96e8ce2e600c8fb7d8709777",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:37.770Z"
     },
     {
       "annotation_id": "A068",
@@ -1132,7 +1303,10 @@
       "split": "train",
       "abstract_sha256": "fccf19ee0a22b1b8a3ad7378cab063dd2c52462c5f33361f0430bf5027cf0eb7",
       "original_explanation_sha256": "c169207b360aa7229e6b847cec1dd93797b1433a8e020e19cebd789ad248eda0",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:38.522Z"
     },
     {
       "annotation_id": "A069",
@@ -1152,7 +1326,10 @@
       "split": "train",
       "abstract_sha256": "fccf19ee0a22b1b8a3ad7378cab063dd2c52462c5f33361f0430bf5027cf0eb7",
       "original_explanation_sha256": "5a5a693a27c0358d7e74617b3366ef6772c0702a5adf29cfa89ef63bbb219253",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:39.754Z"
     },
     {
       "annotation_id": "A070",
@@ -1178,7 +1355,10 @@
       "split": "train",
       "abstract_sha256": "fccf19ee0a22b1b8a3ad7378cab063dd2c52462c5f33361f0430bf5027cf0eb7",
       "original_explanation_sha256": "0f0f4176d1304513b17692d1c13801e4cc3907b5559ed98bf4a5fd19787711dc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:40.254Z"
     },
     {
       "annotation_id": "A071",
@@ -1204,7 +1384,10 @@
       "split": "train",
       "abstract_sha256": "e2085018c525e2edf4b384cb7d999697120c5e688b6a795c43a85f18c791d8e9",
       "original_explanation_sha256": "aa3dfefc58c0609916e62ee0a78691a64f5372ec9e6b483aef908decbfdb60e5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:41.478Z"
     },
     {
       "annotation_id": "A072",
@@ -1224,7 +1407,10 @@
       "split": "train",
       "abstract_sha256": "e2085018c525e2edf4b384cb7d999697120c5e688b6a795c43a85f18c791d8e9",
       "original_explanation_sha256": "f2f88edffacffa2b3462e543ea05c02b0d27ea7017b41a0ec5aecf4afd38817b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:44.337Z"
     },
     {
       "annotation_id": "A073",
@@ -1237,7 +1423,10 @@
       "split": "train",
       "abstract_sha256": "e2085018c525e2edf4b384cb7d999697120c5e688b6a795c43a85f18c791d8e9",
       "original_explanation_sha256": "723fcae5c9d2508e42694b97318f625860eb47cabf490887c48b5fd2b403f193",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:46.198Z"
     },
     {
       "annotation_id": "A074",
@@ -1281,7 +1470,10 @@
       "split": "train",
       "abstract_sha256": "e2085018c525e2edf4b384cb7d999697120c5e688b6a795c43a85f18c791d8e9",
       "original_explanation_sha256": "341c3ccf03f44755e931b80100044c82add5da8ee8677fb397e7357390e5abd2",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:46.967Z"
     },
     {
       "annotation_id": "A075",
@@ -1301,7 +1493,10 @@
       "split": "train",
       "abstract_sha256": "e2085018c525e2edf4b384cb7d999697120c5e688b6a795c43a85f18c791d8e9",
       "original_explanation_sha256": "61c51234c2a4f743d36a50028ae7b054a8eb7a3e3d0159d76894a07bafc179c1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:47.654Z"
     },
     {
       "annotation_id": "A076",
@@ -1411,7 +1606,10 @@
       "split": "train",
       "abstract_sha256": "f64a6cb50093980112a7965913d4adea0325f8c08d78e829eede60edc7190748",
       "original_explanation_sha256": "8aa265461c3a2eb4aef384c7a2dccd5d057ff05f02900402470a2a713dd5e194",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:48.422Z"
     },
     {
       "annotation_id": "A083",
@@ -1424,7 +1622,10 @@
       "split": "train",
       "abstract_sha256": "f64a6cb50093980112a7965913d4adea0325f8c08d78e829eede60edc7190748",
       "original_explanation_sha256": "127c4e143e3bc7e86dc459f75c3d9492a3abe3604d97154b9cc8159bc61d6df8",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:49.338Z"
     },
     {
       "annotation_id": "A084",
@@ -1437,7 +1638,10 @@
       "split": "train",
       "abstract_sha256": "f64a6cb50093980112a7965913d4adea0325f8c08d78e829eede60edc7190748",
       "original_explanation_sha256": "1a5bc7d771e6826d9dcfa90c721a82f0977a9f0b0d40f9c25664bd6c3ee37609",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:49.931Z"
     },
     {
       "annotation_id": "A085",
@@ -1450,7 +1654,10 @@
       "split": "train",
       "abstract_sha256": "f64a6cb50093980112a7965913d4adea0325f8c08d78e829eede60edc7190748",
       "original_explanation_sha256": "ae8939a125c4c8287ff19c31de1ed75e10dcef99449740304e726dbd6b21ca75",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:50.601Z"
     },
     {
       "annotation_id": "A086",
@@ -1463,7 +1670,10 @@
       "split": "train",
       "abstract_sha256": "f64a6cb50093980112a7965913d4adea0325f8c08d78e829eede60edc7190748",
       "original_explanation_sha256": "ca9aec8aa7c675842bd718879badb4b876ee2a3c2905e072f32627810ab36769",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:51.082Z"
     },
     {
       "annotation_id": "A087",
@@ -1579,7 +1789,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "a2a38ae3d9d83c07dcfaa31e2ad8bbae3dcb2ecd69ed41fe59f6cf48bb1749ea",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:58.566Z"
     },
     {
       "annotation_id": "A093",
@@ -1592,7 +1805,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "005a4fa0983111f5c0333e29445cc6ae1b04a6f2cddd759e27340df66dfcf508",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:11:59.838Z"
     },
     {
       "annotation_id": "A094",
@@ -1605,7 +1821,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "a8adf70e682620422d42bb60cf98c7f21009becb2ec559d4a489bc8febeb5773",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:02.354Z"
     },
     {
       "annotation_id": "A095",
@@ -1618,7 +1837,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "6c942ff35bf67f65ba547a2b16029567ac060903267484c06c4d46bf5e6e1d6f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:03.997Z"
     },
     {
       "annotation_id": "A096",
@@ -1633,7 +1855,10 @@
       "assistant_revision_note": "Retain the respondent's readable English label 'Unclear things' and both cited expressions. It does not require interpretation or replacement by an unclear-phrase marker.",
       "model_output_superseded_by_assistant_review": true,
       "original_explanation_sha256": "f2796135ffa6dbc1a8ef593f6674b99552651b276cfbd0201f4bcee9be3fc35c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:13.786Z"
     },
     {
       "annotation_id": "A097",
@@ -1653,7 +1878,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "cb38434f69035f75c5313b24e3519de261d1b8f815ea3f066d08d961f59eaefa",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:15.573Z"
     },
     {
       "annotation_id": "A098",
@@ -1666,7 +1894,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "1b849da3a6143b267066a65e5569ffda1d6ab3f880ceb15b501c4ddb61e00df9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:17.909Z"
     },
     {
       "annotation_id": "A099",
@@ -1679,7 +1910,10 @@
       "split": "train",
       "abstract_sha256": "00812982a00c3f689f5b35e8aa0d0d90e626fffadeaeb733583cf79ca1c99d85",
       "original_explanation_sha256": "b478d4dbcaa8016bf3634b197fdf8eba08527e24d67f963e4c63e4bbdbc7b0d7",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:20.233Z"
     },
     {
       "annotation_id": "A100",
@@ -1692,7 +1926,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "a71558673f38b28375bb0adc32ed9fbdf4b28ecbfa036f5ddb52b74e70b43189",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:21.894Z"
     },
     {
       "annotation_id": "A101",
@@ -1712,7 +1949,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "5d68a86985a09e5463c08c29e1e6b6ddff81fa0472cefd8ba15a08845a976709",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:24.090Z"
     },
     {
       "annotation_id": "A102",
@@ -1725,7 +1965,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "530aad6c4074a2aa69c3d1dfa1fdf432e5c38434f6e63cae5a1263d6606bee3d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:26.098Z"
     },
     {
       "annotation_id": "A103",
@@ -1738,7 +1981,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "6ab34cae75c9a7d17618734cb09ea6262e71024c63e217ac3de1abb977e54419",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:26.917Z"
     },
     {
       "annotation_id": "A104",
@@ -1758,7 +2004,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "0824513b60c165bd96ae2cf19ee92437a5a81bf0699bb5caaac6bbeeb02310f4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:27.126Z"
     },
     {
       "annotation_id": "A105",
@@ -1778,7 +2027,10 @@
       "split": "train",
       "abstract_sha256": "486d8b676d9f3b737713ce76188c2d8dcae0c3eba756a0a04f674df20ad08a3d",
       "original_explanation_sha256": "c7ffa9dc6b22e23e5972b78e1e0a189267a5a52cdb9a84cda511dbc3dd19528c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:28.798Z"
     },
     {
       "annotation_id": "A106",
@@ -1791,7 +2043,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "471ba3bbbf5efeb34f9f95df992574de7d4bd86fc4bbfa2c23b48bbb05bae867",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:29.769Z"
     },
     {
       "annotation_id": "A107",
@@ -1804,7 +2059,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "77a814fdeb87b83a488f519934960bf05dbce22354750c136e612d1262b9fdd0",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:30.546Z"
     },
     {
       "annotation_id": "A108",
@@ -1817,7 +2075,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "89ff07ef50e8d8034758550ba80b4e16f08914aa27c8060ada60ae7a3261cf48",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:31.658Z"
     },
     {
       "annotation_id": "A109",
@@ -1830,7 +2091,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "a38511485a3605016eb5269b55782dad2df55afea6a79f6b17b93b10315a2e87",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:33.271Z"
     },
     {
       "annotation_id": "A110",
@@ -1856,7 +2120,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "7f876b675701556402c259e65e795ca0afe92fcff7077dd500fd9e188179a422",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:34.054Z"
     },
     {
       "annotation_id": "A111",
@@ -1869,7 +2136,10 @@
       "split": "train",
       "abstract_sha256": "0873ff0bf9a4a0862e3aa32268b625cbc30b75347e1d56769aa1590000e74360",
       "original_explanation_sha256": "140fe934731e5eabed0d4af1fe68a6494ba86b24af3d8a25d59a0c702f9cd7fc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:35.238Z"
     },
     {
       "annotation_id": "A112",
@@ -1936,7 +2206,10 @@
       "split": "train",
       "abstract_sha256": "c8d298a1c429e39be40a8803a4d1a308f8d51b41bf4e052d10aed4e5737fc279",
       "original_explanation_sha256": "add6a5c249cff8a6f232d2989a11b4bdf42098a6725540a59386365f0ab315e5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:36.882Z"
     },
     {
       "annotation_id": "A117",
@@ -1949,7 +2222,10 @@
       "split": "train",
       "abstract_sha256": "c8d298a1c429e39be40a8803a4d1a308f8d51b41bf4e052d10aed4e5737fc279",
       "original_explanation_sha256": "eb363ff446ae9d5b9ac9e0015b428f9f6164f9ff2a38affb8c8e5ce1795b9593",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:37.770Z"
     },
     {
       "annotation_id": "A118",
@@ -1962,7 +2238,10 @@
       "split": "train",
       "abstract_sha256": "c8d298a1c429e39be40a8803a4d1a308f8d51b41bf4e052d10aed4e5737fc279",
       "original_explanation_sha256": "c08f180aa33b3abbfaa48418d3831b08c40d5fbde014e3f27e79b6a6d6e50df6",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:38.226Z"
     },
     {
       "annotation_id": "A119",
@@ -1975,7 +2254,10 @@
       "split": "train",
       "abstract_sha256": "c8d298a1c429e39be40a8803a4d1a308f8d51b41bf4e052d10aed4e5737fc279",
       "original_explanation_sha256": "3dbb1dd8f1089c1feea27cd8d6bea1afe1dc42e1b651f6451e0545dd2857d917",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:38.830Z"
     },
     {
       "annotation_id": "A120",
@@ -1995,7 +2277,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "9fc3323bd47332e37a36ccb4d758a06614c130900b69f81e9963d40806a0839a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:40.934Z"
     },
     {
       "annotation_id": "A121",
@@ -2015,7 +2300,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "7b84b0a9449a513655e3b84471316c944ae5ca8c214bde6864a65fd79eab0e49",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:41.377Z"
     },
     {
       "annotation_id": "A122",
@@ -2041,7 +2329,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "b1abe76a621f7c8cfa8cb79cb3eca44d83fdb8aab8636680f5b682391bf602d4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:41.842Z"
     },
     {
       "annotation_id": "A123",
@@ -2054,7 +2345,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "79c167903c7565833c5de2a11aca7f58b428fc85d1ab3fe12bc63914fc767717",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:43.529Z"
     },
     {
       "annotation_id": "A124",
@@ -2074,7 +2368,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "d9d5dd9ea16004d5d84be06c8d7b06473fe083c2a089457d9ad0942997480216",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:44.670Z"
     },
     {
       "annotation_id": "A125",
@@ -2094,7 +2391,10 @@
       "split": "train",
       "abstract_sha256": "55d5b8fbcb8cc39b40ad91f6e04947a66c596fd82139b7dbe013a5b239965cdf",
       "original_explanation_sha256": "78d8b29e4e69c2e0c90db9ca93d6b32eb46f9e9a849bd06efbe4dccc819e8f6c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:45.366Z"
     },
     {
       "annotation_id": "A126",
@@ -2114,7 +2414,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "1644955813d1654d3f17f0eac77897d49a52756b4ca4bd438b6cc0c35e520624",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:45.886Z"
     },
     {
       "annotation_id": "A127",
@@ -2140,7 +2443,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "89adcce41537fc9f24aa62a7ebf88465545502cbcb1425bf5e45fac46e757b59",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:47.490Z"
     },
     {
       "annotation_id": "A128",
@@ -2153,7 +2459,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "152fbfb1f74026ad9939b0894631f8a44f3fb7bb884668893639d2f3aaddd90a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:49.450Z"
     },
     {
       "annotation_id": "A129",
@@ -2173,7 +2482,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "3877b427e2d50b81462d6c0768d585d6c005a1e300ac9f8db46e442420270be2",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:50.894Z"
     },
     {
       "annotation_id": "A130",
@@ -2186,7 +2498,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "43e69148eb286fb2c1d7c2eb0dd462daf51082e3c471a90bdc2c28422c158d80",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:51.421Z"
     },
     {
       "annotation_id": "A131",
@@ -2199,7 +2514,10 @@
       "split": "train",
       "abstract_sha256": "8b1fa5bf4890b9b7ed72df989eb3bcf363c7ffcfa85e038d5bd61674d1610dfd",
       "original_explanation_sha256": "4535bc956a9a8373b5829bd1aaed68d75daf6f84163dca19ac536b626fe98831",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:52.582Z"
     },
     {
       "annotation_id": "A132",
@@ -2212,7 +2530,10 @@
       "split": "train",
       "abstract_sha256": "e0a9cbf00cfb4a1678918a715c95ef107bc1c8c668886327376d94e7b1cc45f1",
       "original_explanation_sha256": "ee4f5dce72a18ede01bd035d7f7b8296e3de083ffc06ac125b697f3548a8d72d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:53.858Z"
     },
     {
       "annotation_id": "A133",
@@ -2225,7 +2546,10 @@
       "split": "train",
       "abstract_sha256": "e0a9cbf00cfb4a1678918a715c95ef107bc1c8c668886327376d94e7b1cc45f1",
       "original_explanation_sha256": "0fa952e084f85ec28ee77b5a03af6d24ecd22518dec23c9a6b858470708be60e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:55.098Z"
     },
     {
       "annotation_id": "A134",
@@ -2238,7 +2562,10 @@
       "split": "train",
       "abstract_sha256": "e0a9cbf00cfb4a1678918a715c95ef107bc1c8c668886327376d94e7b1cc45f1",
       "original_explanation_sha256": "f2023a7b9d62cd0e4a2514f4013cb493bd5492db88fcf199bf8d371155ab7065",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:55.658Z"
     },
     {
       "annotation_id": "A135",
@@ -2251,7 +2578,10 @@
       "split": "train",
       "abstract_sha256": "e0a9cbf00cfb4a1678918a715c95ef107bc1c8c668886327376d94e7b1cc45f1",
       "original_explanation_sha256": "9e2b888f7b9318adc9be1e87af5b2f0e9015bffe91d230f04fd47f6e74f3bfa4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:56.162Z"
     },
     {
       "annotation_id": "A136",
@@ -2264,7 +2594,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "b679eedd08871354a43d309a4f33aaa34a96e8753e0ee68d69b3d6fa95f9d5c9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:58.621Z"
     },
     {
       "annotation_id": "A137",
@@ -2277,7 +2610,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "2d24c9ee604e1fb7677bcabdec73fd048c75a84dd60eabfe4b16a32fb68197f3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:12:59.658Z"
     },
     {
       "annotation_id": "A138",
@@ -2290,7 +2626,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "47e7404da79a4a9193ff93dd94f5a013cf1974eea9ad854f4425e63d0ee23df8",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:00.210Z"
     },
     {
       "annotation_id": "A139",
@@ -2303,7 +2642,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "6e6709770c4c7859a2280df9592bb5403a38c06c8b43f8bf9c05993a0da06c3e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:01.826Z"
     },
     {
       "annotation_id": "A140",
@@ -2335,7 +2677,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "d820dfe069012d5a30d11c8938b4bb312480a891ca6e0b8459a4bc7481812d93",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:02.462Z"
     },
     {
       "annotation_id": "A141",
@@ -2373,7 +2718,10 @@
       "split": "train",
       "abstract_sha256": "83c9d08b420cf3277adaf67babbcf6616ced08071fa8f4bd233cab339eb608ac",
       "original_explanation_sha256": "e03e394459af5f9b65c084d1be9e8e2375d5af9520d71f0666554be1c6c1c141",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:04.293Z"
     },
     {
       "annotation_id": "A142",
@@ -2386,7 +2734,10 @@
       "split": "train",
       "abstract_sha256": "3f53450b08b5fb347070a2d7641f16c7ec7a5a62dfd777b8e8df4ba847970504",
       "original_explanation_sha256": "9ce87bb3945fb0091e1b8d033e7a6e2426b5a83fe7ac50b2f0f9811c6db72d7b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:05.322Z"
     },
     {
       "annotation_id": "A143",
@@ -2406,7 +2757,10 @@
       "split": "train",
       "abstract_sha256": "3f53450b08b5fb347070a2d7641f16c7ec7a5a62dfd777b8e8df4ba847970504",
       "original_explanation_sha256": "eeec9639836ffa8e05094ac24c0ea49ac01bb2fe8c34fc84f3faa123dde5f471",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:06.266Z"
     },
     {
       "annotation_id": "A144",
@@ -2419,7 +2773,10 @@
       "split": "train",
       "abstract_sha256": "3f53450b08b5fb347070a2d7641f16c7ec7a5a62dfd777b8e8df4ba847970504",
       "original_explanation_sha256": "505bd12938815abc8b94478eb945700353ce649dde39fbc9c4403663bf454983",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:06.890Z"
     },
     {
       "annotation_id": "A145",
@@ -2439,7 +2796,10 @@
       "split": "train",
       "abstract_sha256": "3f53450b08b5fb347070a2d7641f16c7ec7a5a62dfd777b8e8df4ba847970504",
       "original_explanation_sha256": "c87cdedffb01ee0384a0bd2f75bf2ea88298941270bd134dfd83091e762b496f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:07.314Z"
     },
     {
       "annotation_id": "A146",
@@ -2452,7 +2812,10 @@
       "split": "train",
       "abstract_sha256": "3f53450b08b5fb347070a2d7641f16c7ec7a5a62dfd777b8e8df4ba847970504",
       "original_explanation_sha256": "4c29fdb0de689088864fbeceea546be000dc0c67096665eb77481953ea7cebc9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:08.694Z"
     },
     {
       "annotation_id": "A147",
@@ -2478,7 +2841,10 @@
       "split": "train",
       "abstract_sha256": "7fb7b95be48aa320eeb659cfc06a1557ca7c8d8af70eebe0b52870321a0628ab",
       "original_explanation_sha256": "eaf3e9d52937e694a4a025452fc432b6ac15194d8b5ef8d77364d63348f11de7",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:09.494Z"
     },
     {
       "annotation_id": "A148",
@@ -2504,7 +2870,10 @@
       "split": "train",
       "abstract_sha256": "7fb7b95be48aa320eeb659cfc06a1557ca7c8d8af70eebe0b52870321a0628ab",
       "original_explanation_sha256": "60c0e4eb8fff4e89522e2657c8f2b1cbd51b7d96630c0add5cd2cf5c43b71554",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:10.405Z"
     },
     {
       "annotation_id": "A149",
@@ -2530,7 +2899,10 @@
       "split": "train",
       "abstract_sha256": "7fb7b95be48aa320eeb659cfc06a1557ca7c8d8af70eebe0b52870321a0628ab",
       "original_explanation_sha256": "02723b061cabd2342f093f5fc1ad7eb0b05727722b900f77e0317d5bd6db8264",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:10.870Z"
     },
     {
       "annotation_id": "A150",
@@ -2550,7 +2922,10 @@
       "split": "train",
       "abstract_sha256": "7fb7b95be48aa320eeb659cfc06a1557ca7c8d8af70eebe0b52870321a0628ab",
       "original_explanation_sha256": "d1c090d5fb143f6bc34b7a1d422593b6fee0e6620e6d43aee29b74b809273976",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:11.290Z"
     },
     {
       "annotation_id": "A151",
@@ -2563,7 +2938,10 @@
       "split": "train",
       "abstract_sha256": "8132930369e67959b81565bf380994e54316061851a9b153a9722d6df8f1f1e3",
       "original_explanation_sha256": "37b64ac1e024ef3ffdf08db812c966a938547b0638de22bc69f6b0158630825b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:11.850Z"
     },
     {
       "annotation_id": "A152",
@@ -2589,7 +2967,10 @@
       "split": "train",
       "abstract_sha256": "8132930369e67959b81565bf380994e54316061851a9b153a9722d6df8f1f1e3",
       "original_explanation_sha256": "31645d072b7251e6d66f7b4751ad082f7e1f298a3f12742d69488cfe9dd913e4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:13.050Z"
     },
     {
       "annotation_id": "A153",
@@ -2602,7 +2983,10 @@
       "split": "train",
       "abstract_sha256": "8132930369e67959b81565bf380994e54316061851a9b153a9722d6df8f1f1e3",
       "original_explanation_sha256": "011ebf08a92b6fac4eb28a3d4484770a49ecd883447e822f2c6b75f4a71a0858",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:13.514Z"
     },
     {
       "annotation_id": "A154",
@@ -2615,7 +2999,10 @@
       "split": "train",
       "abstract_sha256": "8132930369e67959b81565bf380994e54316061851a9b153a9722d6df8f1f1e3",
       "original_explanation_sha256": "36d250db8e7b43ee7bbfc6accd0abc1ff3b892a7bd952cfc985291cc19fbc69a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:14.114Z"
     },
     {
       "annotation_id": "A155",
@@ -2635,7 +3022,10 @@
       "split": "train",
       "abstract_sha256": "8132930369e67959b81565bf380994e54316061851a9b153a9722d6df8f1f1e3",
       "original_explanation_sha256": "6d91d4127cba43eca8597b599d9c96a933e195adb398c5259ce7f42129c4c528",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:14.967Z"
     },
     {
       "annotation_id": "A156",
@@ -2648,7 +3038,10 @@
       "split": "train",
       "abstract_sha256": "abb10bfde33da6633ec136e127e74b2f1160d393c9883416eb30d238e5b7fd2e",
       "original_explanation_sha256": "eda814b52b8f6ad8437d0e7e32fe97f6f2cd8fc8dfdd94a83ce31b4addca7265",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:16.934Z"
     },
     {
       "annotation_id": "A157",
@@ -2661,7 +3054,10 @@
       "split": "train",
       "abstract_sha256": "abb10bfde33da6633ec136e127e74b2f1160d393c9883416eb30d238e5b7fd2e",
       "original_explanation_sha256": "83c8efb7743a05eeba46feee13556fc8167835f24892a92882e6c003a4abdc70",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:18.497Z"
     },
     {
       "annotation_id": "A158",
@@ -2674,7 +3070,10 @@
       "split": "train",
       "abstract_sha256": "abb10bfde33da6633ec136e127e74b2f1160d393c9883416eb30d238e5b7fd2e",
       "original_explanation_sha256": "ff902db3e81ae90adf2ed35e5b6d72a72e4210d1ae670dbb5c23e04be08f0151",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:18.953Z"
     },
     {
       "annotation_id": "A159",
@@ -2687,7 +3086,10 @@
       "split": "train",
       "abstract_sha256": "abb10bfde33da6633ec136e127e74b2f1160d393c9883416eb30d238e5b7fd2e",
       "original_explanation_sha256": "acccfba0a61c89c05970fa4204bed013de03137859ed7055ac0e49bbb43e60ca",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:19.410Z"
     },
     {
       "annotation_id": "A160",
@@ -2778,7 +3180,10 @@
       "split": "train",
       "abstract_sha256": "3d2561b6e5beafb13e6c40c32ebc7c7e1877b5d6574bfef2ab6ef7fecd636738",
       "original_explanation_sha256": "2da6de7f13de0dbbc7182dfe894ab8d53d2c66dee722dc233af541ca6e33ec91",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:20.590Z"
     },
     {
       "annotation_id": "A167",
@@ -2791,7 +3196,10 @@
       "split": "train",
       "abstract_sha256": "3d2561b6e5beafb13e6c40c32ebc7c7e1877b5d6574bfef2ab6ef7fecd636738",
       "original_explanation_sha256": "7a31f1bf42b6d5500e9a5fa7a791fee4bd609969046a987695b50553da9f9678",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:21.863Z"
     },
     {
       "annotation_id": "A168",
@@ -2804,7 +3212,10 @@
       "split": "train",
       "abstract_sha256": "3d2561b6e5beafb13e6c40c32ebc7c7e1877b5d6574bfef2ab6ef7fecd636738",
       "original_explanation_sha256": "ee41e24629e988afdb89b6498a424124c2297e4aa1dc7cfabf66bf598948af57",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:22.501Z"
     },
     {
       "annotation_id": "A169",
@@ -2836,7 +3247,10 @@
       "split": "train",
       "abstract_sha256": "3d2561b6e5beafb13e6c40c32ebc7c7e1877b5d6574bfef2ab6ef7fecd636738",
       "original_explanation_sha256": "184dcd958ea60dbba0550ca4978839b5062cfc642d406b6f738594f91c68af25",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:23.754Z"
     },
     {
       "annotation_id": "A170",
@@ -2856,7 +3270,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "3928e65d8eb29a6ec7eba325427251965b5b37e4f002a6f96d1467746042cd45",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:25.949Z"
     },
     {
       "annotation_id": "A171",
@@ -2869,7 +3286,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "6a75c53ba93fd5cefef6062ab1574bfeaae3b2413367bc969671a7ccd384b816",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:27.710Z"
     },
     {
       "annotation_id": "A172",
@@ -2889,7 +3309,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "fbf0832fe4b0e16c0205410f22a5e60887d507c3a5db340839315ff1f09970f5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:29.249Z"
     },
     {
       "annotation_id": "A173",
@@ -2909,7 +3332,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "a847ea29588a5cd75fb9d7efbfac1b0ccf019fce530edd55d47f87c1d03c424a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:56.166Z"
     },
     {
       "annotation_id": "A174",
@@ -2922,7 +3348,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "126bdbdda4b948959fcb645e2249de9f0643fa2a37bdc3737b020c46a19c618e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:13:58.006Z"
     },
     {
       "annotation_id": "A175",
@@ -2935,7 +3364,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "014c53a16517f539d933c6769f3c3e24809ab1760f17c6acdaebb3b8bb3ff426",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:01.434Z"
     },
     {
       "annotation_id": "A176",
@@ -2948,7 +3380,10 @@
       "split": "train",
       "abstract_sha256": "92c0012a975115df26cd77e4d6826796b5f09eed5ddb4f2a50f63a8ff183d448",
       "original_explanation_sha256": "8f64d6ffcc7dd9fb40c6cdcafecde0b2bf7b321ea94825dc1021bf4c1cf4ccab",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:04.069Z"
     },
     {
       "annotation_id": "A177",
@@ -2974,7 +3409,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "cd425eeb02c0efbd7ce0114715bc6a1b2021fdb67752c1aa1710ed5f8ed05d3e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:08.914Z"
     },
     {
       "annotation_id": "A178",
@@ -2994,7 +3432,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "5fc728f091c8d14b903f623709c7a4b0e579064c4cc5dc9f2719e5b9cac51149",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:10.993Z"
     },
     {
       "annotation_id": "A179",
@@ -3014,7 +3455,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "6a9b3b220928c808f1cb0c214c6570975948d9318b54c6a7b23b7422267b6994",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:14.266Z"
     },
     {
       "annotation_id": "A180",
@@ -3034,7 +3478,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "18605570baf237976981ad8dfd7e6181cd940a472aae9ed110d284e350a1bc35",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:17.165Z"
     },
     {
       "annotation_id": "A181",
@@ -3047,7 +3494,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "2a8ef8d982f4ae3e02fb5a4555f98e6cee055a445b314f144e044cff83239ab9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:18.761Z"
     },
     {
       "annotation_id": "A182",
@@ -3067,7 +3517,10 @@
       "split": "train",
       "abstract_sha256": "eb62014a966e804255b9013fec6383648f593ddde8cf933becfa571012a87be7",
       "original_explanation_sha256": "4cb683f83c68d56c0579d96ff6f3b0ff489888d92236bf67ef92262500fa26b3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:20.617Z"
     },
     {
       "annotation_id": "A183",
@@ -3087,7 +3540,10 @@
       "split": "train",
       "abstract_sha256": "e37ea352f8190adca6a963eea91d8bfb94445ac061eeb133759273983b04ad28",
       "original_explanation_sha256": "cb61c1cd739aa851aab87a26e8e5d30e347e3f9b651b3fc236cb88d0cda98ad6",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:23.694Z"
     },
     {
       "annotation_id": "A184",
@@ -3100,7 +3556,10 @@
       "split": "train",
       "abstract_sha256": "e37ea352f8190adca6a963eea91d8bfb94445ac061eeb133759273983b04ad28",
       "original_explanation_sha256": "ee2da008ba917b3bec2e31f7a49b90bf017688d5522fba0cd4f890378c058cae",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:25.114Z"
     },
     {
       "annotation_id": "A185",
@@ -3113,7 +3572,10 @@
       "split": "train",
       "abstract_sha256": "e37ea352f8190adca6a963eea91d8bfb94445ac061eeb133759273983b04ad28",
       "original_explanation_sha256": "5f50a16ffcf3c83e0dadd2215f0d8a4b7c4f26f321018d8c512556322ce5daf1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:26.686Z"
     },
     {
       "annotation_id": "A186",
@@ -3126,7 +3588,10 @@
       "split": "train",
       "abstract_sha256": "b3bc3826e6abdc34dc3f79d15bf46c2bfc2d8153a7cc750d73bfa18250cb3824",
       "original_explanation_sha256": "8bf578abd1c3fc7550a370e0a4446baad0d295cc8982247dd2e67a4a8f463a01",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:28.873Z"
     },
     {
       "annotation_id": "A187",
@@ -3146,7 +3611,10 @@
       "split": "train",
       "abstract_sha256": "b3bc3826e6abdc34dc3f79d15bf46c2bfc2d8153a7cc750d73bfa18250cb3824",
       "original_explanation_sha256": "ae390dbfc3dbe15afa73858c9903402348403a0a8b03a414d62f772b8fb0165d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:36.238Z"
     },
     {
       "annotation_id": "A188",
@@ -3159,7 +3627,10 @@
       "split": "train",
       "abstract_sha256": "b3bc3826e6abdc34dc3f79d15bf46c2bfc2d8153a7cc750d73bfa18250cb3824",
       "original_explanation_sha256": "00e8cfd296fba9702d5f2569061a71de823e64afc22003505b36acad3af94139",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:38.209Z"
     },
     {
       "annotation_id": "A189",
@@ -3174,7 +3645,10 @@
       "assistant_revision_note": "The Hebrew keyboard character ת occupies the English comma key. Restore separators and retain the three cited expressions.",
       "model_output_superseded_by_assistant_review": true,
       "original_explanation_sha256": "2d09cf722d605ed2c84d303e11c8bab064c3fa2cb299aaec67a6f616e8777c36",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:39.313Z"
     },
     {
       "annotation_id": "A190",
@@ -3200,7 +3674,10 @@
       "split": "train",
       "abstract_sha256": "b3bc3826e6abdc34dc3f79d15bf46c2bfc2d8153a7cc750d73bfa18250cb3824",
       "original_explanation_sha256": "b44ac3aab59c5ab0aa89b04e3ff27ccda5e9cadb84b5c6f59ef0a34811b3feb3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:40.301Z"
     },
     {
       "annotation_id": "A191",
@@ -3220,7 +3697,10 @@
       "split": "train",
       "abstract_sha256": "b3bc3826e6abdc34dc3f79d15bf46c2bfc2d8153a7cc750d73bfa18250cb3824",
       "original_explanation_sha256": "12b3fd71baa233d5b1f4e9812a20b4ae406bb1779a560ea6db1f8aa60dec3fb1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:41.494Z"
     },
     {
       "annotation_id": "A192",
@@ -3233,7 +3713,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "0a2aed952e3bb1f62f661ec9ca047ce609eeb0e0ac43cb7c00110864b82bad8d",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:43.154Z"
     },
     {
       "annotation_id": "A193",
@@ -3246,7 +3729,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "28950d40840509cd2035e2403704ab04892c112e7d8f431625fcd06fc190820c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:44.266Z"
     },
     {
       "annotation_id": "A194",
@@ -3259,7 +3745,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "86ff0998f6d41a2c5e826f83bccc2fb574772e4109737b25d5f403622cd90879",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:44.922Z"
     },
     {
       "annotation_id": "A195",
@@ -3272,7 +3761,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "5131e7c134eda28b724b9261ee3bb61661c922582f67b6efdf498e5fd33dcf01",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:46.054Z"
     },
     {
       "annotation_id": "A196",
@@ -3285,7 +3777,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "1f4e89d4d0d5dc05815847549417b8126a419c872e771592518bbdc29b98258e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:46.958Z"
     },
     {
       "annotation_id": "A197",
@@ -3305,7 +3800,10 @@
       "split": "train",
       "abstract_sha256": "1c36748b74183f28c4990d05c92530a628603ea85c8ab9223aac77fdc959d0d3",
       "original_explanation_sha256": "dac553abbb808a0edb2b85907b2cbb2ec91c291ee79489d9724b1fde54192e8e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:47.406Z"
     },
     {
       "annotation_id": "A198",
@@ -3399,7 +3897,10 @@
       "split": "train",
       "abstract_sha256": "521da6ff325ad9ee9821fcd856b1624ddb09772bf899dab1788198a8f40822e0",
       "original_explanation_sha256": "59fca875de87e1d3af12259134cc0e48ab41dc166b02c135cf25ae47db4e0b54",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:47.854Z"
     },
     {
       "annotation_id": "A204",
@@ -3412,7 +3913,10 @@
       "split": "train",
       "abstract_sha256": "521da6ff325ad9ee9821fcd856b1624ddb09772bf899dab1788198a8f40822e0",
       "original_explanation_sha256": "08664a7ecfde3d6b5da2829e9cb47bf70c9a4cd6ff07da678eb1f02832e008a0",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:48.686Z"
     },
     {
       "annotation_id": "A205",
@@ -3432,7 +3936,10 @@
       "split": "train",
       "abstract_sha256": "521da6ff325ad9ee9821fcd856b1624ddb09772bf899dab1788198a8f40822e0",
       "original_explanation_sha256": "75ba087f732be0c65e7d74890e5af10b5d688a0a5800999e1bbdbeac88c377b2",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:49.105Z"
     },
     {
       "annotation_id": "A206",
@@ -3452,7 +3959,10 @@
       "split": "train",
       "abstract_sha256": "521da6ff325ad9ee9821fcd856b1624ddb09772bf899dab1788198a8f40822e0",
       "original_explanation_sha256": "85b73867697ed459a2334ff6262caf801b8dbe0230c3c0f959e6a303ac3fd77f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:50.018Z"
     },
     {
       "annotation_id": "A207",
@@ -3474,7 +3984,10 @@
       "assistant_revision_note": "Complete the cited classifier name using the unique corresponding expression in this abstract.",
       "model_output_superseded_by_assistant_review": true,
       "original_explanation_sha256": "eed3a9b383559d4a3eed81a8c2bf58e87da88450fdaacac08e0d8d75ab054dbc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:56.709Z"
     },
     {
       "annotation_id": "A208",
@@ -3487,7 +4000,10 @@
       "split": "train",
       "abstract_sha256": "afaa49fbf613d0430fb67a4ecc4229b4ac127fedf14cf26f74629ea463082acf",
       "original_explanation_sha256": "f9f9d37365a91259f9127320c4ef2826cdabfdb0218c317d921d513ae9e1260e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:14:59.537Z"
     },
     {
       "annotation_id": "A209",
@@ -3500,7 +4016,10 @@
       "split": "train",
       "abstract_sha256": "afaa49fbf613d0430fb67a4ecc4229b4ac127fedf14cf26f74629ea463082acf",
       "original_explanation_sha256": "8adf8d60145da0c2f3a348dde316876170c56c3f4e5e619cc479b09876ac186b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:01.033Z"
     },
     {
       "annotation_id": "A210",
@@ -3520,7 +4039,10 @@
       "split": "train",
       "abstract_sha256": "afaa49fbf613d0430fb67a4ecc4229b4ac127fedf14cf26f74629ea463082acf",
       "original_explanation_sha256": "e5cd4a72d9e7408ec43316eeefd8c1f3adafca14881fc7e9007e0a96e8e58d63",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:02.129Z"
     },
     {
       "annotation_id": "A211",
@@ -3533,7 +4055,10 @@
       "split": "train",
       "abstract_sha256": "afaa49fbf613d0430fb67a4ecc4229b4ac127fedf14cf26f74629ea463082acf",
       "original_explanation_sha256": "9ea1cd15b7ef103af2ef6823a943f2a51d760a90e480610f8bfc978435632c52",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:02.865Z"
     },
     {
       "annotation_id": "A212",
@@ -3546,7 +4071,10 @@
       "split": "train",
       "abstract_sha256": "bfcc4694eabd9f162d35be5b696d9bb83fbb436b9915b4fc630cc6007cd22cdd",
       "original_explanation_sha256": "1cc27198bf1e923e11f4130bc79b2901c0e6845e38c07e43f5717544dc391cbf",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:03.425Z"
     },
     {
       "annotation_id": "A213",
@@ -3559,7 +4087,10 @@
       "split": "train",
       "abstract_sha256": "bfcc4694eabd9f162d35be5b696d9bb83fbb436b9915b4fc630cc6007cd22cdd",
       "original_explanation_sha256": "7a9548be6af5ad3f3c75e20c5ea6856b64fbb9e283b5c9dd06bc5843074dd78c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:04.186Z"
     },
     {
       "annotation_id": "A214",
@@ -3572,7 +4103,10 @@
       "split": "train",
       "abstract_sha256": "bfcc4694eabd9f162d35be5b696d9bb83fbb436b9915b4fc630cc6007cd22cdd",
       "original_explanation_sha256": "2ba534692958b93bfe4cfcba76f9baa2d29cba0ab7d6d5850d5d60c9b8fab072",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:04.910Z"
     },
     {
       "annotation_id": "A215",
@@ -3585,7 +4119,10 @@
       "split": "train",
       "abstract_sha256": "bfcc4694eabd9f162d35be5b696d9bb83fbb436b9915b4fc630cc6007cd22cdd",
       "original_explanation_sha256": "a97ba201183b9808bb02b90daf96abc8fbb15cb20fa96d44cc20461ffa073810",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:05.781Z"
     },
     {
       "annotation_id": "A216",
@@ -3670,7 +4207,10 @@
       "split": "train",
       "abstract_sha256": "80335e8a954a7641a822f570e9f5d488a0e62666ed599850c9e4489b661e15fe",
       "original_explanation_sha256": "6bbec039ea14d44d9abf9729e611a5b3cfcc061bf55088360705f60675404677",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:06.854Z"
     },
     {
       "annotation_id": "A222",
@@ -3683,7 +4223,10 @@
       "split": "train",
       "abstract_sha256": "80335e8a954a7641a822f570e9f5d488a0e62666ed599850c9e4489b661e15fe",
       "original_explanation_sha256": "59b7e67a409cc438473515fb24d263fe92a214c94183059d87cf0d1abec6437a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:07.583Z"
     },
     {
       "annotation_id": "A223",
@@ -3703,7 +4246,10 @@
       "split": "train",
       "abstract_sha256": "80335e8a954a7641a822f570e9f5d488a0e62666ed599850c9e4489b661e15fe",
       "original_explanation_sha256": "46cb34f1a820e0474d9866fc4cc119bbbbea3b619dac56c889224cf118861a8b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:09.802Z"
     },
     {
       "annotation_id": "A224",
@@ -3716,7 +4262,10 @@
       "split": "train",
       "abstract_sha256": "e1542107fde1274bc4057b5d4efa162f96d6b75e84ef58fe1385ed9b3c7c5382",
       "original_explanation_sha256": "48c42baec68d95859810fde7669d5700df12ce1ea4b282f87973ff190064bc55",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:12.058Z"
     },
     {
       "annotation_id": "A225",
@@ -3754,7 +4303,10 @@
       "split": "train",
       "abstract_sha256": "e1542107fde1274bc4057b5d4efa162f96d6b75e84ef58fe1385ed9b3c7c5382",
       "original_explanation_sha256": "3fafa4f2892f8a69e0fd78fe9f96be46c5d33d1aeeba97862665b65d86944d2b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:47.805Z"
     },
     {
       "annotation_id": "A226",
@@ -3767,7 +4319,10 @@
       "split": "train",
       "abstract_sha256": "e1542107fde1274bc4057b5d4efa162f96d6b75e84ef58fe1385ed9b3c7c5382",
       "original_explanation_sha256": "892dfca5e685d221cb4a6cd3a2e10dd86f95df734e8e941fc8eeb83aeb05b677",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:49.793Z"
     },
     {
       "annotation_id": "A227",
@@ -3793,7 +4348,10 @@
       "split": "train",
       "abstract_sha256": "e1542107fde1274bc4057b5d4efa162f96d6b75e84ef58fe1385ed9b3c7c5382",
       "original_explanation_sha256": "c7935001b85076abb939bf6caf7ab4d5f0e07b5a33c3c4fde68283321ef3f715",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:51.658Z"
     },
     {
       "annotation_id": "A228",
@@ -3806,7 +4364,10 @@
       "split": "train",
       "abstract_sha256": "e1542107fde1274bc4057b5d4efa162f96d6b75e84ef58fe1385ed9b3c7c5382",
       "original_explanation_sha256": "62145f7c96736702c5c3db284f74bda23689c0e48f247708e734231b25c52c90",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:52.478Z"
     },
     {
       "annotation_id": "A229",
@@ -3819,7 +4380,10 @@
       "split": "train",
       "abstract_sha256": "cb6be7fc9bc6d5e66a23984ddace4916343658f057ee6a84a0eaedff2e287d74",
       "original_explanation_sha256": "7c2852f05d28e3eb1d2a2814915a51035dcb32d5f7be5636b2f137c0ab658a28",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:54.277Z"
     },
     {
       "annotation_id": "A230",
@@ -3832,7 +4396,10 @@
       "split": "train",
       "abstract_sha256": "cb6be7fc9bc6d5e66a23984ddace4916343658f057ee6a84a0eaedff2e287d74",
       "original_explanation_sha256": "ea68771a399457d94e436529f5205fd76513c66958d4618ffc080a33d53e1283",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:55.177Z"
     },
     {
       "annotation_id": "A231",
@@ -3845,7 +4412,10 @@
       "split": "train",
       "abstract_sha256": "cb6be7fc9bc6d5e66a23984ddace4916343658f057ee6a84a0eaedff2e287d74",
       "original_explanation_sha256": "3c877f65e5bc41db754e4621867d4bdf0db31d752752cbc1493d2b8695b86d15",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:56.217Z"
     },
     {
       "annotation_id": "A232",
@@ -3858,7 +4428,10 @@
       "split": "train",
       "abstract_sha256": "cb6be7fc9bc6d5e66a23984ddace4916343658f057ee6a84a0eaedff2e287d74",
       "original_explanation_sha256": "973775ac03cef144af04c80705be9a767972c0d4c34d7cf934c1ae07b064abd4",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:57.169Z"
     },
     {
       "annotation_id": "A233",
@@ -3871,7 +4444,10 @@
       "split": "train",
       "abstract_sha256": "b522e3588979e3baeab5dd854b15982c50742b5bc8d3016334f8b0847a2955f4",
       "original_explanation_sha256": "fec0ebbde7a5d6676cc677eb83bd3298420c04a6ef44de20d82a1b1da8cb6926",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:15:58.557Z"
     },
     {
       "annotation_id": "A234",
@@ -3891,7 +4467,10 @@
       "split": "train",
       "abstract_sha256": "b522e3588979e3baeab5dd854b15982c50742b5bc8d3016334f8b0847a2955f4",
       "original_explanation_sha256": "bddf28be4979165f10c55c0624a1147519b040f7100d87c33cbded53f0386193",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:01.177Z"
     },
     {
       "annotation_id": "A235",
@@ -3917,7 +4496,10 @@
       "split": "train",
       "abstract_sha256": "b522e3588979e3baeab5dd854b15982c50742b5bc8d3016334f8b0847a2955f4",
       "original_explanation_sha256": "272ba74b9f9dff10d8370b4e287b0d3a6a392a27262c005276f77a1d54d88a1c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:02.553Z"
     },
     {
       "annotation_id": "A236",
@@ -3937,7 +4519,10 @@
       "split": "train",
       "abstract_sha256": "1493da4a4726d52743ad1c332be939d851ed59c640f06018c9aa0152689dd246",
       "original_explanation_sha256": "42e90f5194a45a680c94e6cefcb2ba8988e3bad05b7f8c26a600a9266ee585ab",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:03.641Z"
     },
     {
       "annotation_id": "A237",
@@ -3957,7 +4542,10 @@
       "split": "train",
       "abstract_sha256": "1493da4a4726d52743ad1c332be939d851ed59c640f06018c9aa0152689dd246",
       "original_explanation_sha256": "faed62fa4d9d26da38c8409ea95dd49d0f4685adafa7b7e5aea93c8ab3f514bc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:06.222Z"
     },
     {
       "annotation_id": "A238",
@@ -3977,7 +4565,10 @@
       "split": "train",
       "abstract_sha256": "1493da4a4726d52743ad1c332be939d851ed59c640f06018c9aa0152689dd246",
       "original_explanation_sha256": "73b905e088a54b24611b1f29a41c3156fac9764c8085f649ff8fc40fcc36a826",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:07.267Z"
     },
     {
       "annotation_id": "A239",
@@ -3997,7 +4588,10 @@
       "split": "train",
       "abstract_sha256": "1493da4a4726d52743ad1c332be939d851ed59c640f06018c9aa0152689dd246",
       "original_explanation_sha256": "a4c5acd5d1a6391ecf9f1c61108e5f9cc4ccc9743d808b562eb33deaf2aac8fc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:08.786Z"
     },
     {
       "annotation_id": "A240",
@@ -4010,7 +4604,10 @@
       "split": "train",
       "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
       "original_explanation_sha256": "9a1f5c892ec78e6f0f1f56ae845806ed78ab7d93680aa99f5f981daf1e2a7a9c",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:09.897Z"
     },
     {
       "annotation_id": "A241",
@@ -4023,7 +4620,10 @@
       "split": "train",
       "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
       "original_explanation_sha256": "211e94000239ee2dbfe22d2e303febfe9b6d1608e665b8ce75c8111c44f6ebd8",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:10.645Z"
     },
     {
       "annotation_id": "A242",
@@ -4036,7 +4636,10 @@
       "split": "train",
       "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
       "original_explanation_sha256": "2a2963b802f7c7a560624e2409415f669606893742e53442c1793aac2c944017",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:11.110Z"
     },
     {
       "annotation_id": "A243",
@@ -4049,7 +4652,10 @@
       "split": "train",
       "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
       "original_explanation_sha256": "5f085c8b0d0debf4f5cf9effdd074739c171b9edc1a7f39627f6f96b0950bfe9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:11.941Z"
     },
     {
       "annotation_id": "A244",
@@ -4062,7 +4668,10 @@
       "split": "train",
       "abstract_sha256": "86ffb6f8dd5e01f7b1f2bcf252aff23c8003526e757e85fab4c9d295f4b62fbf",
       "original_explanation_sha256": "5eb550a7218a8665da5ba66a1333b8750f537a0a65a857785ff9fe890b08a785",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:12.413Z"
     },
     {
       "annotation_id": "A245",
@@ -4181,7 +4790,10 @@
       "split": "train",
       "abstract_sha256": "c9d4f4cf6721335ff62e0af6e0700b0f2d0af0455a6f2d59b66b2c1e1ace8de2",
       "original_explanation_sha256": "32e76193e33de55141f1952c0d6876ffbb12752a8b5ebe44aea813d02c6f033b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:12.870Z"
     },
     {
       "annotation_id": "A252",
@@ -4194,7 +4806,10 @@
       "split": "train",
       "abstract_sha256": "c9d4f4cf6721335ff62e0af6e0700b0f2d0af0455a6f2d59b66b2c1e1ace8de2",
       "original_explanation_sha256": "087d86ec244b02771adf29392272d069714855fdfcf6a53a9c81e8002afe0eb5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:14.161Z"
     },
     {
       "annotation_id": "A253",
@@ -4207,7 +4822,10 @@
       "split": "train",
       "abstract_sha256": "c9d4f4cf6721335ff62e0af6e0700b0f2d0af0455a6f2d59b66b2c1e1ace8de2",
       "original_explanation_sha256": "1364e5ca4f330303982a379940a851ce7a90e6dff07bab85871393a40fb39d83",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:14.737Z"
     },
     {
       "annotation_id": "A254",
@@ -4220,7 +4838,10 @@
       "split": "train",
       "abstract_sha256": "c9d4f4cf6721335ff62e0af6e0700b0f2d0af0455a6f2d59b66b2c1e1ace8de2",
       "original_explanation_sha256": "800cebad5ff4c631c8dce1ec0602d14dbf3a54769440690ffcbd702c9c7d0f70",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:16.113Z"
     },
     {
       "annotation_id": "A255",
@@ -4240,7 +4861,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "3788ce9f62a8b8317c08844529b3470e3fd63bca67cfdd536b9ae0a1dba73fc3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:17.309Z"
     },
     {
       "annotation_id": "A256",
@@ -4253,7 +4877,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "83380ee7323e4d3134dfcbddf262f51d3b2622d77b5f8113dea8352fb760ec09",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:17.758Z"
     },
     {
       "annotation_id": "A257",
@@ -4266,7 +4893,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "6697e96b2b32dc571ad372eddfa2bcc5b5b0a9187784ede18061f0d73cfbc01b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:18.253Z"
     },
     {
       "annotation_id": "A258",
@@ -4286,7 +4916,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "e327ebc3d1e38f334c0c1563faba28b532dd457ed7c66f886ceb887fe3fbf006",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:18.773Z"
     },
     {
       "annotation_id": "A259",
@@ -4299,7 +4932,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "096b705d41065ef6b80cea5c465bbece763cd5ff862189de0e90fb7498dd1119",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:19.201Z"
     },
     {
       "annotation_id": "A260",
@@ -4325,7 +4961,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "e3a511ef1d79a1a51d5c9f236c386de6864827b77f147325197658e4cdb8cf1e",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:23.085Z"
     },
     {
       "annotation_id": "A261",
@@ -4338,7 +4977,10 @@
       "split": "train",
       "abstract_sha256": "c91f308725c48644367ddef4df3122299952262b89cf998d50b8767b72c13339",
       "original_explanation_sha256": "dda43fda7902973f0b6eb0f016b4cd87f8c2ccd4204a1df08de4a26ae8324488",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:23.685Z"
     },
     {
       "annotation_id": "A262",
@@ -4417,7 +5059,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "20114ffef900073dd90a30e54203c9c844fcc006acb9ec1344a252789fd71db9",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:24.421Z"
     },
     {
       "annotation_id": "A267",
@@ -4430,7 +5075,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "47487239126102ea9495b80dbf4732c2c2ebf1eaf1325415287e661f387797bc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:24.877Z"
     },
     {
       "annotation_id": "A268",
@@ -4462,7 +5110,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "52b10ae61985645739c1b93de50efa6ca571ebb070eee763ea32b7f1a8319d2f",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:57.333Z"
     },
     {
       "annotation_id": "A269",
@@ -4475,7 +5126,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "aee4685f531796ecc6177e7d54cb78a9a38a234aed34c043fbc134cc935e91f1",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:58.605Z"
     },
     {
       "annotation_id": "A270",
@@ -4488,7 +5142,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "d0bf81cf35b8a3487f699cee77069556024431cf6268538c8505149cdbb2ebde",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:59.025Z"
     },
     {
       "annotation_id": "A271",
@@ -4501,7 +5158,10 @@
       "split": "train",
       "abstract_sha256": "b770b859239326d8211811c8e1f6dad15fb093fd7d833b3a57d979fb270f4cf0",
       "original_explanation_sha256": "0d421392d842c3a69f6230ceaf86722d959dc0ebc0de986d0a92eeb3ad5e1409",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:16:59.665Z"
     },
     {
       "annotation_id": "A272",
@@ -4527,7 +5187,10 @@
       "split": "train",
       "abstract_sha256": "8d295b91d2c19bb24e25c28924fa5d8df8c880fc2da8d7470dc47218a7ddc779",
       "original_explanation_sha256": "526a208f97c1bfd5a7bd968ab64e02865e23fa5bfcead08b1fa0ab8273063aff",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:00.857Z"
     },
     {
       "annotation_id": "A273",
@@ -4559,7 +5222,10 @@
       "split": "train",
       "abstract_sha256": "8d295b91d2c19bb24e25c28924fa5d8df8c880fc2da8d7470dc47218a7ddc779",
       "original_explanation_sha256": "cae63bf17d394b08a9a07eac5926c1d4a2c9517600a97ed05c687e36689bcdc3",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:01.449Z"
     },
     {
       "annotation_id": "A274",
@@ -4574,7 +5240,10 @@
       "assistant_revision_note": "Respect the investigator's previous approval to retain unresolved wording. Do not promote a plausible interpretation to gold.",
       "model_output_superseded_by_assistant_review": true,
       "original_explanation_sha256": "9a7a5bbc355673d659b05164b7bf2ad6cae7aa2c923ea5afbdaed7fd2cbc2902",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "retain_exclusion",
+      "investigator_decided_at": "2026-10-12T10:17:12.777Z"
     },
     {
       "annotation_id": "A275",
@@ -4587,11 +5256,14 @@
       "split": "train",
       "abstract_sha256": "8d295b91d2c19bb24e25c28924fa5d8df8c880fc2da8d7470dc47218a7ddc779",
       "original_explanation_sha256": "d088934c288c5a652708d5c14ccd34b2e135c5af01132bb6b9338995611cb7a5",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:14.273Z"
     },
     {
       "annotation_id": "A276",
-      "english": "state of the art, Go, mind reasoning, open source, experimental framework",
+      "english": "state of the art, Go, theory of mind reasoning, open source, experimental framework",
       "response_form": "term_list",
       "unresolved": false,
       "issue": "",
@@ -4601,13 +5273,23 @@
           "replacement": "Go",
           "kind": "context_term",
           "abstract_quote": "Go"
+        },
+        {
+          "source_span": "mind reasoning",
+          "replacement": "theory of mind reasoning",
+          "kind": "context_term",
+          "abstract_quote": "We believe developing novel techniques for such theory of mind reasoning will not only be crucial for success in Hanabi, but also in broader collaborative efforts, especially those with human partners."
         }
       ],
       "abstract_id": "abs55",
       "split": "train",
       "abstract_sha256": "8d295b91d2c19bb24e25c28924fa5d8df8c880fc2da8d7470dc47218a7ddc779",
       "original_explanation_sha256": "bec9eae43bd487acf60d6e3547fa18beae1cc0f7b8a5f35c3fa25e6a9e07920b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:15.169Z",
+      "investigator_amendment": "Investigator explicitly agreed to the source-supported completion after reviewing the audit on 2026-10-12."
     },
     {
       "annotation_id": "A277",
@@ -4803,7 +5485,10 @@
       "split": "train",
       "abstract_sha256": "e8ca8c8ba14cd1941fb8d703b1c6e7ecbf6e0c05d98b4af227036f67fb107a6b",
       "original_explanation_sha256": "eaf1762ca78267cf82ad5a0c739078642a86fb8c623cdb071801dc5db9d5dd68",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:16.285Z"
     },
     {
       "annotation_id": "A287",
@@ -4816,7 +5501,10 @@
       "split": "train",
       "abstract_sha256": "e8ca8c8ba14cd1941fb8d703b1c6e7ecbf6e0c05d98b4af227036f67fb107a6b",
       "original_explanation_sha256": "2e1f9c9fe9be95cc57501846b7658c64732091a5a1b3a55070072c614c08260a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:17.436Z"
     },
     {
       "annotation_id": "A288",
@@ -4829,7 +5517,10 @@
       "split": "train",
       "abstract_sha256": "e8ca8c8ba14cd1941fb8d703b1c6e7ecbf6e0c05d98b4af227036f67fb107a6b",
       "original_explanation_sha256": "3c7973e9b2bb85b379f6c601f72efe8bde05a37a3050b0bbd860a5db80a6a242",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:17.917Z"
     },
     {
       "annotation_id": "A289",
@@ -4842,7 +5533,10 @@
       "split": "train",
       "abstract_sha256": "e8ca8c8ba14cd1941fb8d703b1c6e7ecbf6e0c05d98b4af227036f67fb107a6b",
       "original_explanation_sha256": "c136bc829dfebf18affd9b32ff65a2aeb5c07033d542f7dba79eea7d35d5ac27",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:19.161Z"
     },
     {
       "annotation_id": "A290",
@@ -4855,7 +5549,10 @@
       "split": "train",
       "abstract_sha256": "e8ca8c8ba14cd1941fb8d703b1c6e7ecbf6e0c05d98b4af227036f67fb107a6b",
       "original_explanation_sha256": "1969facadb6b132383e07d93cfe9cd9f1e9ebfe282078de1acc1923014c2746b",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:19.577Z"
     },
     {
       "annotation_id": "A291",
@@ -4868,7 +5565,10 @@
       "split": "train",
       "abstract_sha256": "3de6c9eeb5a4a67cef2c16e0d2e882b20b53cd1006ec67b7399f851a9096be69",
       "original_explanation_sha256": "311449269679da66c4c547a1a674f2d5f1516448a8e872e6f2aba3907666758a",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:20.456Z"
     },
     {
       "annotation_id": "A292",
@@ -4888,7 +5588,10 @@
       "split": "train",
       "abstract_sha256": "3de6c9eeb5a4a67cef2c16e0d2e882b20b53cd1006ec67b7399f851a9096be69",
       "original_explanation_sha256": "cc5adc8106348a7db47b9d8f596a93954dd9a70e217ef9375a0e534281ad6c13",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:21.032Z"
     },
     {
       "annotation_id": "A293",
@@ -4908,7 +5611,10 @@
       "split": "train",
       "abstract_sha256": "3de6c9eeb5a4a67cef2c16e0d2e882b20b53cd1006ec67b7399f851a9096be69",
       "original_explanation_sha256": "b21a1705b13db8831eb3f5f7b67ef1774322fbc58d7d85653677de49cd3e8779",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:21.485Z"
     },
     {
       "annotation_id": "A294",
@@ -4928,7 +5634,10 @@
       "split": "train",
       "abstract_sha256": "3de6c9eeb5a4a67cef2c16e0d2e882b20b53cd1006ec67b7399f851a9096be69",
       "original_explanation_sha256": "934249145beed72f36be5e2a69dd6c7a55c8a9ea39ba2b5c2dd54939a5333071",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:21.876Z"
     },
     {
       "annotation_id": "A295",
@@ -4948,7 +5657,10 @@
       "split": "train",
       "abstract_sha256": "3de6c9eeb5a4a67cef2c16e0d2e882b20b53cd1006ec67b7399f851a9096be69",
       "original_explanation_sha256": "8adf7f95138f542af1596eb2a34bb36a2f8463a7deef761848f36d58409fecbc",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:22.292Z"
     },
     {
       "annotation_id": "A296",
@@ -4970,7 +5682,10 @@
       "assistant_revision_note": "Restore the missing final noun of an otherwise verbatim cited expression.",
       "model_output_superseded_by_assistant_review": true,
       "original_explanation_sha256": "ab632aa4d13973cd0c140cf6f0cef463e3858ae671f34b73858d6559f06d1cfd",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:23.204Z"
     },
     {
       "annotation_id": "A297",
@@ -4990,7 +5705,10 @@
       "split": "train",
       "abstract_sha256": "276c2cd4c1c827e553335ab805b958215b64aaf00588f6ee6ee37daf455880b8",
       "original_explanation_sha256": "8efa8717a14d0c5928df4bf4b566ce9769f8462167a9b6ac4d461adac5ee6dce",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:25.697Z"
     },
     {
       "annotation_id": "A298",
@@ -5003,7 +5721,10 @@
       "split": "train",
       "abstract_sha256": "276c2cd4c1c827e553335ab805b958215b64aaf00588f6ee6ee37daf455880b8",
       "original_explanation_sha256": "70bcd9cce64414115d93477233c889c229bf05365d82e77bc8acc018ce828627",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:26.729Z"
     },
     {
       "annotation_id": "A299",
@@ -5016,7 +5737,14 @@
       "split": "train",
       "abstract_sha256": "276c2cd4c1c827e553335ab805b958215b64aaf00588f6ee6ee37daf455880b8",
       "original_explanation_sha256": "c051d0468b38daf5582ecdc7e21eb01a1bd8e174200ff33c3163998d923001bd",
-      "human_review_completed": false
+      "human_review_completed": true,
+      "reviewed_by": "Ron Beiden",
+      "investigator_approval_scope": "english_wording",
+      "investigator_decided_at": "2026-10-12T10:17:57.045Z"
     }
-  ]
+  ],
+  "development_review_completed": true,
+  "reviewed_development_records": 239,
+  "approved_training_explanations": 238,
+  "review_method": "AI-standardized explanations reviewed by the investigator with assistant support; not independent dual-human annotation."
 }

@@ -1,0 +1,612 @@
+{
+  "status": "investigator_approved",
+  "codebook_version": "0.3-investigator-approved",
+  "method": "AI-drafted, investigator-reviewed with assistant advice; not independent double-human coding.",
+  "confirmatory_verification_completed": false,
+  "records": [
+    {
+      "sample_position": 1,
+      "annotation_id": "A073",
+      "abstract_id": "abs15",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "O(n3), loopy CRFs"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 2,
+      "annotation_id": "A142",
+      "abstract_id": "abs28",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Deep learning"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 3,
+      "annotation_id": "A193",
+      "abstract_id": "abs38",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "tandem repeats"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 4,
+      "annotation_id": "A291",
+      "abstract_id": "abs59",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Autosomal-dominant retinitis pigmentosa"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 5,
+      "annotation_id": "A084",
+      "abstract_id": "abs17",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "single-cell genomics"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 6,
+      "annotation_id": "A102",
+      "abstract_id": "abs20",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "CRISPR-Cas9"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 7,
+      "annotation_id": "A028",
+      "abstract_id": "abs6",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "programmable nucleases"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 8,
+      "annotation_id": "A061",
+      "abstract_id": "abs13",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Antigenic variation"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 9,
+      "annotation_id": "A261",
+      "abstract_id": "abs52",
+      "codes": [
+        "NO_CITED_TERMS"
+      ],
+      "source_evidence": {
+        "NO_CITED_TERMS": "None of them"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 10,
+      "annotation_id": "A116",
+      "abstract_id": "abs23",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Nanopore, Illumina sequencing"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 11,
+      "annotation_id": "A223",
+      "abstract_id": "abs44",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Catmull Clark subdivision"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 12,
+      "annotation_id": "A295",
+      "abstract_id": "abs59",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "structural variants"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 13,
+      "annotation_id": "A297",
+      "abstract_id": "abs60",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Notorious, I. E."
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 14,
+      "annotation_id": "A157",
+      "abstract_id": "abs31",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Totipotency"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 15,
+      "annotation_id": "A192",
+      "abstract_id": "abs38",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Genome repeats"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 16,
+      "annotation_id": "A119",
+      "abstract_id": "abs23",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "DNA methylation"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 17,
+      "annotation_id": "A031",
+      "abstract_id": "abs6",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "CRISPR-Cas9"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 18,
+      "annotation_id": "A051",
+      "abstract_id": "abs10",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "salience, plagues"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 19,
+      "annotation_id": "A136",
+      "abstract_id": "abs27",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "gemcitabine"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 20,
+      "annotation_id": "A166",
+      "abstract_id": "abs33",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "visual scanning, field of view"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 21,
+      "annotation_id": "A038",
+      "abstract_id": "abs7",
+      "codes": [
+        "CITED_TERMS",
+        "PRIOR_KNOWLEDGE",
+        "EDUCATION_ANCHOR",
+        "CONTEXT_DEPENDENCE"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "CCG, TAG, LFG and HPSG",
+        "PRIOR_KNOWLEDGE": "only people rigorously trained in this field",
+        "EDUCATION_ANCHOR": "Masters student",
+        "CONTEXT_DEPENDENCE": "In 2016, a high-level Masters student in Computational Linguistics may have understood this paragraph. However, nowadays, only people rigorously trained in this field would have known the various grammars CCG, TAG, LFG and HPSG, lambda calculus and neo-Davidsonian forms."
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 22,
+      "annotation_id": "A108",
+      "abstract_id": "abs21",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "microbiome ecology"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 23,
+      "annotation_id": "A126",
+      "abstract_id": "abs25",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "KBQA"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 24,
+      "annotation_id": "A016",
+      "abstract_id": "abs3",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "hierarchies, correlations, supervision, predictive tasks"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 25,
+      "annotation_id": "A180",
+      "abstract_id": "abs35",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "zero-shot"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 26,
+      "annotation_id": "A235",
+      "abstract_id": "abs47",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Interest as a knowledge emotion"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 27,
+      "annotation_id": "A032",
+      "abstract_id": "abs7",
+      "codes": [
+        "SPECIALIZED_LANGUAGE",
+        "WORDING_COMPLEXITY",
+        "ACCESSIBILITY"
+      ],
+      "source_evidence": {
+        "SPECIALIZED_LANGUAGE": "מינוחים מקצועיים",
+        "WORDING_COMPLEXITY": "טקסט מורכב",
+        "ACCESSIBILITY": "אפשרי להבין"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 28,
+      "annotation_id": "A185",
+      "abstract_id": "abs36",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "exploiting the knowledge"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 29,
+      "annotation_id": "A237",
+      "abstract_id": "abs48",
+      "codes": [
+        "PRIOR_KNOWLEDGE",
+        "EDUCATION_ANCHOR",
+        "CONTEXT_DEPENDENCE",
+        "WORDING_COMPLEXITY"
+      ],
+      "source_evidence": {
+        "PRIOR_KNOWLEDGE": "still require knowledge that is higher than you learn BS.c",
+        "EDUCATION_ANCHOR": "BS.c",
+        "CONTEXT_DEPENDENCE": "simpler than the previous one",
+        "WORDING_COMPLEXITY": "This text is simpler"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 30,
+      "annotation_id": "A255",
+      "abstract_id": "abs52",
+      "codes": [
+        "ACCESSIBILITY"
+      ],
+      "source_evidence": {
+        "ACCESSIBILITY": "general text nothing require knowledge"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 31,
+      "annotation_id": "A158",
+      "abstract_id": "abs31",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "3D genome organization"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 32,
+      "annotation_id": "A238",
+      "abstract_id": "abs48",
+      "codes": [
+        "PRIOR_KNOWLEDGE",
+        "IN_TEXT_EXPLANATIONS",
+        "EDUCATION_ANCHOR",
+        "RATING_BOUNDARY"
+      ],
+      "source_evidence": {
+        "PRIOR_KNOWLEDGE": "still assumes a lot of prior knowledge",
+        "IN_TEXT_EXPLANATIONS": "somewhat explains the terminology used",
+        "EDUCATION_ANCHOR": "MSc and PHD",
+        "RATING_BOUNDARY": "somewhere between MSc and PHD"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 33,
+      "annotation_id": "A106",
+      "abstract_id": "abs21",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "microbiome"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 34,
+      "annotation_id": "A075",
+      "abstract_id": "abs15",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "crfs"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 35,
+      "annotation_id": "A257",
+      "abstract_id": "abs52",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "NLP, database, neural network"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 36,
+      "annotation_id": "A271",
+      "abstract_id": "abs54",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "GPT, mainstream, media, novel text, application"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 37,
+      "annotation_id": "A186",
+      "abstract_id": "abs37",
+      "codes": [
+        "NO_CITED_TERMS",
+        "ACCESSIBILITY"
+      ],
+      "source_evidence": {
+        "NO_CITED_TERMS": "None",
+        "ACCESSIBILITY": "all were easy to understand"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 38,
+      "annotation_id": "A139",
+      "abstract_id": "abs27",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "gemcitabine response"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 39,
+      "annotation_id": "A132",
+      "abstract_id": "abs26",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "DNA methylation"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 40,
+      "annotation_id": "A256",
+      "abstract_id": "abs52",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "NLP, neural networks"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 41,
+      "annotation_id": "A023",
+      "abstract_id": "abs5",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "HeLa cells"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 42,
+      "annotation_id": "A182",
+      "abstract_id": "abs35",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "NMT"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 43,
+      "annotation_id": "A054",
+      "abstract_id": "abs11",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "unsupervised and supervised learning"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 44,
+      "annotation_id": "A242",
+      "abstract_id": "abs49",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "protein interactions"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 45,
+      "annotation_id": "A130",
+      "abstract_id": "abs25",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "KBQA"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 46,
+      "annotation_id": "A205",
+      "abstract_id": "abs40",
+      "codes": [
+        "CITED_TERMS"
+      ],
+      "source_evidence": {
+        "CITED_TERMS": "Probabilistic programming"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 47,
+      "annotation_id": "A039",
+      "abstract_id": "abs8",
+      "codes": [
+        "SPECIALIZED_LANGUAGE",
+        "PRIOR_KNOWLEDGE",
+        "WORDING_COMPLEXITY"
+      ],
+      "source_evidence": {
+        "SPECIALIZED_LANGUAGE": "מונחים וניסוח שמצריך הבנה בנושאים ספציפיים",
+        "PRIOR_KNOWLEDGE": "מצריך הבנה בנושאים ספציפיים",
+        "WORDING_COMPLEXITY": "ניסוח מורכב יחסית"
+      },
+      "coding_status": "investigator_approved"
+    },
+    {
+      "sample_position": 48,
+      "annotation_id": "A239",
+      "abstract_id": "abs48",
+      "codes": [
+        "EXTERNAL_LOOKUP"
+      ],
+      "source_evidence": {
+        "EXTERNAL_LOOKUP": "Google the terms and get some background on it easily"
+      },
+      "coding_status": "investigator_approved"
+    }
+  ]
+}
