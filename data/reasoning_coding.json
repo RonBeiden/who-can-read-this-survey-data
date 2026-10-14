@@ -1,0 +1,4067 @@
+{
+  "scope": "239 development answers; see each record for actual review status",
+  "records": [
+    {
+      "annotation_id": "A001",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "eugenic"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A002",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Eugenics, eugenic policies, involuntary sterilization, coerced sterilization, genetic history, public health, Nazi eugenics, minority groups"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A003",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Historical eugenics, immigration restriction, sterilization laws, involuntary sterilization, Nazi eugenics, vulnerable populations, minority groups, and reproductive autonomy"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A004",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "eugenics; involuntary sterilization; immigration restriction; public policy; Nazi eugenics; reproductive coercion; minority groups"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A005",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "eugenics, coerced sterilization, genetics and society, reproductive ethics, historical public health policy, Nazi eugenics, minority rights, medical autonomy"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A006",
+      "abstract_id": "abs1",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "eugenics, population history, public health, genetic policy, coerced sterilization, medical ethics, social determinants"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A014",
+      "abstract_id": "abs3",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Hierarchy, corpora, sprite"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A015",
+      "abstract_id": "abs3",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Topic models\nPredictive tasks\nIncorporate stractures into model priors"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A016",
+      "abstract_id": "abs3",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "hierarchies, correlations, supervision, predictive tasks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A017",
+      "abstract_id": "abs3",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "topic models, structured priors, factorizations, correlations, supervision, inference, predictive tasks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A018",
+      "abstract_id": "abs3",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "hieratchies\nfactorizations\ncorrelactions\nsupervision"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A022",
+      "abstract_id": "abs5",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Human biospecimens, HeLa cells, Henrietta Lacks, research ethics, informed consent, public opinion, biospecimen policy, autonomy, regulatory change, and equitable access to research benefits."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A023",
+      "abstract_id": "abs5",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "HeLa cells"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A024",
+      "abstract_id": "abs5",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "human biospecimens; Henrietta Lacks; HeLa cells; informed consent; public input; research access; autonomy; ethics and policy"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A025",
+      "abstract_id": "abs5",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "biospecimen research, HeLa cells, Henrietta Lacks, informed consent, research ethics, public participation, autonomy, benefit sharing, regulatory policy"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A026",
+      "abstract_id": "abs5",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "biospecimens, informed consent, HeLa cells, research ethics, public input, autonomy, regulatory policy, equitable access to research benefits"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A027",
+      "abstract_id": "abs6",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Genome editing, programmable nucleases, next-generation sequencing (NGS), CRISPR-Cas9, mutation frequencies, Cas-Analyzer, client-side JavaScript, and paired nucleases."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A028",
+      "abstract_id": "abs6",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "programmable nucleases"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A029",
+      "abstract_id": "abs6",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9; programmable nucleases; NGS mutation frequencies; Cas-Analyzer; client-side JavaScript; genome-editing data analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A030",
+      "abstract_id": "abs6",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9, programmable nucleases, next-generation sequencing, mutation frequencies, genome editing, client-side analysis, JavaScript implementation, single nuclease, paired nuclease"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A031",
+      "abstract_id": "abs6",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A032",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "מינוחים מקצועיים"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "טקסט מורכב"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "אפשרי להבין"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A033",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "grammar formalisms like CCG, TAG, LFG, HPSG; lambda calculus; neo-Davidsonian logical forms; semantic parsing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A034",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Ccg tag lfg hpsg, syntactic structures, neo davidsonian"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A035",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CCG, TAG, LFG, HPFG"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A036",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CCG, TAG, LFG, HPSG"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A037",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CCG, TAG, LFG and HPSG;\nsemantic logical forms;\nlambda calculus for deriving neo-Davidsonian logical forms from dependency trees;\nCCG-based representation."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A038",
+      "abstract_id": "abs7",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CCG, TAG, LFG and HPSG"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "only people rigorously trained in this field"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "Masters student"
+        },
+        {
+          "code": "CONTEXT_DEPENDENCE",
+          "evidence": "In 2016, a high-level Masters student in Computational Linguistics may have understood this paragraph. However, nowadays, only people rigorously trained in this field would have known the various grammars CCG, TAG, LFG and HPSG, lambda calculus and neo-Davidsonian forms."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A039",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "מונחים וניסוח שמצריך הבנה בנושאים ספציפיים"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "מצריך הבנה בנושאים ספציפיים"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "ניסוח מורכב יחסית"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A040",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Stemmers, Porter stemmer, topic modeling, English corpora, likelihood, coherence, model stability, entropy."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A041",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Corpora, stemmer, stemming algorithms, degrade topic stability"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A042",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "stemmer, corpora, stemming"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A043",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Porter stemmer, English corpora, topic modeling"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A044",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Rule-based stemmers; Porter stemmer; preprocess English corpora for topic modeling; we train and evaluate topic models on a variety of corpora using several different stemming algorithms. We examine several different quantitative measures of the resulting models, including likelihood, coherence, model stability, and entropy."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A045",
+      "abstract_id": "abs8",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "stemmers, topic models, model stability, entropy"
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "There are several concepts that are not widely known"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A046",
+      "abstract_id": "abs9",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Object-Oriented Ontology, Agential Realism, paradigm , paradigm , re-framing, accountabilities, responsibilities , ethical encounters "
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A047",
+      "abstract_id": "abs9",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "entanglement, neuro-implants, cyberphysical systems, ontological uncertainties, epistemological diffusion, post-humanism, relational ontologies, Entanglement HCI, Actor-Network Theory, Post-Phenomenology, Object-Oriented Ontology, Agential Realism, knowledge generation processes, user-centred design"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A048",
+      "abstract_id": "abs9",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "ontological uncertainties, Entanglement "
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A049",
+      "abstract_id": "abs10",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "naïve, salient , predicting , backstory , patterns, phenomenon, novice"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A050",
+      "abstract_id": "abs10",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "visualization, visual salience"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A051",
+      "abstract_id": "abs10",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "salience, plagues"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A052",
+      "abstract_id": "abs11",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Multiplexed, multi-channel microscopy"
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "only people in this particular subfield will understand these terms"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "only people in this particular subfield will understand these terms"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A053",
+      "abstract_id": "abs11",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "buzzword bingo"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "Requires specific knowledge of bio and math concepts"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "Very poor writing style"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A054",
+      "abstract_id": "abs11",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "unsupervised and supervised learning"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A055",
+      "abstract_id": "abs11",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "single-cell phenotypes in high-dimensional multi-channel microscopy images of human tumors and tissues"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A056",
+      "abstract_id": "abs11",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Single cell phenotypes, multiplexed microscopy, digital histology, supervised and unsupervised learning, analytical provenance, clustering, convolutional neural networks, phenotype trees, cancer and immune cell identification, pathologist in the loop analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A057",
+      "abstract_id": "abs12",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "AR , immersive , prompter,  flashcard-based , augmented, scored , same-day , recall, sustained"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A058",
+      "abstract_id": "abs12",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "user study, within-subjects, recall tests"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A059",
+      "abstract_id": "abs12",
+      "codes": [],
+      "quality_flags": [],
+      "no_matching_theme": true,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A060",
+      "abstract_id": "abs12",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "augmented reality, immersive vocabulary learning, within subjects study design, flashcard comparison, productive recall, delayed recall, learning effectiveness and enjoyment"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A061",
+      "abstract_id": "abs13",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Antigenic variation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A062",
+      "abstract_id": "abs13",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Antigenic variation, immune evasion, homologous recombination, genome architecture, chromatin accessibility, Trypanosoma brucei, Hi-C, subtelomeric compartments, ATAC-seq, single-cell RNA-seq, and histone variants."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A063",
+      "abstract_id": "abs13",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "antigenic variation; immune evasion; homologous recombination; Trypanosoma brucei; Hi-C genome architecture; histone variants; chromatin accessibility; single-cell sequencing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A064",
+      "abstract_id": "abs13",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "antigenic variation, immune evasion, homologous recombination, Trypanosoma brucei, long-read assembly, Hi-C chromatin contacts, subtelomeric compartments, histone variants, ATAC-seq, single-cell RNA sequencing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A065",
+      "abstract_id": "abs13",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "antigenic variation, homologous recombination, haplotype-specific assembly, long-read sequencing, Hi-C, chromatin architecture, histone variants, ATAC-seq, single-cell RNA sequencing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A066",
+      "abstract_id": "abs14",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Bias, F1, syntactic structure"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A067",
+      "abstract_id": "abs14",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "F1\nNatural language\nCorpora\nModels\nBaseline"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A068",
+      "abstract_id": "abs14",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "baselines, corpus"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A069",
+      "abstract_id": "abs14",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "coreference resolution, ambiguous pronouns, natural language understanding, gender bias, corpus, GAP dataset, neural models, F1 score"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A070",
+      "abstract_id": "abs14",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gap\nnatural - language"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A071",
+      "abstract_id": "abs15",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Back propagation,recall,o(n^3)"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A072",
+      "abstract_id": "abs15",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Parser\nRecall\nEdges\nO(n3)\nRuntime\nBack propogation\nGradients"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A073",
+      "abstract_id": "abs15",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "O(n3), loopy CRFs"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A074",
+      "abstract_id": "abs15",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "dependency parsing, higher order interactions, cubic runtime, posterior distributions, loopy belief propagations, structures factors, gradient based training, back propagation, differentiable circuits, loop CRFs, conditional log likelihood "
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A075",
+      "abstract_id": "abs15",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "crfs"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A082",
+      "abstract_id": "abs17",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Single-cell whole-genome amplification (WGA), DOP-PCR, MDA, MALBAC, genome coverage, uniformity, reproducibility, chimera rates, allele dropout, false positives, copy-number variations, deep sequencing, CTCs, PGD, and PGS"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A083",
+      "abstract_id": "abs17",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Whole-genome amplification, DOP-PCR, MDA, MALBAC, single-cell genomics, genome coverage, amplification bias, allele dropout, chimera formation, copy-number variation, and clinical genomics applications"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A084",
+      "abstract_id": "abs17",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "single-cell genomics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A085",
+      "abstract_id": "abs17",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "single-cell whole-genome amplification, DOP-PCR, MDA, MALBAC, genome coverage, amplification bias, allele dropout, chimeras, false positives, copy-number variation, deep sequencing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A086",
+      "abstract_id": "abs17",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "single-cell genomics, whole-genome amplification, MDA, MALBAC, genome coverage, allele dropout, chimera rates, variant calling, copy-number variation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A092",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "טקסט לא מורכב"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "אפשר להבין אותו בצורה פשוטה"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A093",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "no technical details or complex terminology"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "written in very general terms"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A094",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Natural language generation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A095",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "natural language generation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A096",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "commented upon; willing to pay hard cash"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A097",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "natural language generation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A098",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "All the words are simple, and the connecting ideas are clear."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A099",
+      "abstract_id": "abs19",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "natural language generation, commercial software, industry adoption, current applications, market participants, and future development"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A100",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "sgRNA, CRISPR-Cas9, crRNA-tracrRNA duplex, RNA polymerase III pause signal, knockout efficiency, genome editing, non-coding genes"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A101",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9; single-guide RNA (sgRNA); crRNA–tracrRNA duplex; RNA polymerase III pause signal; knockout efficiency; genome editing; gene deletion; non-coding genes"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A102",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A103",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9, single-guide RNA design, crRNA and tracrRNA structure, RNA polymerase III, transcription efficiency, guide optimization, knockout efficiency, gene deletion, non-coding targets"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A104",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CRISPR-Cas9, sgRNA, crRNA, tracrRNA, RNA polymerase, guide RNA structure, duplex extension, thymine tract mutation, knockout efficiency, non coding genes, genome editing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A105",
+      "abstract_id": "abs20",
+      "codes": [
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "undergrad"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A106",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "microbiome"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A107",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "microbiome; sequencing technologies; analytical and software advances; animal models; metabolome; immune system; host–microbe interactions; systems biology"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A108",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "microbiome ecology"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A109",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "microbiome sequencing, metagenomic analysis, microbial communities, metabolome integration, host immune interactions, inflammatory bowel disease, animal models, systems biology"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A110",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "microbiome, metagenomic, metabolome, host microbe interactions, inflammatory bowel disease, animal models, system biology, immune system integration, microbiome associations with neural and psychiatric disorders"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A111",
+      "abstract_id": "abs21",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "sequencing technology\nmicrobiome\nmetabolome\nimmune system"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A116",
+      "abstract_id": "abs23",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Nanopore, Illumina sequencing"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A117",
+      "abstract_id": "abs23",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "lrTAPS, DNA methylation, hydroxymethylation, base-resolution sequencing, Oxford Nanopore, PacBio SMRT, Illumina sequencing, epigenetic phasing, mouse embryonic stem cells, and hepatitis B virus integration."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A118",
+      "abstract_id": "abs23",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "DNA methylation; hydroxymethylation; epigenetic marks; long-read sequencing; Oxford Nanopore; PacBio SMRT; base-resolution profiling; long-range phasing; difficult genomic regions"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A119",
+      "abstract_id": "abs23",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "DNA methylation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A120",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "SMT, tree based smt framework, word reordering phenomena"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A121",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "SMT, empirical trials, string/tree based frameworks, qualitative analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A122",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "SMT, tree based, statistical modeling, lingustic knowledge"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A123",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "understandable (the subject)"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A124",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "comprehensive survey .. as a statistical modeling challenge and as a natural language phenomenon,\nqualitative analysis,\nSMT framework "
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A125",
+      "abstract_id": "abs24",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "SMT, string based and tree based models, statistical modeling, natural language processing, linguistic phenomena, empirical analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A126",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "KBQA"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A127",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "KBQA, NPI, CIPTR, gold program, key value memory networks, NSM, F1"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A128",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "KBQA, NPI, NSM, memory network"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A129",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "really complex"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "alot of prior information and knowledge is needed"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A130",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "KBQA"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A131",
+      "abstract_id": "abs25",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "KBQA, NPI, CIPITR, F1 score, auxiliary rewards, combinatorial program search, sparse rewards, KB schema, answer types, neural symbolic machines"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A132",
+      "abstract_id": "abs26",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "DNA methylation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A133",
+      "abstract_id": "abs26",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Schizophrenia genetics, epigenome-wide association studies, DNA methylation, differentially methylated regions, confounders, polygenic architecture, methylation QTLs, Bayesian co-localization, polygenic risk scores, and regulatory variation."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A134",
+      "abstract_id": "abs26",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "heritability and genetic risk; EWAS design; DNA methylation; differential methylation; cohort replication; confounding variables; mQTLs; Bayesian co-localization; polygenic risk scores; regulatory interpretation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A135",
+      "abstract_id": "abs26",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "schizophrenia genetics, epigenome-wide association study, DNA methylation, differential methylation, cohort replication, confounding factors, mQTLs, Bayesian co-localization, polygenic risk scores, regulatory variants"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A136",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gemcitabine"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A137",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gemcitabine; gallbladder cancer; CRISPR screen; ELP5; Elongator complex; U34 tRNA modification; hnRNPQ; P53-dependent apoptosis; IRES translation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A138",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gemcitabine resistance; gallbladder cancer; ELP5; Elongator complex; wobble U34 tRNA modification; hnRNPQ; p53 IRES translation; CRISPR screening"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A139",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gemcitabine response"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A140",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "gemcitabine resistance, genome wide CRISPR screening, ELP5 depletion, P53 dependent apoptosis, Elongator complex, wobble U34 tRNA modifications, hnRN PQ translation, IRES, gallbladder cancer"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A141",
+      "abstract_id": "abs27",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "complex acronyms and terminologies"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "not given in the uni"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "understandable in that sub-field"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A142",
+      "abstract_id": "abs28",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Deep learning"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A143",
+      "abstract_id": "abs28",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Deep learning"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "advanced undergraduates or grad students"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "only intelligible to advanced undergraduates or grad students"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A144",
+      "abstract_id": "abs28",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "deep learning"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A145",
+      "abstract_id": "abs28",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Deep-learning-based techniques"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A146",
+      "abstract_id": "abs28",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Image captioning, object recognition, visual attributes and relationships, sentence generation, syntactic and semantic correctness, deep learning, benchmark datasets, evaluation metrics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A147",
+      "abstract_id": "abs29",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Ccg,lfg,parsers,bilexical structure"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A148",
+      "abstract_id": "abs29",
+      "codes": [
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "someone without this domain knowledge won't understand"
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "I think thevtext includes too much terms and concepts that someone without this domain knowledge won't understand"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A149",
+      "abstract_id": "abs29",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "word salad for someone who is not deeply dug in in the field"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "someone who is not deeply dug in in the field"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "full on word salad"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A150",
+      "abstract_id": "abs29",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "CCG, LFG, and HPSG"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "too long"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A151",
+      "abstract_id": "abs30",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Parallel entities, synchronization, object-oriented"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A152",
+      "abstract_id": "abs30",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "actors, active objects"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "advanced undergrad or early grad student"
+        },
+        {
+          "code": "IN_TEXT_EXPLANATIONS",
+          "evidence": "Relevant concepts (actors, active objects) are explained briefly"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A153",
+      "abstract_id": "abs30",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "parallel systems\nprogramming models\nsynchronization\nloosely coupled parallel entities"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A154",
+      "abstract_id": "abs30",
+      "codes": [],
+      "quality_flags": [],
+      "no_matching_theme": true,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A155",
+      "abstract_id": "abs30",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Parallel programming, synchronization, asynchronous messaging, actor model, mailboxes, active objects, object oriented programming, language comparison, implementation tradeoffs."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A156",
+      "abstract_id": "abs31",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "SnHi-C, knockout"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A157",
+      "abstract_id": "abs31",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Totipotency"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A158",
+      "abstract_id": "abs31",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "3D genome organization"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A159",
+      "abstract_id": "abs31",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "3D genome architecture, single-cell Hi-C, chromatin loops, cohesin complex, Scc1, Wapl, loop extrusion, epigenetic reprogramming, polymer modeling, embryonic genome folding"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A166",
+      "abstract_id": "abs33",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "visual scanning, field of view"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A167",
+      "abstract_id": "abs33",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "\"controlled experiment\""
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "A background in science, engineering, or social sciences (typically gained in a B.Sc. program) is usually needed to understand how experimental design, variables, and performance metrics work together"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "B.Sc."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A168",
+      "abstract_id": "abs33",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Virtual reality training, field of view, visual complexity, controlled experiment, target detection, strategy adherence, transfer of learning, simulator fidelity, outcome validity."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A169",
+      "abstract_id": "abs33",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Virtual reality training systems, experiment, significantly affected, That is, if learning a prescribed strategy or skill is the goal of a training exercise"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "It's not that simple text, and there's a need to carefuly read it"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "used words are quite familiar outside HCI field"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A170",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "מעט מונחים מקצועיים"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "הטקסט כתוב בצורה ברורה וקלה להבנה"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "תואר ראשון"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A171",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Application Programming Interface (API), Amazon, Google, IBM and Microsoft, cloud software, text analytics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A172",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Cloud based text analytics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A173",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "API"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "here all is clear"
+        },
+        {
+          "code": "IN_TEXT_EXPLANATIONS",
+          "evidence": "you explain what is API"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "BSc"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "need to know how API really works and and the diffrence between local and using API web"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A174",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "API, text analytics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A175",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "cloud-based;\nApplication Programming Interface (API);\nbehemoths"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A176",
+      "abstract_id": "abs34",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "The sentences are simple, and all the concepts are well known to the public."
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "The sentences are simple"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A177",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Neural Machine Translation (NMT), shared wordpiece vocab, transfer learning, zero shot translation, implicit bridging, universal interlingua representation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A178",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NMT, artificial token, transfer learning, zero shot translation, benchmarks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A179",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NMT, WMT betchmark, multilingual models"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A180",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "zero-shot"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A181",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "multilingual NMT"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A182",
+      "abstract_id": "abs35",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NMT"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A183",
+      "abstract_id": "abs36",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Personal Informatics , sports , instruments ,  elite athletets"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A184",
+      "abstract_id": "abs36",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "wearable computing, Personal Informatics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A185",
+      "abstract_id": "abs36",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "exploiting the knowledge"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A186",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "NO_CITED_TERMS",
+          "evidence": "None"
+        },
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "all were easy to understand"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A187",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "Everybody understands manipulation of physical objects."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A188",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "mixed-reality"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A189",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "mixed-realityת virtual worlds via depth-camera sensingת gesture analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A190",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Mixed reality learning, physical and virtual interaction, depth camera sensing, controlled studies with children, collaboration, physical interaction, learning and enjoyment outcomes, gesture analysis."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A191",
+      "abstract_id": "abs37",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "mixed reality, depth camera sensing, controlled experiments, field learning, physical interaction, collaboration, learning outcomes, enjoyment, 3D"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A192",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Genome repeats"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A193",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "tandem repeats"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A194",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "repetitive DNA; tandem repeats; assembly errors; annotation quality; database provenance; downstream analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A195",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "repeat-rich DNA; assembly ambiguity; genome annotation; read alignment; database reliability; propagation of sequence errors; quality control; reference genomes; biological interpretation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A196",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "tandem repeats, genome assembly, read mapping, annotation quality, sequence database reliability, error propagation, repetitive regions, reference genomes"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A197",
+      "abstract_id": "abs38",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "tandem repeats, genome sequencing and assembly, sequencing-assembly-annotation-deposition, atlantic code genome"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A203",
+      "abstract_id": "abs40",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "log probability function, Bayesian inference, BFGS algorithm, Monte Carlo, Hamiltonian Monte Carlo, Hessians, posterior analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A204",
+      "abstract_id": "abs40",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Bayesian inference, Hamiltonian Monte Carlo, Hessians, and the BFGS algorithm"
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "advanced mathematical and algorithmic concepts"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "A general master's degree outside of this specific subfield does not cover them."
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "A general master's degree"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A205",
+      "abstract_id": "abs40",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Probabilistic programming"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A206",
+      "abstract_id": "abs40",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "probabilistic programming language, statistical models, log probability function, Bayesian inference, Markov chain Monte Carlo methods, Markov chain Monte Carlo methods, Hamiltonian, maximum likelihood, optimization , Broyden-Fletcher-Goldfarb-Shanno algorithm, gradients and Hessians, variational Bayes, expectation propagation, and marginal inference using approximate integration."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A207",
+      "abstract_id": "abs41",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Support vector, random forest"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A208",
+      "abstract_id": "abs41",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Support vector machine\nClassifier\nRandom forest"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A209",
+      "abstract_id": "abs41",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Random Forest classifier"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A210",
+      "abstract_id": "abs41",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "two stage classification, behavioral features, text categorization, Support Vector Machine, Random Forest, binary classification, PAN 2012 corpus"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A211",
+      "abstract_id": "abs41",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "support vector machine"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A212",
+      "abstract_id": "abs42",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "FASTQ files"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A213",
+      "abstract_id": "abs42",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "FASTQ files, preprocessing, quality control, adapter trimming, quality filtering, per-read pruning, single-pass scanning, multithreading, C++, I/O efficiency, Trimmomatic, Cutadapt, and runtime comparisons."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A214",
+      "abstract_id": "abs42",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "FASTQ preprocessing; quality control; adapter trimming; per-read filtering; single-pass processing; C++ implementation; multithreading; I/O efficiency; Trimmomatic; Cutadapt"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A215",
+      "abstract_id": "abs42",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "FASTQ files, sequencing quality control, adapter removal, read filtering, per-read trimming, single-pass processing, C++ implementation, parallel execution, I/O performance"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A221",
+      "abstract_id": "abs44",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "biorthogonal Catmull-Clark subdivision wavelet transforms, vertex valences, quadrilateral patches"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A222",
+      "abstract_id": "abs44",
+      "codes": [
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "without specific graduate-level training"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "graduate-level training"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A223",
+      "abstract_id": "abs44",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Catmull Clark subdivision"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A224",
+      "abstract_id": "abs45",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Participatory Design"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A225",
+      "abstract_id": "abs45",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "\"Participatory Design (PD)\", \"deployment of working prototypes\", and \"scaling up\""
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "Terms like \"Participatory Design (PD)\", \"deployment of working prototypes\", and \"scaling up\" are common in advanced research"
+        },
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "A reader without a graduate background might not know what PD actually entails or how it is practiced methodologically."
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "The abstract packs multiple complex ideas into long, continuous sentences"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "graduate background"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A226",
+      "abstract_id": "abs45",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Participatory Design, codesign, partnership with users, researcher activism, democratic control, working prototypes, alliances, scaling up, sociotechnical change."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A227",
+      "abstract_id": "abs45",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Participatory Design"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A228",
+      "abstract_id": "abs45",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Participatory Design, user partnership, researcher activism, democratic control, working prototypes, alliances, scaling up, codesign, and sociotechnical change"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A229",
+      "abstract_id": "abs46",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Ecology of engagement"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "MSC: Ecology of engagement"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A230",
+      "abstract_id": "abs46",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Engagement"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A231",
+      "abstract_id": "abs46",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "User engagement, systematic review, measurement, ecology of engagement, HCI research."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A232",
+      "abstract_id": "abs46",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "User engagement; HCI conceptualization and operationalization; systematic review; corpus of 351 articles and 102 definitions; measurement and theory; ecology of engagement; design strategies."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A233",
+      "abstract_id": "abs47",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "psychophysiological, cultural heritage"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A234",
+      "abstract_id": "abs47",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "The high-level objective is easy to follow"
+        },
+        {
+          "code": "CITED_TERMS",
+          "evidence": "psychology and machine learninע"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "students with basic training in research methods and data analysis"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A235",
+      "abstract_id": "abs47",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Interest as a knowledge emotion"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A236",
+      "abstract_id": "abs48",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Cross linguistic variation, lexical ,TAG"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A237",
+      "abstract_id": "abs48",
+      "codes": [
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "still require knowledge that is higher than you learn BS.c"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "BS.c"
+        },
+        {
+          "code": "CONTEXT_DEPENDENCE",
+          "evidence": "simpler than the previous one"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "This text is simpler"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A238",
+      "abstract_id": "abs48",
+      "codes": [
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "still assumes a lot of prior knowledge"
+        },
+        {
+          "code": "IN_TEXT_EXPLANATIONS",
+          "evidence": "somewhat explains the terminology used"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "MSc and PHD"
+        },
+        {
+          "code": "RATING_BOUNDARY",
+          "evidence": "somewhere between MSc and PHD"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A239",
+      "abstract_id": "abs48",
+      "codes": [
+        {
+          "code": "EXTERNAL_LOOKUP",
+          "evidence": "Google the terms and get some background on it easily"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A240",
+      "abstract_id": "abs49",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Biomolecular interactions, protein-protein/DNA/RNA/sugar/lipid binding, phase-separated condensates, CEBIT, high-throughput screening, drug discovery, p53-MDM2, histone methyltransferase, SUV39H1, and enzyme inhibitors."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A241",
+      "abstract_id": "abs49",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "biomolecular interactions; phase-separated condensates; CEBIT assay; high-throughput screening; p53–MDM2; histone methyltransferase SUV39H1; drug discovery"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A242",
+      "abstract_id": "abs49",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "protein interactions"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A243",
+      "abstract_id": "abs49",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "protein interaction assays; phase-separated condensates; molecular recognition; high-throughput screening; enzyme activity; p53–MDM2; histone methyltransferase; inhibitor discovery"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A244",
+      "abstract_id": "abs49",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "phase separation, biomolecular interactions, condensate recruitment, CEBIT assay, high-throughput screening, p53-MDM2 inhibition, histone methyltransferase, compound library"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A251",
+      "abstract_id": "abs51",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "t-Distributed Stochastic Neighbor Embedding (tSNE)\nProgressive Visual Analytics\ndensity-based solution and a Magic Lens to inspect the degree of approximation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A252",
+      "abstract_id": "abs51",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Dimensionality reduction"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A253",
+      "abstract_id": "abs51",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Dimensionality reduction, tSNE, high-dimensional data, 2D embeddings, approximation, Progressive Visual Analytics."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A254",
+      "abstract_id": "abs51",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Progressive visual analytics; dimensionality reduction; t-SNE; approximate embeddings and speed–accuracy trade-offs; interactive data exploration; local refinement; density-based visualization; Magic Lens; high-dimensional streaming data."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A255",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "general text nothing require knowledge"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A256",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NLP, neural networks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A257",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NLP, database, neural network"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A258",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NLP"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A259",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "NLP, hand-coded rules to neural networks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A260",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "unstructured text,  structured database, NLO, neural networks, hand coded rules"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A261",
+      "abstract_id": "abs52",
+      "codes": [
+        {
+          "code": "NO_CITED_TERMS",
+          "evidence": "None of them"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A266",
+      "abstract_id": "abs54",
+      "codes": [
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "The paragraph is written at simple language"
+        },
+        {
+          "code": "CITED_TERMS",
+          "evidence": "ability,generating"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A267",
+      "abstract_id": "abs54",
+      "codes": [],
+      "quality_flags": [],
+      "no_matching_theme": true,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A268",
+      "abstract_id": "abs54",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "the writer explains it clearly, so no need in any specific high education in order to comprehence the meaning of the paragraph"
+        },
+        {
+          "code": "IN_TEXT_EXPLANATIONS",
+          "evidence": "the writer explains it clearly"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "no need in any specific high education"
+        },
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "The first sentence could be cryptic at start"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A269",
+      "abstract_id": "abs54",
+      "codes": [
+        {
+          "code": "ACCESSIBILITY",
+          "evidence": "The text is just not so hard to understand"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A270",
+      "abstract_id": "abs54",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "advance in NLP, GPT-3 apparently novel text"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A271",
+      "abstract_id": "abs54",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "GPT, mainstream, media, novel text, application"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A272",
+      "abstract_id": "abs55",
+      "codes": [
+        {
+          "code": "WORDING_COMPLEXITY",
+          "evidence": "Long sentences"
+        },
+        {
+          "code": "CITED_TERMS",
+          "evidence": "state of art"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A273",
+      "abstract_id": "abs55",
+      "codes": [
+        {
+          "code": "PRIOR_KNOWLEDGE",
+          "evidence": "It is require some basic knowledge."
+        },
+        {
+          "code": "CITED_TERMS",
+          "evidence": "learning environment, experimental frameworks"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A274",
+      "abstract_id": "abs55",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Theory of mind reasoning, research, open source, experimental framework, research community, algorithmic advance and techniques"
+        },
+        {
+          "code": "SPECIALIZED_LANGUAGE",
+          "evidence": "high education jargon"
+        },
+        {
+          "code": "EDUCATION_ANCHOR",
+          "evidence": "high education"
+        }
+      ],
+      "quality_flags": [
+        {
+          "flag": "UNINTERPRETABLE",
+          "evidence": "not necessarily reason with a high schooler"
+        }
+      ],
+      "no_matching_theme": false,
+      "review_source": "delegated_AI_assistant",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "delegated_assistant_review",
+      "review_group": "targeted_assistant_proposal"
+    },
+    {
+      "annotation_id": "A275",
+      "abstract_id": "abs55",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "state-of-the-art, Go, Atari, and some variants of poker"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A276",
+      "abstract_id": "abs55",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "state of the art, GO, mind reasoning, open source, experimental framework"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A286",
+      "abstract_id": "abs58",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Lactase persistence, lactose digestion, human population variation, monogenic versus polygenic traits, regulatory convergent evolution, gene-culture coevolution, domestication, natural selection, and lactase variants."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A287",
+      "abstract_id": "abs58",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "lactase persistence; lactose digestion; monogenic versus polygenic traits; regulatory evolution; gene–culture coevolution; natural selection; dairying populations"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A288",
+      "abstract_id": "abs58",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "lactase persistence; milk digestion; adaptation to dairying; regulatory variants; convergent evolution; gene–culture coevolution; population variation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A289",
+      "abstract_id": "abs58",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "lactase persistence; population variation; regulatory variants; monogenic versus polygenic traits; natural selection; gene–culture coevolution; convergent adaptation; human population genetics"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A290",
+      "abstract_id": "abs58",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "lactase persistence, regulatory variants, convergent evolution, gene-culture coevolution, monogenic and polygenic architecture, population genetics, natural selection, human adaptation"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A291",
+      "abstract_id": "abs59",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Autosomal-dominant retinitis pigmentosa"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A292",
+      "abstract_id": "abs59",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "autosomal-dominant retinitis pigmentosa; structural variants; iPSCs; retinal organoids; Hi-C; topologically associating domains (TADs); neo-TAD; enhancer hijacking; GDPD1; gain of function"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A293",
+      "abstract_id": "abs59",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "retinitis pigmentosa; structural genomic variants; iPSC-derived retinal models; Hi-C; topological domains; neo-TAD formation; enhancer misregulation; GDPD1; dominant gain of function"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A294",
+      "abstract_id": "abs59",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "structural variants; Mendelian disease genetics; genome sequencing; iPSC-derived retinal organoids; Hi-C contacts; topologically associating domains; enhancer hijacking; neo-TAD formation; gain-of-function mechanism"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "predefined_20_sample"
+    },
+    {
+      "annotation_id": "A295",
+      "abstract_id": "abs59",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "structural variants"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A296",
+      "abstract_id": "abs60",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "fully high-fidelity 3D / 4D organ geometric\n3D / 4D-CT projections or X-ray images\ntrivariate tensor-product deformation technique"
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A297",
+      "abstract_id": "abs60",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Notorious, I. E."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "investigator",
+      "personally_reviewed_by_investigator": true,
+      "human_verification_status": "personally_reviewed",
+      "review_group": "initial_48_sample"
+    },
+    {
+      "annotation_id": "A298",
+      "abstract_id": "abs60",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "Deep neural networks, reconstructing 3D organs from 2D medical images, deformation techniques, 3D/4D models, and real-time medical imaging."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    },
+    {
+      "annotation_id": "A299",
+      "abstract_id": "abs60",
+      "codes": [
+        {
+          "code": "CITED_TERMS",
+          "evidence": "DeepOrganNet; single-view 2D-to-3D/4D reconstruction; deep learning; deformation fields; trivariate tensor-product deformation; latent descriptors; manifold meshes; imaging-dose versus reconstruction-quality trade-off; image-guided radiation therapy."
+        }
+      ],
+      "quality_flags": [],
+      "no_matching_theme": false,
+      "review_source": "not_individually_reviewed",
+      "personally_reviewed_by_investigator": false,
+      "human_verification_status": "pending",
+      "review_group": "confirmatory"
+    }
+  ]
+}

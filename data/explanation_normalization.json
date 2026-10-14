@@ -4714,17 +4714,40 @@
       "issue": "",
       "corrections": [
         {
+          "source_span": "reproducibillity",
+          "replacement": "reproducibility",
+          "kind": "language_edit",
+          "abstract_quote": null,
+          "source_stage": "original",
+          "source_stage_sha256": "cd4e0494a652e9cd46b92f95a02eabde1949352a03ef923b39e95d259b6de69d"
+        },
+        {
+          "source_span": "empircism",
+          "replacement": "empiricism",
+          "kind": "language_edit",
+          "abstract_quote": null,
+          "source_stage": "original",
+          "source_stage_sha256": "cd4e0494a652e9cd46b92f95a02eabde1949352a03ef923b39e95d259b6de69d"
+        },
+        {
           "source_span": "reproducibility, source code sharing, empiricism, acl",
           "replacement": "reproducibility, source code sharing, empiricism, ACL",
           "kind": "language_edit",
-          "abstract_quote": null
+          "abstract_quote": null,
+          "source_stage": "context_reviewed",
+          "source_stage_sha256": "320536ef203327ae83029e61fb2df29c50bf4850d9372f4ae9404334db907fef"
         }
       ],
       "abstract_id": "abs50",
       "split": "test",
       "abstract_sha256": "b2832894d21c19339a54e318e37250521c164c4b025cc10ace8957ec715b015d",
       "original_explanation_sha256": "cd4e0494a652e9cd46b92f95a02eabde1949352a03ef923b39e95d259b6de69d",
-      "human_review_completed": false
+      "human_review_completed": false,
+      "provenance_amendment": {
+        "date": "2026-10-13",
+        "source": "assistant_cleanup_authorized_in_chat",
+        "scope": "Correction-stage attribution only; original and English text unchanged."
+      }
     },
     {
       "annotation_id": "A248",

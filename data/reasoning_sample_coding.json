@@ -2,7 +2,7 @@
   "status": "investigator_approved",
   "codebook_version": "0.3-investigator-approved",
   "method": "AI-drafted, investigator-reviewed with assistant advice; not independent double-human coding.",
-  "confirmatory_verification_completed": false,
+  "confirmatory_verification_completed": true,
   "records": [
     {
       "sample_position": 1,
@@ -608,5 +608,6 @@
       },
       "coding_status": "investigator_approved"
     }
-  ]
+  ],
+  "verification_scope": "20 predefined confirmatory examples personally reviewed; this does not imply all confirmatory records are personally reviewed."
 }

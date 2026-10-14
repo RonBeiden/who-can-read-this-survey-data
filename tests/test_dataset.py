@@ -14,6 +14,34 @@ spec.loader.exec_module(reproduce)
 
 
 class DatasetTests(unittest.TestCase):
+    def test_completed_reasoning_review_and_catalogue_scope(self):
+        coding=json.loads((ROOT/'data/reasoning_coding.json').read_text(encoding='utf-8'))
+        catalogue=json.loads((ROOT/'data/cited_expression_catalogue.json').read_text(encoding='utf-8'))
+        summary=json.loads((ROOT/'results/reasoning_review_summary.json').read_text(encoding='utf-8'))
+        answers={r['annotation_id']:r for r in json.loads((ROOT/'data/annotations.json').read_text(encoding='utf-8'))}
+        abstracts={r['abstract_id']:r for r in reproduce.rows(ROOT/'data/abstracts.csv')}
+        self.assertEqual(len(coding['records']),239)
+        self.assertEqual(sum(r['personally_reviewed_by_investigator'] for r in coding['records']),71)
+        self.assertEqual(summary['predefined_sample_personally_reviewed'],20)
+        self.assertFalse(summary['independent_double_human_coding'])
+        self.assertEqual(len(catalogue['entries']),826)
+        self.assertFalse(catalogue['complete_or_objectively_validated_jargon'])
+        caution=0
+        for record in coding['records']:
+            self.assertEqual(abstracts[record['abstract_id']]['split'],'train')
+            for code in record['codes']+record['quality_flags']:
+                self.assertIn(code['evidence'],answers[record['annotation_id']]['explanation_original'])
+        for entry in catalogue['entries']:
+            self.assertEqual(entry['annotation_count'],len({s['annotation_id'] for s in entry['sources']}))
+            for source in entry['sources']:
+                self.assertTrue(answers[source['annotation_id']]['reasoning_training_candidate'])
+                self.assertIn(source['canonical_english_span'],answers[source['annotation_id']]['explanation_best_english'])
+                if source['context_requires_caution']:
+                    caution+=1
+                    self.assertFalse(source['teacher_guidance_eligible'])
+        self.assertEqual(caution,4)
+        self.assertEqual(len(catalogue['commentary_separated']),88)
+
     def test_best_english_and_training_split(self):
         answers = json.loads((ROOT / 'data/annotations.json').read_text(encoding='utf-8'))
         abstracts = {r['abstract_id']:r for r in reproduce.rows(ROOT / 'data/abstracts.csv')}
@@ -59,7 +87,7 @@ class DatasetTests(unittest.TestCase):
         self.assertEqual(len(book['themes']),11)
         self.assertEqual(book['quality_flags'][0]['id'],'UNINTERPRETABLE')
         self.assertEqual(len(sample['records']),48)
-        self.assertFalse(sample['confirmatory_verification_completed'])
+        self.assertTrue(sample['confirmatory_verification_completed'])
         for r in sample['records']:
             self.assertEqual(abstracts[r['abstract_id']]['split'],'train')
             self.assertTrue(all(s in answers[r['annotation_id']]['explanation_original'] for s in r['source_evidence'].values()))

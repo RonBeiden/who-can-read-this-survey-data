@@ -43,7 +43,13 @@ All CSVs use UTF-8, one header row, and `null` for missing values. JSON uses tru
 
 `data/explanation_normalization.json`: correction ledger, text checksums and review provenance. Investigator review covers 239 development answers, including one approved exclusion; 238 texts are approved for training. Global `human_review_completed` remains false because 60 held-out texts were not investigator-reviewed. `development_review_completed` is true.
 
-`data/reasoning_codebook.json`: investigator-approved definitions for 11 themes and a separate uncertainty flag. `data/reasoning_sample_coding.json`: 48 investigator-approved, AI-drafted development assignments with original evidence spans. Neither file claims independent dual coding or completed confirmatory verification.
+`data/reasoning_codebook.json`: investigator-approved definitions for 11 themes and a separate uncertainty flag. `data/reasoning_sample_coding.json`: 48 investigator-approved, AI-drafted development assignments with original evidence spans. The 20-example confirmatory verification is complete; neither file claims independent dual coding.
+
+`data/reasoning_coding.json`: codes and literal original evidence for all 239 development answers. `review_source`, `personally_reviewed_by_investigator`, and `human_verification_status` distinguish personal review, delegated assistant review and records not individually reviewed. Coding does not change ratings or resolve ambiguous text.
+
+`data/cited_expression_catalogue.json`: development-only cited expressions and their anonymous source answer IDs. `classification` explicitly does not assert objective jargon. `abstract_match_kind` distinguishes literal/format-equivalent matches from nonliteral respondent concepts. `context_requires_caution` flags unconfirmed terminology; `teacher_guidance_eligible` is false for those source mentions. `citation_type` identifies explicitly reviewed ordinary words/idioms where applicable, otherwise it remains unclassified. `commentary_separated` preserves excluded commentary and absent-context examples, with reasons. Counts deduplicate each answer within a group. Join source IDs to annotations and abstracts for full text.
+
+`results/reasoning_review_summary.json`: review scope and actual provenance counts; no private paths or participant identifiers.
 
 `baselines/readability_scores.csv`: six uncalibrated formula scores, sentence count and SMOG warning.
 `baselines/calibration/*.json`: development-fitted tree parameters.

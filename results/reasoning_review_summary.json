@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "investigator_decisions_imported": 24,
+  "predefined_sample_personally_reviewed": 20,
+  "human_manual_verification_completed": true,
+  "total_personally_reviewed_coding_examples": 71,
+  "coding_review_sources": {
+    "not_individually_reviewed": 157,
+    "investigator": 71,
+    "delegated_AI_assistant": 11
+  },
+  "independent_double_human_coding": false,
+  "catalogue_groups_after": 826,
+  "commentary_source_occurrences_separated": 88,
+  "context_unconfirmed_source_occurrences": 4,
+  "approved_development_explanations": 238,
+  "excluded_development_explanations": 1,
+  "test_explanations_excluded": 60,
+  "original_ratings_and_explanations_unchanged": true,
+  "teacher_or_student_trained": false,
+  "version": "1.3.0",
+  "review_method": "AI-assisted coding and language standardization, investigator review, and explicitly authorized assistant contextual catalogue cleanup. Not independent dual-human coding.",
+  "catalogue_complete_or_objective_jargon": false,
+  "normalization_provenance_amendment": "A247 correction-stage attribution repaired; explanation text unchanged."
+}
