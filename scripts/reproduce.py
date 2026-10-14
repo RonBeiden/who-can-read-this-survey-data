@@ -130,8 +130,17 @@ def compute(root=ROOT):
 
 
 if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--output', type=Path, default=ROOT / 'outputs/reproduction')
+    args = parser.parse_args()
+    output = args.output.resolve()
+    if output == ROOT.resolve() or (
+        ROOT.resolve() in output.parents and output.relative_to(ROOT.resolve()).parts[0] != 'outputs'
+    ):
+        parser.error('Use ignored outputs/ or a directory outside the release repository')
     results, correlations, alpha = compute()
-    output = ROOT / 'results'
+    output.mkdir(parents=True, exist_ok=True)
     for name, records in [('baseline_comparison.csv', results), ('readability_correlations.csv', correlations)]:
         with (output / name).open('w', encoding='utf-8', newline='') as stream:
             writer = csv.DictWriter(stream, fieldnames=list(records[0]))

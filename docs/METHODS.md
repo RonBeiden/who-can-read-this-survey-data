@@ -16,3 +16,12 @@
 - Correction provenance: A247's capitalization edit references the context-reviewed intermediate stage; the preceding spelling corrections bind to the original text. This repairs lineage without changing the English target or any rating.
 
 This small, expert-rated benchmark is not a population-representative survey or a measure of an individual's literacy. Qualifications are self-reported; credentials and distinct real-world identities were not independently verified.
+
+Version 1.3.1 is repository cleanup only. `results/baseline_comparison.csv` is
+the single canonical comparison table, including the majority baseline; the
+duplicate `baselines/heldout_comparison.csv` was removed. Reproduction writes to
+ignored `outputs/reproduction/` by default (or `--output DIRECTORY`) and does not
+modify released data/results or invalidate their manifest. Annotation content,
+review provenance, splits and numerical results are unchanged. Coding and the
+cited-expression catalogue are optional descriptive analyses, not prerequisites
+for using the human ratings or normalized explanation targets.

@@ -5,7 +5,7 @@ title: "Who Can Read This? Scientific Abstract Jargon Survey Dataset"
 authors:
   - family-names: Beiden
     given-names: Ron
-version: 1.3.0
+version: 1.3.1
 date-released: 2026-10-14
 url: "https://github.com/RonBeiden/who-can-read-this-survey-data"
 license: CC-BY-4.0

@@ -15,7 +15,7 @@ def validate(seal=False):
     files = []
     for path in ROOT.rglob('*'):
         relative = path.relative_to(ROOT)
-        if path.is_dir() or any(part in {'.git', '__pycache__', '.pytest_cache'} for part in relative.parts):
+        if path.is_dir() or relative.parts[0] == 'outputs' or any(part in {'.git', '__pycache__', '.pytest_cache'} for part in relative.parts):
             continue
         if path == MANIFEST:
             continue

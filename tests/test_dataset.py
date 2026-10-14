@@ -5,6 +5,9 @@ import json
 import math
 from pathlib import Path
 import re
+import subprocess
+import sys
+import tempfile
 import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -14,6 +17,24 @@ spec.loader.exec_module(reproduce)
 
 
 class DatasetTests(unittest.TestCase):
+    def test_reproduction_preserves_release_and_rejects_protected_output(self):
+        files = [p for folder in ['data', 'baselines', 'results'] for p in (ROOT / folder).rglob('*') if p.is_file()]
+        before = {p: hashlib.sha256(p.read_bytes()).hexdigest() for p in files}
+        with tempfile.TemporaryDirectory() as destination:
+            run = subprocess.run([sys.executable, str(ROOT / 'scripts/reproduce.py'), '--output', destination],
+                                 capture_output=True, text=True, check=True)
+            self.assertEqual(json.loads(run.stdout)['test_abstracts'], 12)
+            regenerated = {r['method']: r for r in reproduce.rows(Path(destination) / 'baseline_comparison.csv')}
+            frozen = reproduce.rows(ROOT / 'results/baseline_comparison.csv')
+            self.assertEqual(len(frozen), len(regenerated))
+            for row in frozen:
+                for metric in ['n', 'accuracy', 'macro_f1', 'weighted_kappa', 'mean_absolute_level_error']:
+                    self.assertAlmostEqual(float(row[metric]), float(regenerated[row['method']][metric]))
+        blocked = subprocess.run([sys.executable, str(ROOT / 'scripts/reproduce.py'), '--output', str(ROOT / 'results')],
+                                 capture_output=True, text=True)
+        self.assertNotEqual(blocked.returncode, 0)
+        self.assertEqual(before, {p: hashlib.sha256(p.read_bytes()).hexdigest() for p in files})
+
     def test_completed_reasoning_review_and_catalogue_scope(self):
         coding=json.loads((ROOT/'data/reasoning_coding.json').read_text(encoding='utf-8'))
         catalogue=json.loads((ROOT/'data/cited_expression_catalogue.json').read_text(encoding='utf-8'))
@@ -131,7 +152,7 @@ class DatasetTests(unittest.TestCase):
 
     def test_baseline_and_agreement_reproduction(self):
         results, _, alpha = reproduce.compute()
-        frozen = {r['method']: r for r in reproduce.rows(ROOT / 'baselines/heldout_comparison.csv')}
+        frozen = {r['method']: r for r in reproduce.rows(ROOT / 'results/baseline_comparison.csv')}
         for result in results[:-1]:
             for metric in ['n', 'accuracy', 'macro_f1', 'weighted_kappa', 'mean_absolute_level_error']:
                 self.assertAlmostEqual(result[metric], float(frozen[result['method']][metric]))
